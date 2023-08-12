@@ -1,6 +1,11 @@
 ---
-title: "Upcoming Activities"
-description: "Upcoming Activities at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "Past Activities"
+description: "Past Activities at the Students' Math Club at Indian Statistical Institute, Bangalore."
+
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
 ---
 
 Hello

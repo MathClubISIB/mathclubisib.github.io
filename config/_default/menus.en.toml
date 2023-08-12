@@ -17,13 +17,13 @@
 [[main]]
 name = "Expository Talks (New!)"
 parent = "Upcoming Activities"
-pageRef = "upcoming_activities"
+pageRef = "upcoming_activities/expository_talks"
 weight = 20
 
 [[main]]
 name = "News and Events"
 parent = "Upcoming Activities"
-pageRef = "upcoming_activities"
+pageRef = "upcoming_activities/news_and_events"
 weight = 20
 
 [[main]]
@@ -53,7 +53,7 @@ weight = 20
 [[main]]
 name = "Additional References"
 parent = "Resources"
-pageRef = "resources"
+pageRef = "resources/additional_resources"
 weight = 20
 
 [[main]]
@@ -71,7 +71,7 @@ weight = 20
 [[main]]
 name = "Articles"
 parent = "Resources"
-pageRef = "resources"
+pageRef = "resources/archived_articles"
 weight = 20
 
 [[main]]
@@ -134,3 +134,8 @@ weight = 20
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+name = "Mailing List"
+url = "https://forms.gle/13cXVcVySETrEv8W7"
+weight = 20
