@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["news"]
 # robots = ""
 
 disableImageOptimization = false
@@ -25,7 +25,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [header]
-layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
 showMenu = true
@@ -40,9 +40,9 @@ layout = "background" # valid options: page, profile, hero, card, background, cu
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
-showMoreLinkDest = "/posts"
-cardView = true
-cardViewScreenWidth = true
+showMoreLinkDest = "posts"
+cardView = false
+cardViewScreenWidth = false
 layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
@@ -52,7 +52,7 @@ showLikes = false
 showDateUpdated = false
 showAuthor = true
 showHero = false
-# heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "background"           # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showBreadcrumbs = false
@@ -65,7 +65,7 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 # showRelatedContent = false
 # relatedContentLimit = 3
 showTaxonomies = false
@@ -86,14 +86,14 @@ sharingLinks = [
 
 [list]
 showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "background"           # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 groupByYear = true
 cardView = false
@@ -106,7 +106,7 @@ excludedKinds = ["taxonomy", "term"]
 [taxonomy]
 showTermCount = true
 showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
 showViews = false
 showLikes = false
@@ -115,7 +115,7 @@ cardView = false
 
 [term]
 showHero = false
-# heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
 showViews = false
 showLikes = false

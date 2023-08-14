@@ -1,6 +1,8 @@
 ---
 title: "Upcoming Activities"
 description: "Upcoming Activities at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Upcoming Activities at the Students' Math Club at Indian Statistical Institute, Bangalore."
+# series: "upcoming-activities"
 
 cascade:
   showDate: false
