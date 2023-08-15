@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Math Club, ISI Bangalore"
-description: "This is the (new!) official website of the Students' Math Club at Indian Statistical Institute, Bangalore."
+description: "Updates on mathematical activities at Indian Statistical Institute, Bangalore"
 ---
 
 > There is no royal road to mathematics.
@@ -17,9 +17,9 @@ Discover valuable resources for math enthusiasts in the dedicated section—lect
 
 Expect weekly problems and engaging activities with support from our vibrant student community—let's make this club thrive!
 
-Stay updated with the News & Events segment and join the mailing list for talk/event reminders and important website updates.
+Stay updated with the News & Events segment and join the [mailing list](https://forms.gle/13cXVcVySETrEv8W7) for talk/event reminders and important website updates.
 
-Anticipate more as we evolve. Share your suggestions via mathclub.isibang@gmail.com
+Anticipate more as we evolve. Share your suggestions via mathclub.isibang@gmail.com.
 
 Best regards,  
 [Math Club, ISI Bangalore](/)

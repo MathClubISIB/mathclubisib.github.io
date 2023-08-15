@@ -10,9 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-# [[main]]
-# name = "Upcoming Activities"
-# weight = 20
+[[main]]
+name = "Upcoming Activities"
+pageRef = "upcoming_activities"
+weight = 20
 
 [[main]]
 name = "Expository Talks (New!)"
@@ -24,6 +25,11 @@ weight = 20
 name = "News and Events"
 parent = "Upcoming Activities"
 pageRef = "upcoming_activities/news_and_events"
+weight = 20
+
+[[main]]
+name = "Participate"
+pageRef = "participate"
 weight = 20
 
 [[main]]
@@ -51,6 +57,11 @@ pageRef = "participate"
 weight = 20
 
 [[main]]
+name = "Resources"
+pageRef = "resources"
+weight = 20
+
+[[main]]
 name = "Additional References"
 parent = "Resources"
 pageRef = "resources/additional_resources"
@@ -59,19 +70,24 @@ weight = 20
 [[main]]
 name = "Some Fun Puzzles"
 parent = "Resources"
-pageRef = "resources"
+pageRef = "resources/fun_puzzles"
 weight = 20
 
 [[main]]
 name = "General Problems"
 parent = "Resources"
-pageRef = "resources"
+pageRef = "resources/general_problems"
 weight = 20
 
 [[main]]
 name = "Articles"
 parent = "Resources"
 pageRef = "resources/archived_articles"
+weight = 20
+
+[[main]]
+name = "Past Activities"
+pageRef = "past_activities"
 weight = 20
 
 [[main]]

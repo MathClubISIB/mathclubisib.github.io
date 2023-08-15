@@ -16,8 +16,8 @@ copyright = "&copy; Math Club, [ISI Bangalore](https://www.isibang.ac.in/~statma
 [author]
 name = "Math Club, ISI Bangalore"
 # image = "img/blowfish_logo.png"
-# headline = "I'm only human"
-# bio = "A little bit about you"
+headline = "Updates on mathematical activities at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/~statmath/)"
+bio = "Updates on mathematical activities at ISI Bangalore"
 links = [
   { email = "mailto:mathclub.isibang@gmail.com" },
   { link = "https://sites.google.com/view/mathclubisibang" },
