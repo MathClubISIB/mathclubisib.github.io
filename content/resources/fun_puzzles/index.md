@@ -1,7 +1,8 @@
 ---
 title: "Some Fun Puzzles"
-description: "Some Fun Puzzles the Students of Indian Statistical Institute, Bangalore."
-summary: "Some Fun Puzzles the Students of Indian Statistical Institute, Bangalore."
+description: "Some Fun Puzzles by the Students of Indian Statistical Institute, Bangalore."
+summary: "Some Fun Puzzles by the Students of Indian Statistical Institute, Bangalore."
+date: "15 August, 2023"
 ---
 
 {{< katex >}}

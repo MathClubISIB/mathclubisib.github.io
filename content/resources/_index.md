@@ -9,6 +9,3 @@ cascade:
 ---
 
 This page contains links to different types of additional resources available on the Maths Club website. These include
-
-<!-- Articles/Notes (Mainly by Students)
-Additional References and Books (as recommended by Professors and RS) -->

@@ -19,6 +19,7 @@
 node_modules
 .hugo_build.lock
 public/
+/resources
 
 # OS generated files
 .DS_Store

@@ -33,9 +33,9 @@ pageRef = "participate"
 weight = 20
 
 [[main]]
-name = "Submit Question"
+name = "Submit Problem"
 parent = "Participate"
-pageRef = "participate/submit_question"
+pageRef = "participate/submit_problem"
 weight = 20
 
 [[main]]
