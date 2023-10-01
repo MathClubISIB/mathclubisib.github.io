@@ -8,4 +8,4 @@ cascade:
   invertPagination: true
 ---
 
-This page contains links to different types of additional resources available on the Maths Club website. These include
+This page contains links to different types of additional resources available on the Math Club website. These include
