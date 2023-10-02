@@ -5,11 +5,11 @@ description: "General Problems suggested by the Students, Research Scholars and 
 
 {{< katex >}}
 
-On this page, we will be posting some general problems. You are encouraged to solve them and send your solutions (preferably \\(\LaTeX\\)ed or typed) to mathclub.isibang@gmail.com. There is no particular deadline before which you are expected to submit your solutions. A few well-written and nice solutions will be posted up for everyone to see. Happy solving!
+On this page, we will be posting some general problems. You are encouraged to solve them and send your solutions (preferably \\(\LaTeX\\)ed or typed) to <mathclub.isibang@gmail.com>. There is no particular deadline before which you are expected to submit your solutions. A few well-written and nice solutions will be posted up for everyone to see. Happy solving!
 
 ## A Puzzle to Puzzle You
 
-[Here](https://drive.google.com/file/d/17QCZ3J_2xYFeiBIabEoXLMFroJQcXorf/view) is a problem posed by Snehinh Sen, a past student of B.Math.
+[Here](/pdfs/gen_prob/a_puzzle_to_puzzle_you.pdf) is a problem posed by Snehinh Sen, a past student of B.Math.
 
 ## An Amusing Integral
 
@@ -56,7 +56,7 @@ But no quasi-perfect numbers have been found so far... want to try and show some
 > Identify the pattern and find the sum
 > $$ \frac 17 - \frac 19 + \frac 1{15} - \frac 1{17} + \frac 1{23} - \frac 1{25} + \dots $$
 
-(Thanks to Prof. B. Sury for sharing this problem)
+(Thanks to [Prof. B. Sury](https://www.isibang.ac.in/~sury/) for sharing this problem)
 
 ## A (Very) Long Identity
 

@@ -19,7 +19,7 @@ name = "Math Club, ISI Bangalore"
 headline = "Updates on mathematical activities at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/~statmath/)"
 bio = "Updates on mathematical activities at ISI Bangalore"
 links = [
-  { email = "mailto:mathclub.isibang@gmail.com" },
+  { envelope = "mailto:mathclub.isibang@gmail.com" },
   { link = "https://sites.google.com/view/mathclubisibang" },
   #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #     { apple = "https://www.apple.com" },
@@ -59,6 +59,6 @@ links = [
   #     { twitch = "https://twitch.tv/username" },
   #     { twitter = "https://twitter.com/username" },
   #     { whatsapp = "https://wa.me/phone-number" },
-  { youtube = "https://youtube.com/@mathclubisib" },
+  { youtube = "https://youtube.com/@MathClubISIB" },
   #     { ko-fi = "https://ko-fi.com/username" },
 ]

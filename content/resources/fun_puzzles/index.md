@@ -2,7 +2,6 @@
 title: "Some Fun Puzzles"
 description: "Some Fun Puzzles by the Students of Indian Statistical Institute, Bangalore."
 summary: "Some Fun Puzzles by the Students of Indian Statistical Institute, Bangalore."
-date: "15 August, 2023"
 ---
 
 {{< katex >}}
@@ -15,7 +14,7 @@ Consider Kaju Barfis in shape of rhombus of side length 1 completely filling a r
 
 Prove the following:
 
-> $$ \textit{In any packing, there are an equal number of Kaju Barfis with each orientation.} $$
+> In any packing, there are an equal number of Kaju Barfis with each orientation.
 
 <details>
   <summary><b>Hint</b></summary>
@@ -71,7 +70,7 @@ Here is the first crossword puzzle. Thanks to [Prof. B. Sury](https://www.isiban
 5. The least upper bound may not be attained but briefly (3).
 6. If not General Motors, it is \\(\sqrt{ab}\\) (2).
 7. And so on ? (3).
-8. \\(a,a+b,a+2b, \dots \\) (2).
+8. \\(a, a+b, a+2b, \dots \\) (2).
 9. Cartoon character makes a point (3).
 10. A couple of egotists could make a cricket team (2).
 11. Follows from the theorem – at least in the beginning (3).

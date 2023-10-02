@@ -41,19 +41,19 @@ weight = 20
 [[main]]
 name = "Submit Articles"
 parent = "Participate"
-pageRef = "participate"
+pageRef = "participate/submit_articles_and_notes"
 weight = 20
 
 [[main]]
 name = "Present Talks"
 parent = "Participate"
-pageRef = "participate"
+pageRef = "participate/present_talks"
 weight = 20
 
 [[main]]
 name = "Submit Doubts"
 parent = "Participate"
-pageRef = "participate"
+pageRef = "participate/submit_doubts"
 weight = 20
 
 [[main]]
