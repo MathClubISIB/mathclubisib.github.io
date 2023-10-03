@@ -12,7 +12,7 @@ cascade:
 
 This a theorem which we claimed recently. The **only if** part is obvious, can you help us prove the **if** part?
 
-> \\(\textit{Theorem.}\\) The math club will grow and bloom if and only if the students of ISIB participate actively.
+> \\(\textsf{Theorem.}\\) The math club will grow and bloom if and only if the students of ISIB participate actively.
 
 You can contribute to the club in the following ways (This list will keep on increasing with more participation)
 

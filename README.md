@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Installation: https://gohugo.io/installation/
+- Install Hugo: https://gohugo.io/installation/
 - Clone the repo
   ```bash
   git clone --recurse-submodules git@github.com:mathclubisib/mathclubisib.github.io

@@ -146,12 +146,17 @@ weight = 20
 #   pageRef = "tags"
 #   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+name = "Participate"
+pageRef = "participate"
+weight = 2
+
+[[footer]]
+name = "Events"
+pageRef = "news_and_events"
+weight = 3
 
 [[footer]]
 name = "Mailing List"
 url = "https://forms.gle/13cXVcVySETrEv8W7"
-weight = 20
+weight = 1
