@@ -8,4 +8,4 @@ cascade:
   invertPagination: true
 ---
 
-Hello
+This page contains the past activities of the club. You can find them using the links below.

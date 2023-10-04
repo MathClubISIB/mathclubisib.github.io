@@ -93,7 +93,7 @@ weight = 20
 [[main]]
 name = "Foundational Courses"
 parent = "Past Activities"
-pageRef = "past_activities"
+pageRef = "past_activities/foundational_courses"
 weight = 20
 
 [[main]]
@@ -111,7 +111,7 @@ weight = 20
 [[main]]
 name = "UDGRP"
 parent = "Past Activities"
-pageRef = "past_activities"
+pageRef = "udgrp"
 weight = 20
 
 #[[subnavigation]]
