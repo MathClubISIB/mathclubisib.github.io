@@ -99,7 +99,7 @@ weight = 20
 [[main]]
 name = "Lecture Series"
 parent = "Past Activities"
-pageRef = "past_activities"
+pageRef = "past_activities/lecture_series"
 weight = 20
 
 [[main]]
@@ -112,6 +112,12 @@ weight = 20
 name = "UDGRP"
 parent = "Past Activities"
 pageRef = "udgrp"
+weight = 20
+
+[[main]]
+name = "WRP"
+parent = "Past Activities"
+pageRef = "wrp"
 weight = 20
 
 #[[subnavigation]]

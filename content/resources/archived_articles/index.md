@@ -11,7 +11,7 @@ This page contains links to articles written by students (mainly undergraduates 
 
 ## Probability and Group Theory: Computing Commuting Probabilities
 
-The following article has been author by Snehinh Sen, a student of B.Math 2nd Year.
+The following article has been author by Snehinh Sen, a student of B. Math 2nd Year.
 
 - **Title:** Probability and Group Theory: Computing Commuting Probabilities
 - **Authors:** Snehinh Sen
@@ -20,7 +20,7 @@ The following article has been author by Snehinh Sen, a student of B.Math 2nd Ye
 
 ## Generalized twisted centralizer codes
 
-The following article has been co-authored by Shyambhu Mukherjee (B.Math student).
+The following article has been co-authored by Shyambhu Mukherjee (B. Math student).
 
 - **Title:** On decoding procedures of intertwining codes
 - **Authors:** Shyambhu Mukherjee, Joydeb Pal, Satya Bagchi
@@ -29,7 +29,7 @@ The following article has been co-authored by Shyambhu Mukherjee (B.Math student
 
 ## On decoding procedures of intertwining codes
 
-The following article has been co-authored by Shyambhu Mukherjee (B.Math student).
+The following article has been co-authored by Shyambhu Mukherjee (B. Math student).
 
 - **Title:** On decoding procedures of intertwining codes
 - **Authors:** Shyambhu Mukherjee, Joydeb Pal, Satya Bagchi
@@ -38,7 +38,7 @@ The following article has been co-authored by Shyambhu Mukherjee (B.Math student
 
 ## Stock Price Movement Prediction using Attention-Based Neural Network Framework
 
-The following article has been co-authored by Soumyabrata Kundu (B.Math student).
+The following article has been co-authored by Soumyabrata Kundu (B. Math student).
 
 - **Title:** Stock Price Movement Prediction using Attention-Based Neural Network Framework
 - **Authors:** Kartik Goyal, Nitin Bansal, Soumyabrata Kundu, Ayan Kundu, Nitish Jain
@@ -50,7 +50,7 @@ The following article has been co-authored by Soumyabrata Kundu (B.Math student)
 
 ## Points at Which Continuous Functions Have the Same Height
 
-The following article, by Parth Prashant Karnawat (B.Math student) solves an interesting problem which was posed by Prof. B. V. Rajarama Bhat in one of his classes.
+The following article, by Parth Prashant Karnawat (B. Math student) solves an interesting problem which was posed by Prof. B. V. Rajarama Bhat in one of his classes.
 
 - **Title:** Points at Which Continuous Functions Have the Same Height
 - **Authors:** Parth Prashant Karnawat

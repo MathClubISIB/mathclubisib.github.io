@@ -44,7 +44,7 @@ A measure is a generalization of geometrical measurements (length, area, volume)
 - **Group Leaders:**
   - Aprameya Girish Hebbar (B3)
   - Sanchayan Bhowal (B3)
-  - Sarvesh Iyer (RS)
+  - Sarvesh Ravichandran Iyer (RS)
 - **Topics Covered:**
   - Elementary and Jordan measure.
   - Lebesgue measure and its properties.
@@ -104,9 +104,8 @@ The prototypical example of a group is \\( \textsf{Aut}(X) \\), where \\(X\\) is
 
 The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
-Varun Balasubramanian
-
-Ishaan Bhadoo
+- Varun Balasubramanian (B2)
+- Ishaan Bhadoo (B2)
 
 The project is officially completed.
 

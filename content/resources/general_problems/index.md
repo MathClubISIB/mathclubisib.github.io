@@ -9,11 +9,11 @@ On this page, we will be posting some general problems. You are encouraged to so
 
 ## A Puzzle to Puzzle You
 
-[Here](/pdfs/gen_prob/a_puzzle_to_puzzle_you.pdf) is a problem posed by Snehinh Sen, a past student of B.Math.
+[Here](/pdfs/gen_prob/a_puzzle_to_puzzle_you.pdf) is a problem posed by Snehinh Sen, a past student of B. Math.
 
 ## An Amusing Integral
 
-This wonderful problem has been posed by Rohan P. Shinde, a past student of B.Math. Try it out!
+This wonderful problem has been posed by Rohan P. Shinde, a past student of B. Math. Try it out!
 
 > Let \\(n,k \in \mathbb N\\) be such that \\(2p \not\equiv 0 (\text{mod } 2k+1)\\) for each \\(p = 1, 2, \dots, n\\). Then is the following true?
 > $$ \int_0^\pi \Big[\sin{\left(a + \sin{((2k+1)x)}\right)} \Big]^{2n} {\rm d}x $$
@@ -101,7 +101,7 @@ But no quasi-perfect numbers have been found so far... want to try and show some
 > 1. What is the probability that the last person gets his/her reserved seat?
 > 2. What is the probability that the 25th person gets his/her reserved seat?
 
-(Thanks to Suvadip Sana (a B.Math passout) for suggesting the problem.)
+(Thanks to Suvadip Sana (a B. Math passout) for suggesting the problem.)
 
 ## Random Walk on \\(4-\\)tree graph
 
