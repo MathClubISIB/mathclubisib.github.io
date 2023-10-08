@@ -1,0 +1,8 @@
+{
+  "Inline Math": {
+    "prefix": ["im", "\\(", "@$"],
+    "body": ["\\($1\\)$2"],
+    "description": "Inline Math Shortcut for \\(\\)",
+    "scope": "md"
+  }
+}
