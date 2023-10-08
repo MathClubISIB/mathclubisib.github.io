@@ -12,6 +12,8 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Speaker:** Ishaan Bhadoo (B. Math, 2024)
 - **Abstract:** Percolation models were initially introduced by Broadbent and Hammersley in 1956. One specific area of importance is Bernoulli percolation, a process that involves tossing a biased coin (say, \\(\textsf{Ber}(p)\\)) for each edge of a graph and removing edges if the outcome is tails. When we execute such a process on an infinite graph, many natural questions arise. For instance, one may inquire about the values of \\(p\\) for which we are guaranteed to have an infinite connected component in the graph. Although these processes were traditionally studied on Euclidean lattices, substantial progress has also been made in comprehending percolation in general settings with different background geometries.  
   Many questions related to percolation on general graphs were initially introduced in the highly celebrated paper by Benjamini and Schramm, aptly titled "Percolation Beyond \\(\mathbb{Z}^d\\), Many Questions And a Few Answers." In our talk, we will present numerous classical results uncovered by Benjamini, Schramm, and their co-authors in the 1990s. We will then shift our focus to the recent advances in the field by Tom Hutchcroft and co-authors, which address many questions originally raised by Benjamini and Schramm. In particular, we will discuss the uniqueness and non-uniqueness phases of transitive graphs. We will then divert our attention to critical percolation and discuss Hutchcroft's amazing new proof, demonstrating that percolation dies at criticality for graphs exhibiting exponential growth.
+- **Notes:** [Notes by Ishaan Bhadoo](https://drive.google.com/file/d/1pldgkxBYNkibH5QOASASvixz1ciyYAKk/view)  
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=ooXLCTn-qss).
 - **Date and time:** Sunday, 8th October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
@@ -20,9 +22,11 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Speaker:** Amit Kumar Basistha (B. Math, 2025)
 - **Abstract:** The Prime Number Theorem (PNT) is a fundamental result in number theory that describes the distribution of prime numbers. The PNT has been studied extensively and has numerous proofs, many involving Complex Analysis and the behavior of the Riemann Zeta function. The main goal of this talk will be to present a proof of the theorem. While doing so we will also explore the beautiful world of analytic continuation of functions in the complex plane, particularly of the Gamma and Zeta function. We will also discuss the growth and behavior of the Zeta function near the line \\(\textsf{Re}(s)=1\\).Through the talk we will try to convey the idea how two seemingly unrelated areas of mathematics: Number Theory which is discrete at its heart and Complex Analysis can come together to give such powerful results.
 - **References:**
-  - _Complex Analysis_ -- Elias M. Stein & Rami Shakarchi
+  - [_Complex Analysis_](https://web.archive.org/https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf) -- Elias M. Stein & Rami Shakarchi
   - _An Introduction to Analytic Number Theory_ -- Tom M. Apostol
   - _A Primer of Analytic Number Theory: From Pythagoras to Riemann_ -- Jeffrey Stopple
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=GRr6yUCfCmI).
 - **Date and time:** Saturday, 7th October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
@@ -38,6 +42,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Speaker:** Sanchayan Bhowal (M. Math, 2025)
 - **Abstract:** Spin glass models are a fundamental class of models extensively studied in statistical physics. The celebrated Ising model and its generalization, the Potts model, are classical examples of the same. In this talk, we introduce a further generalization involving the concept of peer interactions, called the tensor Curie Weiss model. Much like the other spin glass systems, it exhibits phase transition. We will then derive the limiting distribution of the maximum likelihood estimates of the parameters and the magnetization vector. We will describe the limiting distribution for a certain subset of the parameter space. If time permits, we would extend our analysis to the remaining space. This talk will primarily be based on the paper <https://arxiv.org/abs/2307.01052>.
 - **Pre-requisites:** Familiarity with MLEs and convergence laws in probability is recommended.
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=XxchJRrzAQ0).
 - **Date and time:** Sunday, 1st October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
@@ -49,6 +54,8 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **References:**
   - [_Random Graphs and Complex Networks, Volume I_](https://www.win.tue.nl/~rhofstad/NotesRGCN.pdf) -- Remco van der Hofstad
   - [_The Random Walk Construction of Uniform Spanning Trees and Uniform Labelled Trees_](https://www.cs.cmu.edu/~15859n/RelatedWork/AldousRandomTrees.pdf) -- David J Aldous
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=gvAeTNCKMW0).
 - **Date and time:** Saturday, 30th September 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
@@ -60,6 +67,8 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **References:**
   - Most of the material on Branching Random Walks and Gaussian Free Fields is covered in the [lecture notes](https://www.wisdom.weizmann.ac.il/~zeitouni/pdf/notesBRW.pdf).
   - [Talk by Ofer Zeitouni at ICTS](https://youtu.be/zoMA65FTcmw): This covers most of the materials on models based on Random Matrices and the Riemann Zeta function. Zeitouni also suggests many references in this talk.
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=mx8sSpEffcg).
 - **Date and time:** Sunday, 3rd September 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
@@ -69,7 +78,9 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Abstract:** Standing at the end of a long corridor, the parallel lines seem to go somewhere... and meet? Euclidean geometry doesn't allow this... but what if we did? Further, what if we dismissed concrete notions of lengths and angles? Projective geometry studies geometric properties that are invariant under projective transformations. Math jargon aside, this means that we "see" objects from a different "perspective" / "point of view". We shall understand the nature of these transformations and build familiarity with cross-ratios, leading to a proof of Pascal's theorem. If time permits, we shall also look at parallel and central projections.
 - **References:**
   - _Geometric Transformation III_ -- I. M. Yaglom
-  - _Projective Geometry_ -- Milivoje Lukić (IMO Compendium)
+  - [_Projective Geometry_](https://www.imomath.com/index.cgi?page=projectiveGeometry) -- Milivoje Lukić (IMO Compendium)
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=O7vKHEY5HJ4).
 - **Date and time:** Saturday, 2nd September 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
@@ -79,6 +90,8 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Abstract:** Every Euclidean domain is a Principal Ideal domain but not the other way round. A classic counterexample is \\(\mathbb{Z}\left[ \frac{1+\sqrt{-19}}2 \right]\\). Are there more? If so, how are they similar? The talk shall mainly introduce what class numbers are and how they help in determining whether the ring of integers of a number field is a PID, along with a general flow leading to the generalized Riemann Hypothesis (where there are numbers, there is the Riemann Hypothesis!).
 - **References:**
   - _Algebraic Number Theory_ -- Richard A. Mollin
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=yYhEM8Bd9js).
 - **Date and time:** Saturday, 19th August 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
@@ -96,8 +109,10 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Abstract:** We introduce and motivate hyperbolic geometry as a Riemannian geometry in 2 dimensions. We then discuss the group of orientation preserving isometries, \\(PSL_2(\mathbb{R})\\). This leads naturally to Fuchsian groups, interesting objects in their own right. We finish by discussing some elementary results on surfaces.
 - **References:**
   - _Fuchsian Groups_ -- Svetlana Katok
-  - _A primer on mapping class groups_ -- Farb & Margalit
-  - _Teichmüller Theory Volume 1_ -- John Hubbard
+  - [_A primer on mapping class groups_](https://web.archive.org/http://euclid.nmu.edu/~joshthom/Teaching/MA589/farbmarg.pdf) -- Farb & Margalit
+  - _Teichmüller Theory Volume 1_-- John Hubbard
   - _3-dimensional geometry and topology_ -- William Thurston
+
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=VWTdBFcM8TI).
 - **Date and time:** Saturday, 12th August 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
