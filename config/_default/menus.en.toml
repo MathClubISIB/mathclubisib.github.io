@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -105,7 +105,7 @@ weight = 20
 [[main]]
 name = "Expository Talks"
 parent = "Past Activities"
-pageRef = "past_activities"
+pageRef = "past_activities/expository_talks"
 weight = 20
 
 [[main]]
@@ -141,11 +141,9 @@ weight = 20
 #  pageRef = "tags"
 #  weight = 30
 
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
 # [[footer]]
 #   name = "Tags"

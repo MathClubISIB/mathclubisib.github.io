@@ -18,11 +18,12 @@
       if (texSource)
       {
         element.replaceWith(texSource)
-        texSource.innerHTML = '$' + texSource.innerHTML + '$'
+        texSource.innerHTML = '\\(' + texSource.innerHTML + '\\)'
       }
     })
     fragment.querySelectorAll('.katex-display annotation').forEach(function (element) {
-      element.innerHTML = '$' + element.innerHTML + '$'
+      let strLength = element.innerHTML.length
+      element.innerHTML = '$$' + element.innerHTML.slice(2, strLength - 2) + '$$'
     })
     event.clipboardData.setData('text/plain', fragment.textContent)
     event.clipboardData.setData('text/html', selection.getRangeAt(0).cloneContents())

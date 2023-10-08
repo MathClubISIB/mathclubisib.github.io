@@ -8,8 +8,6 @@ cascade:
   invertPagination: true
 ---
 
-
-
 ## About WRP
 
 Since its inception in 2022, the Winter Reading Program (WRP) has become an annual winter tradition. Organized by [Math Club, ISI Bangalore](/), the WRP invites first and second-year undergraduates to delve into captivating mathematical subjects rarely covered in their coursework. Small groups, guided by experienced mentors (second or third-year undergraduates), delve into specific topics, uncovering applications and related areas. This program offers a straightforward and accessible entry into diverse mathematical realms, perfectly in line with the club's mission. Join us in exploring the beauty of mathematics!
@@ -22,6 +20,6 @@ The first week involves revisiting essential foundational concepts, followed by 
 
 ## How to participate
 
-Exclusive to ISI Bangalore's B. Math students, the project invites interested individuals to email <mathclub.isibang@gmail.com> with their name, WhatsApp contact, and chosen topic. Act promptly as groups progress, ensuring a smooth integration into the program. We'll respond swiftly to your inquiry.
+Exclusive to B. Math students of ISI Bangalore, the project invites interested individuals to email <mathclub.isibang@gmail.com> with their name, WhatsApp contact, and chosen topic. Act promptly as groups progress, ensuring a smooth integration into the program. We'll respond swiftly to your inquiry.
 
 ---
