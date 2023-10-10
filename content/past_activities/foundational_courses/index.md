@@ -20,27 +20,27 @@ We will start out with the basic definitions and properties of rings and branch 
 #### Schedule
 
 - **Talk 1:** An Introduction To Rings  
-   **Speaker:** Sanchayan Bhowal (B.Math, 2023)  
+   **Speaker:** Sanchayan Bhowal (B. Math, 2023)  
    **Abstract:** A ring is a commutative group under addition that has a second operation: multiplication. These generalize a wide variety of mathematical objects like the integers, polynomials, matrices, modular arithmetic, and more. In this lecture we will take an in depth look at the motivation for rings and its properties.  
   **Date and Time:** Saturday, 12 February 2022, 10:00-11:00 AM.
 
 - **Talk 2:** Further Examples and Factoring  
-  **Speaker:** Srigyan Nandi (B.Math, 2023)  
+  **Speaker:** Srigyan Nandi (B. Math, 2023)  
   **Abstract:** We build on the notions and ideas of rings and ideals developed in the previous talk to introduce two special families of ideals: The maximal and prime ideals and study some of their important properties. We then take a look at three important families of rings: ED's, PID's and UFD's and study their properties in an attempt to generalize a lot of elementary number theoretic concepts such as primes and divisibility to a more abstract setting.  
   **Date and Time:** Sunday, 13 February 2022, 10:00-11:30 AM.
 
 - **Talk 3:** Maximal Ideals and Integral Domains  
-  **Speaker:** Srigyan Nandi (B.Math, 2023)  
+  **Speaker:** Srigyan Nandi (B. Math, 2023)  
   **Abstract:** Continuing from where we left off in the previous talk, we dive further into maximal ideals and integral domains.  
   **Date and Time:** Sunday, 20 February 2022, 10:00-11:30 AM
 
 - **Talk 4:** Gaussian Primes and Irreducibility of Polynomials  
-  **Speaker:** Srigyan Nandi (B.Math, 2023)  
+  **Speaker:** Srigyan Nandi (B. Math, 2023)  
   **Abstract:** Having seen the notions of primes and divisibility within rings in the previous talks, we will take a further look into the Gaussian Primes and irreducibility of polynomials.  
   **Date and Time:** TBD
 
 - **Talk 5:** Introduction to Modules and Fundamental Theorem of Finitely Generated Modules  
-  **Speaker:** Aprameya Girish Hebbar (B.Math, 2023)  
+  **Speaker:** Aprameya Girish Hebbar (B. Math, 2023)  
   **Abstract:** In this talk, we will introduce Modules. To begin, we examine and characterize the modules that have a basis. After that, we will discuss finitely generated modules and the fundamental theorem of finitely generated modules. Along the way, we will learn how to solve systems of linear equations over integers.  
   **Date and Time:** Sunday, 27 March 2022, 10:00-11:30 AM
 
@@ -57,12 +57,12 @@ Pre-requisites: Basics of Real Analysis and Set Theory.
 #### Schedule
 
 - **Talk 1:** An Introduction To Metric Spaces And Continuous Functions  
-  **Speaker:** Srigyan Nandi (B.Math, 2023)  
+  **Speaker:** Srigyan Nandi (B. Math, 2023)  
   **Abstract:** Elementary real analysis has introduced us to several properties of \\(\mathbb R\\) which are largely independent of the algebra imposed on it, such as the notion of convergence, that of a continuous function and the properties of its subsets that are preserved under such functions. In this talk, we will first see how the notion of a natural 'distance' on \\(\mathbb R\\) largely allows one to study the aforementioned properties. We will also try to extend this notion to more general and arbitrary sets in an attempt to do "analysis" on them. We will see how one can extend and generalize the notion of a continuous function and convergence on arbitrary sets and study the properties preserved by these functions on its subsets, by extending the notion of a 'distance' to arbitrary sets.  
   **Date and Time:** Saturday, 11 December 2021, 3:00-5:00 PM.
 
 - **Talk 2:** An Introduction to Topology  
-  **Speaker:** Harshul Khanna (B.Math, 2022)  
+  **Speaker:** Harshul Khanna (B. Math, 2022)  
   **Abstract:** Topics to be covered - Introduction to Topological spaces: broadest regime on which continuity notions hold, continuous functions, connectedness, other useful notions of a topo space, notion of homotopy and studying spaces using group invariants: fundamental group.  
   **Date and Time:** Sunday, 12 December 2021, 3:00-5:00 PM.
 
@@ -79,26 +79,26 @@ Pre-requisites: Naive Set Theory. Working knowledge of Linear Algebra and Number
 #### Schedule
 
 - **Talk 1:** Motivation for Group Theory  
-  **Speaker:** Sanchayan Bhowal (B.Math, 2023)  
+  **Speaker:** Sanchayan Bhowal (B. Math, 2023)  
   **Abstarct:** Intuitive introduction to Group Theory and a few underlying concepts. Will serve as a foundation for the following talks.  
   **Date and Time:** Sunday, 21 November 2021, 3:00-4:10 PM.
 
 - **Talk 2:** A Formal Introduction to Groups  
-  **Speaker:** Md Rahil Miraj (B.Math, 2023)  
+  **Speaker:** Md Rahil Miraj (B. Math, 2023)  
   **Abstarct:** Following the foundation laid by the previous talk, this talk would deal with the formal definition and treatment of groups. Starting with a few definitions, certain remarkable yet elementary facts will be proved.  
   **Date and Time:** Friday, 26 November 2021, 5:00-6:10 PM.
 
 - **Talk 3:** Further Examples and Isomorphism Theorems  
-  **Speaker:** Pratichi Paramita (B.Math, 2023)  
+  **Speaker:** Pratichi Paramita (B. Math, 2023)  
   **Abstarct:** Working on the foundations laid in the last class, we will revise the concept of quotients, look at some examples of classes of groups and develop the theory of group mappings. Our study would culminate in a brief consideration of Isomorphism Theorems.  
   **Date and Time:** Friday, 3 December 2021, 6:00-7:10 PM
 
 - **Talk 4:** Conjugacy and Group Action  
-  **Speaker:** Saheb Mohapatra (B.Math, 2023)  
+  **Speaker:** Saheb Mohapatra (B. Math, 2023)  
   **Abstarct:** The target of this talk will be to discuss conjugacy in groups and motivate the class equation of a group. This would be followed by a very basic yet very useful theory of Group Actions, something which was introduced in the first class along with applications.  
   **Date and Time:** Sunday, 5 December 2021, 3:00-4:40 PM
 
 - **Talk 5:** Structural Results in Group Theory  
-  **Speaker:** Snehinh Sen (B.Math, 2022)  
+  **Speaker:** Snehinh Sen (B. Math, 2022)  
   **Abstarct:** In this final talk, we will look at some structural results in group theory. We would try to develop some partial converses of Lagrange's Theorem and look at what simple groups are. This would be followed by a brief look at composition series of a group.  
   **Date and Time:** Tuesday, 7 December 2021, 5:30-7:10 PM
