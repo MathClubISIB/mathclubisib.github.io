@@ -19,7 +19,7 @@ Commutative Algebra forms the backbone of modern algebra and associated topics. 
 - **Primary References:**
   - (For Rings and Modules) Abstract Algebra, Dummit and Foote
   - (For Commutative Algebra) Introduction to Commutative Algebra, Atiyah and MacDonald
-- **Group Leader:**
+- **Group Leader(s):**
   - Samarth M. Bhat (B3)
   - (assisted by) Soham Ghosh (B3)
 - **Topics Covered:**
@@ -33,7 +33,7 @@ Commutative Algebra forms the backbone of modern algebra and associated topics. 
   - \* Integral Extensions, Valuations and Dedekind Domains
   - \* Basics of (Affine) Algebraic Geometry
 
-The following people, other than the leaders, have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time. Students marked (\*) did the \* topic above. They also did projects on some topics, mentioned in brackets beside their names.
+The following people, other than the leader(s), have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time. Students marked (\*) did the \* topic above. They also did projects on some topics, mentioned in brackets beside their names.
 
 - Mainak Samanta (B2) (Finite Norm Property of Integral Domains)
 - Saheb Mohapatra (B2) (Euclidean Domains with Unique Quotient and Remainder)
@@ -49,7 +49,7 @@ This is a two part reading group. The first part would be interested to venture 
 - **Primary References:**
   - (For Logic) A Tour Through Mathematical Logic, Wolf
   - (For ATP) Xena Project Website
-- **Group Leader:** Anupam Nayak (B3)
+- **Group Leader(s):** Anupam Nayak (B3)
 - **Topics Covered:**
   - First Order Logic
   - Naive Set Theory
@@ -59,7 +59,7 @@ This is a two part reading group. The first part would be interested to venture 
   - Background for ATP
   - \* Model Theory, Non-standard analysis and constructive logic
 
-The following people, other than the leader, have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time. Students marked (\*) did the \* topic above.
+The following people, other than the leader(s), have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time. Students marked (\*) did the \* topic above.
 
 - Srigyan Nandi (B2)
 - (\*) Pranav Krishna (B3)
@@ -72,7 +72,7 @@ Knot theory is a branch of mathematics which is perhaps the most "visual" yet fa
 
 - **Pre-Requisites:** Basic knowledge of groups and their actions, metric spaces. Topology will be helpful, though not necessary.
 - **Primary References:** The Knot Book, Colin C. Adams
-- **Group Leader:**
+- **Group Leader(s):**
   - Snehinh Sen (B3)
   - (assisted by) Harshul Khanna (B3)
 - **Topics Covered:**
@@ -85,7 +85,7 @@ Knot theory is a branch of mathematics which is perhaps the most "visual" yet fa
   - Polynomials on Knots.
   - A look at knots and statistical mechanics (project by Srigyan Nandi (B2)).
 
-The following people, other than the leader, have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time.
+The following people, other than the leader(s), have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time.
 
 - Srigyan Nandi (B2) (Also did a project on Knots and Statistical Mechanics)
 - Akhilesh Mondal (B3)
@@ -101,7 +101,7 @@ Matrix Groups are very special. Not only are they groups but also have an intrin
 
 - **Pre-Requisites:** A working knowledge of Groups and Vector Spaces, multivariable calculus, topological aspects of metric spaces.
 - **Primary References:** Matrix Groups For Undergraduates, K. Tapp
-- **Group Leaders:**
+- **Group Leader(s):**
   - Shahbaz A. Khan (B3)
   - Siddharth Acharya (B3)
 - **Topics Covered:**
@@ -114,7 +114,7 @@ Matrix Groups are very special. Not only are they groups but also have an intrin
   - Some idea of Matrix Groups as Manifolds
   - Basics of representation theory of groups and lie algebras.
 
-The following people, other than the leader, have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time.
+The following people, other than the leader(s), have completed the reading project by going through, in details, all the assigned parts and participating in the discussions and classes which occurred. They have also presented in these classes time to time.
 
 - Aprameya Girish Hebbar (B2)
 - Srigyan Nandi (B2)

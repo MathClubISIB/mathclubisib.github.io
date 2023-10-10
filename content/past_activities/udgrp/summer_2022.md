@@ -19,7 +19,7 @@ Commutative Algebra is the study of modules over commutative rings. Apart from b
 - **Primary Reference:**
   - Commutative Algebra (Vol. 1), Zariski and Samuels
   - Introduction to Commutative Algebra, Atiyah and MacDonald
-- **Group Leader:** Saheb Mohapatra (B3)
+- **Group Leader(s):** Saheb Mohapatra (B3)
 - **Topics Covered:**
   - Basic Group and Ring Theory
   - Localisation
@@ -27,7 +27,7 @@ Commutative Algebra is the study of modules over commutative rings. Apart from b
   - Hilbert Basis Theorem
   - Lasker - Noether Theorem
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Shubhrojyoti Dhara (B2)
 - Soumya Dasgupta (B2)
@@ -41,7 +41,7 @@ A measure is a generalization of geometrical measurements (length, area, volume)
 
 - **Pre-Requisites:** Set theory, Real Analysis.
 - **Primary Reference:** An Introduction To Measure Theory (Terence Tao)
-- **Group Leaders:**
+- **Group Leader(s)s:**
   - Aprameya Girish Hebbar (B3)
   - Sanchayan Bhowal (B3)
   - Sarvesh Ravichandran Iyer (RS)
@@ -52,7 +52,7 @@ A measure is a generalization of geometrical measurements (length, area, volume)
   - Sigma algebras, abstract measure spaces.
   - Abstract Lebesgue Integral, convergence theorems.
 
-The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, other than the leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Saraswata Sensarma (B2)
 - Ishaan Bhadoo (B2)
@@ -70,14 +70,14 @@ Algebraic Topology consists of a vast and powerful theory that attempts to answe
   - Topology (Munkres)
   - Topological Manifolds (Lee)
   - An Introduction To Algebraic Topology (Rotman)
-- **Group Leader:** Srigyan Nandi (B3)
+- **Group Leader(s):** Srigyan Nandi (B3)
 - **Topics Covered:**
   - Notions Of Elementary Point Set Topology: Connectedness and Compactness.
   - Homotopy And The Fundamental Group, Simply Connected Spaces, Covering Spaces, The Fundamental Group Of A Circle.
   - Free Groups, Free Products, Free Abelian Groups, The Seifert - Van Kampen Theorem, Fundamental Groups Of Wedged Spaces, Fundamental Groups Of Graphs.
   - Covering Spaces, Groups Acting On Topological Spaces, Deck Transformation Groups, Semi-simply connected spaces, Universal Covers, The Classification Of Covering Spaces.
 
-The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, other than the leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Gautham Ravuri (B3)
 - Aratrick Basu (B2)
@@ -95,14 +95,14 @@ The prototypical example of a group is \\( \textsf{Aut}(X) \\), where \\(X\\) is
   - Representation Theory of Finite Groups (Benjamin Steinberg)
   - Linear Representation of Finite Groups (J.P. Serre)
   - Abstract Algebra (Dummit & Foote)
-- **Group Leader:** Rahul Mazumder (B3)
+- **Group Leader(s):** Rahul Mazumder (B3)
 - **Topics Covered:**
   - Group Theory
   - Group Representations: definitions, examples, permutation representations, Mashke's Theorem, Tensor Product of modules over commutative rings
   - Character Theory
   - Burnside's \\(pq\\) Theorem
 
-The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, other than the leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Varun Balasubramanian (B2)
 - Ishaan Bhadoo (B2)
@@ -115,7 +115,7 @@ Consider the function on natural numbers which gives the number of distinct prim
 
 - **Pre-Requisites:** Elementary Number Theory, Algebra, Real Analysis
 - **Primary Reference:** An Introduction to Analytic Number Theory (Apostol)
-- **Group Leader:** Shreyash Kharat (B3)
+- **Group Leader(s):** Shreyash Kharat (B3)
 - **Topics Covered:**
   - Mobius Inversion Formula
   - Dirichlet Product and Inverse
@@ -126,7 +126,7 @@ Consider the function on natural numbers which gives the number of distinct prim
   - Chebyshev's functions
   - Prime Number Theorem
 
-The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, other than the leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Rahil Miraj (B3)
 - Saraswata Sensarma (B2)
@@ -141,7 +141,7 @@ Suppose you are given a sample of 3 variable data (2 predictors and 1 response) 
 
 - **Pre-Requisites:** Probability 1 & 2, Statistics 1, Linear Algebra, Real Analysis
 - **Primary Reference:** An Introduction to Statistical Learning with Applications using R
-- **Group Leader:** Shreyash Kharat (B3)
+- **Group Leader(s):** Shreyash Kharat (B3)
 - **Topics Covered:**
   - Linear and Logistic Regression
   - K Nearest Neighbour Model
@@ -152,7 +152,7 @@ Suppose you are given a sample of 3 variable data (2 predictors and 1 response) 
   - Neural Networks: Dense, Convolutional, Recurrent.
   - Computer Vision and Natural Language Processing
 
-The following people, other than the leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, other than the leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Bikram Halder (B2)
 - ASV Arun (B2)

@@ -7,7 +7,7 @@ description: "Expository Talks at the Students' Math Club at Indian Statistical 
 
 Join the captivating world of our [Math Club](/)'s expository talks, a weekend delight for knowledge enthusiasts. Led by both students and esteemed professors from ISI and various other institutes, these talks transcend academic boundaries. Geared towards students at all levels, from undergraduates to postgraduates and research scholars, the topics span the spectrum from fundamental concepts to cutting-edge research. Attendees are wholeheartedly encouraged to participate actively, as our speakers unravel intricate subjects with clarity and intuition. These talks, often linked to groundbreaking research, are an unmissable intellectual journey that beckons to all. Don't miss your chance to explore the depths of mathematical wonder with us.
 
-## EP2310: Critical Percolation on Non-Amenable groups
+## EP2312: Critical Percolation on Non-Amenable groups
 
 - **Speaker:** Ishaan Bhadoo (B. Math, 2024)
 - **Abstract:** Percolation models were initially introduced by Broadbent and Hammersley in 1956. One specific area of importance is Bernoulli percolation, a process that involves tossing a biased coin (say, \\(\textsf{Ber}(p)\\)) for each edge of a graph and removing edges if the outcome is tails. When we execute such a process on an infinite graph, many natural questions arise. For instance, one may inquire about the values of \\(p\\) for which we are guaranteed to have an infinite connected component in the graph. Although these processes were traditionally studied on Euclidean lattices, substantial progress has also been made in comprehending percolation in general settings with different background geometries.  
@@ -17,7 +17,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Sunday, 8th October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
-## EP2309: Analytic Continuation of the Riemann Zeta Function and the Prime Number Theorem
+## EP2311: Analytic Continuation of the Riemann Zeta Function and the Prime Number Theorem
 
 - **Speaker:** Amit Kumar Basistha (B. Math, 2025)
 - **Abstract:** The Prime Number Theorem (PNT) is a fundamental result in number theory that describes the distribution of prime numbers. The PNT has been studied extensively and has numerous proofs, many involving Complex Analysis and the behavior of the Riemann Zeta function. The main goal of this talk will be to present a proof of the theorem. While doing so we will also explore the beautiful world of analytic continuation of functions in the complex plane, particularly of the Gamma and Zeta function. We will also discuss the growth and behavior of the Zeta function near the line \\(\textsf{Re}(s)=1\\).Through the talk we will try to convey the idea how two seemingly unrelated areas of mathematics: Number Theory which is discrete at its heart and Complex Analysis can come together to give such powerful results.
@@ -30,14 +30,14 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Saturday, 7th October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
-## EP2308: Representations of the symmetric and alternating groups
+## EP2310: Representations of the symmetric and alternating groups
 
 - **Speaker:** Pavan K Srinivasan (B. Math, 2024)
 - **Abstract:** The theory of representations of the symmetric group has a wide variety of potential applications, ranging from quantum chemistry to the study of symmetric functions.In this talk, we begin by introducing some notions of finite group representations including some basic results about characters of groups. We will use these tools to find combinatorial criteria for the irreducibility of representations of symmetric and alternating groups using the Robinson-Schensted-Knuth (RSK) Algorithm. We will also see how irreducible representations of \\(S_n\\) behave when restricted to particular subgroups, and see elegant methods to compute character values of these representations.
 - **Date and time:** Monday, 2nd October 2023, 11:30 am - 1:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
-## EP2307: Estimation in Curie-Weiss Tensor Potts model
+## EP2309: Estimation in Curie-Weiss Tensor Potts model
 
 - **Speaker:** Sanchayan Bhowal (M. Math, 2025)
 - **Abstract:** Spin glass models are a fundamental class of models extensively studied in statistical physics. The celebrated Ising model and its generalization, the Potts model, are classical examples of the same. In this talk, we introduce a further generalization involving the concept of peer interactions, called the tensor Curie Weiss model. Much like the other spin glass systems, it exhibits phase transition. We will then derive the limiting distribution of the maximum likelihood estimates of the parameters and the magnetization vector. We will describe the limiting distribution for a certain subset of the parameter space. If time permits, we would extend our analysis to the remaining space. This talk will primarily be based on the paper <https://arxiv.org/abs/2307.01052>.
@@ -46,7 +46,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Sunday, 1st October 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
-## EP2306: A Proof of Cayley's Formula via Poisson Branching Process
+## EP2308: A Proof of Cayley's Formula via Poisson Branching Process
 
 - **Speaker:** Bikram Halder (B. Math, 2024)
 - **Abstract:** In this talk, we will explore an alternative proof of Cayley's Formula, which determines the number of labeled trees in a graph with \\(n\\) vertices as \\(n^{n-2}\\). While the commonly taught Prufer code approach and other proofs rely on combinatorial techniques, I'll introduce a fresh perspective through a probabilistic proof employing the Poisson Branching Process.
@@ -59,7 +59,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Saturday, 30th September 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
-## EP2305: On the extrema of some \\(\log\\)-correlated fields
+## EP2307: On the extrema of some \\(\log\\)-correlated fields
 
 - **Speaker:** Saraswata Sensarma (B. Math, 2024)
 - **Abstract:** The last decade has seen significant growth in log-correlated fields (LCFs) within probability theory. In this lecture, we plan to give a gentle introduction to the behavior of their maxima. We will begin with some simple examples of LCFs, and demonstrate the striking similarity of the results obtained. This ubiquity would hint at the presence of an underlying unified treatment of these situations, which is precisely the theory of LCFs.  
@@ -72,7 +72,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Sunday, 3rd September 2023, 11:00 am - 12:30 pm
 - **Place:** 2nd Floor Auditorium, Academic Building
 
-## EP2304: Projective Geometry
+## EP2306: Projective Geometry
 
 - **Speaker:** Shriyaa Srivastava (B. Math, 2025)
 - **Abstract:** Standing at the end of a long corridor, the parallel lines seem to go somewhere... and meet? Euclidean geometry doesn't allow this... but what if we did? Further, what if we dismissed concrete notions of lengths and angles? Projective geometry studies geometric properties that are invariant under projective transformations. Math jargon aside, this means that we "see" objects from a different "perspective" / "point of view". We shall understand the nature of these transformations and build familiarity with cross-ratios, leading to a proof of Pascal's theorem. If time permits, we shall also look at parallel and central projections.
@@ -84,7 +84,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Saturday, 2nd September 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
-## EP2303: What is special about \\(\mathbb{Z}\left[ \frac{1+\sqrt{-19}}2 \right]\\) ?
+## EP2305: What is special about \\(\mathbb{Z}\left[ \frac{1+\sqrt{-19}}2 \right]\\) ?
 
 - **Speaker:** Ruchira Mukherjee (B. Math, 2025)
 - **Abstract:** Every Euclidean domain is a Principal Ideal domain but not the other way round. A classic counterexample is \\(\mathbb{Z}\left[ \frac{1+\sqrt{-19}}2 \right]\\). Are there more? If so, how are they similar? The talk shall mainly introduce what class numbers are and how they help in determining whether the ring of integers of a number field is a PID, along with a general flow leading to the generalized Riemann Hypothesis (where there are numbers, there is the Riemann Hypothesis!).
@@ -95,7 +95,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Saturday, 19th August 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
-## EP2302: On a proof of the Mednykh's Formula via Dijkgraff-Witten Theory on 1 + 1 Cobordisms
+## EP2304: On a proof of the Mednykh's Formula via Dijkgraff-Witten Theory on 1 + 1 Cobordisms
 
 - **Speaker:** Prognadipto Majumder (B. Math, 2024)
 - **Abstract:** We will discuss the Djikgraff-Witten approach to Topological Quantum Field Theories which are essentially representations of the Cobordism Category. We would only dwell on the simplest non trivial dimensions (1 + 1) and see how the classification of 2-D surfaces leads to an elegant result like the Mednykh's Formula. We will try to motivate how something that was conceived as a toy model for quantum theory is leading to "brave new mathematics" and might (???) provide some understanding of classification of manifolds and structure of higher categories.
@@ -103,7 +103,7 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 - **Date and time:** Sunday, 13th August 2023, 11:00 am - 12:30 pm
 - **Place:** G-26 Classroom, Academic Building
 
-## EP2301: Hyperbolic Geometry, Hyperbolic Surfaces and Fuchsian Groups
+## EP2303: Hyperbolic Geometry, Hyperbolic Surfaces and Fuchsian Groups
 
 - **Speaker:** Aaratrick Basu (B. Math, 2024)
 - **Abstract:** We introduce and motivate hyperbolic geometry as a Riemannian geometry in 2 dimensions. We then discuss the group of orientation preserving isometries, \\(PSL_2(\mathbb{R})\\). This leads naturally to Fuchsian groups, interesting objects in their own right. We finish by discussing some elementary results on surfaces.
@@ -115,4 +115,19 @@ Join the captivating world of our [Math Club](/)'s expository talks, a weekend d
 
 - **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=VWTdBFcM8TI).
 - **Date and time:** Saturday, 12th August 2023, 11:00 am - 12:30 pm
+- **Place:** G-26 Classroom, Academic Building
+
+## EP2302: Michael Keane's proof of the SLLN
+
+- **Speaker:** Sanchayan Bhowal (B. Math, 2023)
+- **Abstract:** Weak law of large numbers is generally taught in undergraduate probability courses. However, the proof of strong law of large numbers is generally omitted. The original proof involved manipulation of moments. However, we will look at Keane's proof of the strong law. Time to get stronger!
+- **Date and time:** Sunday, 2nd April 2023, 11:00 am - 12:00 pm
+- **Place:** G-26 Classroom, Academic Building
+
+## EP2301: Introduction to Ising Model
+
+- **Speaker:**  Sarvesh Ravichandran Iyer (Ph.D)
+- **Abstract:** Introduction to the Ising model, and some discussions. This talk is primarily aimed to create the prerequisites for the Talk on Ising Model by Hugo Duminil-Copin ( part of the Higher Dimensional Probability Seminar at ICTS , 9th to 13th January).People attending the talk are especially encouraged to take part tomorrow for the prerequisites.
+- **Video:** The talk has been uploaded to our Youtube channel. You can find it [here](https://www.youtube.com/watch?v=9RJ9iMiPA68).
+- **Date and time:** Sunday, 8th January 2023, 10:30 am - 12:00 pm
 - **Place:** G-26 Classroom, Academic Building

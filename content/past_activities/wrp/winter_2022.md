@@ -19,14 +19,14 @@ Category theory originally arose as methods of formalising certain facts that ho
     - Basic Category Theory by Tom Leinster
     - Category Theory in Context by Emily Riehl
     - Seven sketches in Compositionality by Brendan Fong, David Spivak
-- **Group Leader:** Aaratrick Basu (B2)
+- **Group Leader(s):** Aaratrick Basu (B2)
 - **Brief Sketch of Project:**
     - Introduction to Categories, Functors and Natural Transformations: Why do category theory? Basic definitions and examples. Is there something higher than a category?
     - Representabilty and the Yoneda lemma: Representable functors and examples. The Yoneda lemma. Using the Yoneda lemma. Universal elements.
     - Adjoint functors. Basic definitions and examples. Units and Counits. Adjunctions via initial objects.
     - Some applications. What is Compositionality? Profunctors and Monoidal categories.
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 
 The project is officially completed.
@@ -39,7 +39,7 @@ In the nineteenth century, two very young mathematicians, Neils Abel and Evarist
     - Galois Theory by Stewart
     - Galois Theory by Rotman
     - Field and Galois Theory by Pattrick Morandi
-- **Group Leader:**
+- **Group Leader(s):**
     - Ishaan Bhadoo (B2)
     - Varun Balasubramaniam  (B2)
 - **Brief Sketch of Project:**
@@ -52,7 +52,7 @@ In the nineteenth century, two very young mathematicians, Neils Abel and Evarist
     - The Fundamental Theorem of Algebra
     - Transcendence of \\(\pi\\)
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 
 The project is officially completed.
@@ -64,7 +64,7 @@ Generating functions are a useful tool which have a wide range of applicability.
 - **Primary Reference:**
     - Generating functionology by Herbert Wilf
     - Concrete Mathematics by Graham, Knuth and Patashnik
-- **Group Leader:**
+- **Group Leader(s):**
     - Aditya Prabhu (B2)
     - Pavan Srinivasan (B2)
 - **Brief Sketch of Project:**
@@ -73,7 +73,7 @@ Generating functions are a useful tool which have a wide range of applicability.
     - Cards, Decks and Hands
     - Using generating functions to find out some properties of partitions of n, determining which permutations can be \\(k^\textsf{th}\\) powers of other permutations etc.
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 
 The project is officially completed.
@@ -86,7 +86,7 @@ The study of Markov Chains is a lively and central part of modern probability th
     - A first course in Probability Theory and Linear Algebra will be sufficient.
 - **Primary Reference:**
     - Markov Chains and Mixing Times by Levin, Peres, Wilmer
-- **Group Leader:**
+- **Group Leader(s):**
     - Deepta Basak (B2)
     - Saraswata Sensarma (B2)
 - **Brief Sketch of Project:**
@@ -96,7 +96,7 @@ The study of Markov Chains is a lively and central part of modern probability th
     - A crucial result that we shall discuss at this point is that under some mild conditions, Markov Chains do, infact, converge to their Stationary Distributions. We define total variation distance and mixing time, the key tools for quantifying that convergence.
     -  If there is time, we might look at some more applications like Card Shuffling.
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 - Aditya Garg (B1)
 - Anasmit Pal (B1)
@@ -113,10 +113,20 @@ The project is officially completed.
 
 
 - **Primary Reference:**
-- **Group Leader:**
+    - _The Probabilistic Method_ -- Noga Alon, Joel Spencer
+    - _The Probability Theory of Additive Functions_ -- Patrick Billingsley
+    - _Introduction to Graph Theory_ -- Douglas West
+- **Group Leader(s):** 
+    - Prognadipto Majumder (B2)
+    - Deepta Basak (B2)
 - **Brief Sketch of Project:**
+    - We will introduce The Probabilistic Method as a tool for tackling problems in Graph Theory, Ramsey Theory, etc. A brief introduction to Graph Theory and Ramsey Theory will be given.
+    - We will discuss some Combinatorial Number Theory, along with some probabilistic techniques.
+    - We will talk about the Linearity of Expectation and show its use as a powerful tool in proving some results in Graph Theory and several other topics.
+    - We might discuss results like LLN (WLLN and SLLN) and CLT ,then move forward into Probabilistic Number Theory, especially the Probability Theory for Additive Functions.
+    - Finally, we will look into Probabilistic Analysis of Algorithms and Randomized Algorithms.
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 
 The project is officially completed.
@@ -129,7 +139,7 @@ Topology arises in most of the field of mathematics quite naturally, and the stu
     - Topology by Klaus Janich.
     - Introduction to Topological Manifolds by John Lee.
     - Topology by James Munkres
-- **Group Leader:**
+- **Group Leader(s):**
     - Soumya Dasgupta (B2)
     - Trishan Mondal (B2)
 - **Brief Sketch of Project:**
@@ -140,7 +150,7 @@ Topology arises in most of the field of mathematics quite naturally, and the stu
     - Finally we will discuss about topological groups, and see how the matrix groups are just geometric objects in disguise.
     - If time permits we will give a motivation for Algebraic Topology.
 
-The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 
 The project is officially completed.
