@@ -20,10 +20,20 @@ Guillermo Moreno said, "Groups, like men, will be defined by their actions." Geo
   - Trees by J. P. Serre and Topics in Geometric Group Theory by Pierre de la Harpe.
 - **Group Leader(s):** Aditya Vinay Prabhu (B3)
 - **Topics Covered:**
-  
+
+- Basics of Group Theory
+- Free Groups and Group Presentations
+- Cayley Graphs
+- Group Actions on Graphs
+- Nielsen-Schreier Theorem and it's proof via Group actions on trees
+- Congruence Subgroups and the presentation for \\(SL_2(\\mathbb{Z})\\) using it's action on Farey trees
 
 The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Dhruba Sarkar (B2)
+- Nikhil Nagaria (B2)
+- Pragalbh Kumar Awasthi (B2)
+- Rinkiny Ghatak (B2)
 
 The project is officially completed.
 
@@ -59,10 +69,15 @@ We will mostly focus on homotopy theory and learn tools such as the Seifert-Van 
     - Algebraic Topology by Allen Hatcher
 - **Group Leader(s):** Soumya Dasgupta (B3)
 - **Topics Covered:**
+  - Fundamental groups and higher homotopy groups
+  - Fiber and cofiber sequences
+  - Computation of fundamental groups and some applications of \\(\mathbb{\pi_{1}(S^{1})} \cong \Z\\)
+  - Seifert van-Kampen theorem for fundamental groupoids
   
 
 The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Pragalbh Kumar Awasthi (B2)
 
 The project is officially completed.
 
@@ -100,9 +115,35 @@ theorem, which relates the total curvature of a surface to its topological chara
     - Devansh Kamra (B3)
     - R Gnanananda Shreyas (B3)
 - **Topics Covered:**
-  
+  - Point set Topology on \\(R^{n}\\)
+  - Continuity and Differentiability on \\(R^{n}\\)
+  - Chain rule for Multivariable Functions
+  - Directional Derivatives
+  - Clairout's and Hermann Schwartz Theorem
+  - Total derivatives and reduction of Total derivatives
+  - Mean Value theorem in \\(R^{n}\\)
+  - Taylor series for Multivariable Functions
+  - Inverse and Implicit Function Theorem
+  - Riemann Integration for Multivariable Functions
+  - Fubini's Theorem
+  - Level Curves
+  - Reparametrization of Curves
+  - Arc Length
+  - Curvature and Torsion
+  - Frenet-Serret equations
+  - Plane Curves, Space Curves, Simple Closed Curves
+  - Isoperimetric Inequality 
+  - The Four Vertex Theorem
+  - Planes and Normals
+  - Surface Integrals
+  - Green's Theorem
+  - Divergence Theorem and Strokes's Theorem on \\(R^{n}\\)
 
 The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Anasmit Pal (B2)
+- Anit Das (B2)
+- Anshuman Agarwal (B2)
+- Shriya Srivastava (B2)
 
 The project is officially completed.

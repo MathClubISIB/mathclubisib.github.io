@@ -115,9 +115,9 @@ pageRef = "udgrp"
 weight = 20
 
 [[main]]
-name = "WMOU"
+name = "WRP"
 parent = "Past Activities"
-pageRef = "wmou"
+pageRef = "wrp"
 weight = 20
 
 #[[subnavigation]]

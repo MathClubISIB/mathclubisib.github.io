@@ -1,15 +1,15 @@
 ---
-title: "WMOU Winter 2022"
-description: "WMOU at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "WRP Winter 2022"
+description: "WRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
 ---
 
 {{< katex >}}
 
 {{< lead >}}
-WMOU 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
+WRP 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the WMOU 2022 organised by the Math Club.
+This is the home page of the WRP 2022 organised by the Math Club.
 
 ### Category Theory
 
@@ -19,15 +19,20 @@ Category theory originally arose as methods of formalising certain facts that ho
     - Basic Category Theory by Tom Leinster
     - Category Theory in Context by Emily Riehl
     - Seven sketches in Compositionality by Brendan Fong, David Spivak
-- **Group Leader(s):** Aaratrick Basu (B2)
+- **Group Leaders:** 
+    - Aaratrick Basu (B2)
+    - Aprameya Girish Hebbar (B3)
 - **Brief Sketch of Project:**
     - Introduction to Categories, Functors and Natural Transformations: Why do category theory? Basic definitions and examples. Is there something higher than a category?
     - Representabilty and the Yoneda lemma: Representable functors and examples. The Yoneda lemma. Using the Yoneda lemma. Universal elements.
     - Adjoint functors. Basic definitions and examples. Units and Counits. Adjunctions via initial objects.
     - Some applications. What is Compositionality? Profunctors and Monoidal categories.
 
-The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Amit Kumar Basistha (B1)
+- Pragalbh Kumar Awasthi (B1)
+- Shriyaa Srivastava (B1)
 
 The project is officially completed.
 
@@ -52,8 +57,9 @@ In the nineteenth century, two very young mathematicians, Neils Abel and Evarist
     - The Fundamental Theorem of Algebra
     - Transcendence of \\(\pi\\)
 
-The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Malav Dhaval Doshi (B1)
 
 The project is officially completed.
 
@@ -64,7 +70,7 @@ Generating functions are a useful tool which have a wide range of applicability.
 - **Primary Reference:**
     - Generating functionology by Herbert Wilf
     - Concrete Mathematics by Graham, Knuth and Patashnik
-- **Group Leader(s):**
+- **Group Leaders:**
     - Aditya Prabhu (B2)
     - Pavan Srinivasan (B2)
 - **Brief Sketch of Project:**
@@ -73,8 +79,11 @@ Generating functions are a useful tool which have a wide range of applicability.
     - Cards, Decks and Hands
     - Using generating functions to find out some properties of partitions of n, determining which permutations can be \\(k^\textsf{th}\\) powers of other permutations etc.
 
-The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Anshuman Agrawal (B1)
+- Dhruba Sarkar (B1)
+- Nikhil Nagaria (B1)
 
 The project is officially completed.
 
@@ -110,7 +119,12 @@ The project is officially completed.
 
 ### Probabilistic Method
 
-
+We will introduce The Probabilistic Method as a tool for tackling problems
+in Graph Theory, Ramsey Theory, etc. A brief introduction to Graph Theory and Ramsey Theory will be given.
+We will discuss some Combinatorial Number Theory, along with some probabilistic techniques.
+We will talk about the Linearity of Expectation and show its use as a powerful tool in proving some results in Graph Theory and several other topics.
+We might discuss results like LLN ( WLLN & SLLN) and CLT ,then move forward into Probabilistic Number Theory ,especially the Probability Theory for Additive Functions.
+Finally, we will look into Probabilistic Analysis of Algorithms and Randomized Algorithms
 
 - **Primary Reference:**
     - _The Probabilistic Method_ -- Noga Alon, Joel Spencer
@@ -120,14 +134,22 @@ The project is officially completed.
     - Prognadipto Majumder (B2)
     - Deepta Basak (B2)
 - **Brief Sketch of Project:**
-    - We will introduce The Probabilistic Method as a tool for tackling problems in Graph Theory, Ramsey Theory, etc. A brief introduction to Graph Theory and Ramsey Theory will be given.
-    - We will discuss some Combinatorial Number Theory, along with some probabilistic techniques.
-    - We will talk about the Linearity of Expectation and show its use as a powerful tool in proving some results in Graph Theory and several other topics.
-    - We might discuss results like LLN (WLLN and SLLN) and CLT ,then move forward into Probabilistic Number Theory, especially the Probability Theory for Additive Functions.
-    - Finally, we will look into Probabilistic Analysis of Algorithms and Randomized Algorithms.
+    - The Basic Method
+    - Linearity of Expectation
+    - Alterations
+    - The Second Moment
+    - Poisson Paradigm
+    - \\(Erd\H{o}s-Ko-Rado\\) Theorem
+    - High Girth and High Chromatic Number
+    - The Rodl Nibble
+    - The Local Lemma and bounds on Ramsey Numbers
 
 The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Anasmit Pal (B1)
+- Hrishik Koley (B1)
+- Malav Dhaval Doshi (B1)
+- Ruchira Mukherjee (B1)
 
 The project is officially completed.
 
@@ -149,8 +171,10 @@ Topology arises in most of the field of mathematics quite naturally, and the stu
     - We will discuss about ways to construct new topological spaces from existing spaces (quotient topology, connected sums, adjunction).
     - Finally we will discuss about topological groups, and see how the matrix groups are just geometric objects in disguise.
     - If time permits we will give a motivation for Algebraic Topology.
+- **Notes:** Available [here](https://github.com/Trishan8/Topology-WRP-2022).
 
 The following people, apart from the group leader(s), have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
+- Pragalbh Kumar Awasthi (B1)
 
 The project is officially completed.
