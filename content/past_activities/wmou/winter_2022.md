@@ -1,15 +1,15 @@
 ---
-title: "WRP Winter 2022"
-description: "WRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "WMOU Winter 2022"
+description: "WMOU at the Students' Math Club at Indian Statistical Institute, Bangalore."
 ---
 
 {{< katex >}}
 
 {{< lead >}}
-WRP WINTER 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
+WMOU 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the WRP Winter 2022 organised by the Math Club.
+This is the home page of the WMOU 2022 organised by the Math Club.
 
 ### Category Theory
 
