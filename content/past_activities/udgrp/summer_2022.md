@@ -11,7 +11,7 @@ UGDRP SUMMER 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED I
 
 This is the home page of the UDGRP Summer 2022 organised by the [Math Club](/). The projects start from Wednesday, 1<sup>st</sup> June 2022. The topics being considered this time are presented below.
 
-### Introduction to Commutative Algebra
+## Introduction to Commutative Algebra
 
 Commutative Algebra is the study of modules over commutative rings. Apart from being a marvelous subject on its own, it is the backbone of Algebraic Geometry and Algebraic Number Theory. This reading project will begin with basic concepts of groups and rings, and assisted by a myriad of examples and research articles, it will culminate in the famous Lasker-Noether Theorem.
 
@@ -35,7 +35,7 @@ The following people, apart from the group leader, have completed the reading pr
 
 The project is officially completed.
 
-### Introduction to Measure theory
+## Introduction to Measure theory
 
 A measure is a generalization of geometrical measurements (length, area, volume) and other basic ideas like mass and probability. These seemingly disparate ideas have a lot in common and may frequently be considered as a single mathematical construct. One of the main goals of Lebesgue's measure theory is to create a fundamental framework for doing integration that works well with limits and admits a large class of functions that Riemann's integration theory does not cover. It turned out that it also provided new ways of thinking about measuring objects, which is useful in many other areas of math, like probability theory. Measure theory is a fundamental base to many advanced topics in Analysis, like Functional analysis, Harmonic Analysis and PDEs.
 
@@ -62,7 +62,7 @@ The following people, other than the leaders, have completed the reading project
 
 The project is officially completed.
 
-### An Introduction to Algebraic Topology
+## An Introduction to Algebraic Topology
 
 Algebraic Topology consists of a vast and powerful theory that attempts to answer the fundamental questions of topology using algebraic invariants of topological spaces. A study of these invariants requires a new language, known as category theory to understand the notions of how these algebraic structures interact with their topological counterparts. We look at one of the most fundamental invariants: Homotopy. We see how homotopy acts as a functor between categories, and introduce the fundamental group. We then proceed to study the celebrated Seifert - Van Kampen Theorem, which allows us to compute the fundamental group of a vast number of topological spaces. Finally, we shall look further into the theory of covering spaces in an attempt to see the beautiful Galois-like correspondence between the subgroups of a fundamental group and the unique covering spaces of the space.
 
@@ -87,7 +87,7 @@ The following people, other than the leader, have completed the reading project 
 
 The project is officially completed.
 
-### Representation of Finite Groups
+## Representation of Finite Groups
 
 The prototypical example of a group is \\( \textsf{Aut}(X) \\), where \\(X\\) is some object (\\(X\\) can just be a set without any structure). Since a group \\(G\\) is a very abstract object, to extract information from it, we map it to something more concrete, namely, \\( \textsf{Aut}(X) \\). So, a representation of a group is any map from \\(G\\) to \\( \textsf{Aut}(X) \\) that respects the group structures. We can linearize this map naturally if our objective \\(X\\) is a vector space over some field \\(k\\) (we assume \\(\textsf{char}(k) = 0\\) for this project). In this project, we study linear representations of finite groups.
 
@@ -110,7 +110,7 @@ The following people, other than the leader, have completed the reading project 
 
 The project is officially completed.
 
-### Analytic Number Theory
+## Analytic Number Theory
 
 Consider the function on natural numbers which gives the number of distinct prime factors. You'll notice that the function takes huge dips on large prime numbers and this makes it hard to study the behaviour of number of distinct prime factors. Analytic Number Theory is all about studying behaviour of such "analytic" functions and how to solve the problems as above.
 
@@ -137,7 +137,7 @@ The following people, other than the leader, have completed the reading project 
 
 The project is officially completed.
 
-### Machine Learning
+## Machine Learning
 
 Suppose you are given a sample of 3 variable data (2 predictors and 1 response) from a population and you fit a linear model on it and it gives good results with respect to errors. What if the population prediction data is spread around the surface of a cuboid and the sample you got only belonged to one of the faces of the cuboid? Your linear model won't be useful to draw out inferences on the population data. What if it is spread around the surface of one half of a sphere, or if it is clustered? In this project, we will deal with various distributions and types of data in real world problems, like numerical data, image data, text data, audio data, etc.
 

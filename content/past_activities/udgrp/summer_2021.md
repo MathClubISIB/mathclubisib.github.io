@@ -11,7 +11,7 @@ UGDRP SUMMER 2021 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED I
 
 This is the home page of the UDGRP Summer 2021 organised by the [Math Club](/). The projects start from Saturday, 24<sup>th</sup> July 2021. The topics being considered this time are presented below.
 
-### Introduction to Commutative Algebra with motivating examples
+## Introduction to Commutative Algebra with motivating examples
 
 Commutative Algebra forms the backbone of modern algebra and associated topics. A working knowledge of the same is indeed important and very useful for most mathematicians, may the be Algebraists, Number Theorists, Discrete Mathematicians, Lie Theorists, Differential Geometers or Analyst. This reading project is intended to give you a flavor of the same at a very basic level. Starting with a revision of the theory of commutative rings and \\(R-\\)modules, the reading shall slowly enter into the beginnings of Commutative Algebra. Throughout the course, many motivating examples from Geometry, Number Theory and so on shall be presented to develop interest and purpose of the things discussed.
 
@@ -41,7 +41,7 @@ The following people, other than the leaders, have completed the reading project
 
 The project is officially completed.
 
-### Logic and Automated Theorem Proving
+## Logic and Automated Theorem Proving
 
 This is a two part reading group. The first part would be interested to venture into the field of mathematical logic and axiomatic mathematics. This would show that sometimes, things which are discounted as "technical" or "just for language" are actually very beautiful in their own rights and appreciable at a pretty elementary level. The second part would be interested to learn about the Lean Language and how it can be implemented for automated theorem proving. The course shall be decided as per interested.
 
@@ -66,7 +66,7 @@ The following people, other than the leader, have completed the reading project 
 
 The project is officially completed.
 
-### Introduction to Knot Theory
+## Introduction to Knot Theory
 
 Knot theory is a branch of mathematics which is perhaps the most "visual" yet fascinating. A considerably less sought after branch, it is one of the key elements of what is called "Geometric Topology". We shall be looking at knots, links, their invariants, classifications, associated polynomials and algebraic structures. We shall also have a look at other aspects of geometric topology and how they can be applied to Knot Theory. The main reading should be accessible even to those not very familiar with Point-Set Topology, though a familiarity would almost surely be helpful.
 
@@ -95,7 +95,7 @@ The following people, other than the leaders, have completed the reading project
 
 The project is officially completed.
 
-### Matrix Groups and a look at their Representation Theory
+## Matrix Groups and a look at their Representation Theory
 
 Matrix Groups are very special. Not only are they groups but also have an intrinsic vector space structure. This gives rise to the beautiful Lie Theory. The target of this course is to give a glimpse of it and see how beautifully various different aspects of mathematics like Analysis, Linear Algebra, Abstract Algebra, Topology and Geometry join hands to create a wonderful theory of these groups. Time permitting, we shall also have a look at the Representation Theory of such groups and their corresponding Lie algebras.
 

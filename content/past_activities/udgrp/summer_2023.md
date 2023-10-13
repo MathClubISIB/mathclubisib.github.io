@@ -11,7 +11,7 @@ UGDRP SUMMER 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED I
 
 This is the home page of the UDGRP Summer 2023 organised by the [Math Club](/). The projects start from Saturday, 10<sup>th</sup> June, 2023. The topics being considered this time are presented below.
 
-### Geometric Group Theory
+## Geometric Group Theory
 
 Guillermo Moreno said, "Groups, like men, will be defined by their actions." Geometric Group Theory is all about studying actions of groups on Geometric Objects. By looking at such actions and the inherent geometry of the space being acted on, we can gain information about the structure of the group. For example, free groups are precisely the ones that admit a "free" action on a tree. This can be then used to very easily prove the Nielsen-Schreier theorem; that the subgroups of free groups are free. Over this summer, we will try to learn many interesting things such as Groups acting freely and non-freely on trees, Free groups and Folding, The Ping-Pong Lemma, etc.
 
@@ -37,7 +37,7 @@ The following people, apart from the group leader, have completed the reading pr
 
 The project is officially completed.
 
-### Representation Theory
+## Representation Theory
 
 In this project, we study groups from a different setting than usual, using linear algebra. Vector spaces have a lot of structure, and we exploit them using “representations” to study groups. This leads to a lot of surprising results, a major one being Burnside’s theorem: “every group of order is simple”. We will see a proof of this in this project, seeing how number theory and representation theory interact to provide us with this result. Given time, we might also see applications of representation theory in probability, studying Diaconis’ work on card shuffling.
 
@@ -49,12 +49,13 @@ In this project, we study groups from a different setting than usual, using line
   - Varun Balasubramaniam (B3)
   - Ishaan Bhadoo (B3)
 - **Topics Covered:**
+  - [TBA]
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
 The project is officially completed.
 
-### Introduction to Algebraic Topology
+## Introduction to Algebraic Topology
 
 The aim of learning algebraic topology is to develop algebraic invariants to study topological spaces.
 
@@ -78,7 +79,7 @@ The following people, apart from the group leader, have completed the reading pr
 
 The project is officially completed.
 
-### Algebraic Geometry
+## Algebraic Geometry
 
 This UDGRP will be an introduction to algebraic geometry, with a focus on plane curves. Algebraic geometry occupies a central role in modern mathematics; it was born out of the study of the curves and surfaces defined by polynomial equations (so called algebraic curves and surfaces), but scarcely any domains of math have been left untouched by it. Algebraic geometry originated with Descarte's forays into what is now called analytic geometry. It quickly proceeded to become one of the central pursuits of mathematicians, attracting minds as illustrious as Newton, Fermat, and Euler. Solving a system of polynomial equations corresponds to finding the intersections of the curves they define, and a stream of results in and around the 18th century culminated in what is called Bezout's theorem; two curves defined by degree m and degree n polynomials intersect in exactly mn points, provided care is taken to define their intersection properly. In particular, the curves taken should lie in projective space, and the desire to simplify the study of curves also serves as excellent motivation for projective space. We shall study, and prove Bezout's theorem in this UDGRP. Many problems in mathematics that involve space of some kind are easy to solve in limited regions of the space, but not throughout it. Mathematicians then divide the space into many tiny parts, solve the problem for each part, and piece the solutions together. You will get your first taste of this when you learn about Max Noether's theorem, which lets us solve the problem of determining when a curve can be defined by given sets of equations by examining the question at points where the curves described by the sets of equations intersect. Then we shall generalize the notion of algebraic curves enabling us to study their properties without reference to any surrounding space; we shall study curves independent of the space they are embedded in. Doing so will allow us to talk about blowing up: a powerful geometric technique to correct imperfections (singularities) of curves, that has since spread as far as the study of differential equations.
 
@@ -88,6 +89,7 @@ Finally, we shall turn our attention to functions whose domains are algebraic cu
   - [_Algebraic Curves_](https://web.archive.org/https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf) -- William Fulton
 - **Group Leader:** Eeshan Pandey (B3)
 - **Topics Covered:**
+  - [TBA]
 
 The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
@@ -96,7 +98,7 @@ The following people, apart from the group leader, have completed the reading pr
 
 The project is officially completed.
 
-### Introduction to Differential Geometry
+## Introduction to Differential Geometry
 
 We will start with a simple question: How would three ants know if they are walking on a cylindrical bottle or a ball? The answer involves concepts such as curvature, classes of surfaces, and geodesics. In the field of Differential Geometry, we study the geometric properties of various curves and surfaces using analytical techniques. Dealing with properties like the curvature for curves in plane and space, we can determine the local (and global) nature of the given curve. In this group reading project, we will explore the fundamentals of differential geometry and learn how to describe and analyze curves and surfaces in different ways. We will start by going through basic concepts of multivariable calculus and learn how to use tools such as partial derivatives, gradients, divergence, curl, and integrals to study functions of several variables. We will then introduce the concepts of curves and arc lengths, and see how to measure the curvature and torsion of a curve in space. We will also investigate the global properties of curves such as the Frenet-Serret formulas and the four-vertex theorem.
 
@@ -107,20 +109,20 @@ theorem, which relates the total curvature of a surface to its topological chara
 
 - **Pre-Requisites:** Basic Analysis and Linear Algebra
 - **References:**
-  - [_Calculus, Volume II_](https://web.archive.org/https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20Vol.2%20-%20Multi-Variable%20Calculus%20and%20Linear%20Algebra%20with%20Applications.pdf) -- Tom M .Apostol
+  - [_Calculus, Volume II_](https://web.archive.org/https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20Vol.2%20-%20Multi-Variable%20Calculus%20and%20Linear%20Algebra%20with%20Applications.pdf) -- Tom M. Apostol
   - [_Elementary Differential Geometry_](https://link.springer.com/book/10.1007/978-1-84882-891-9) -- Andrew Pressley
   - _Elementary Topics in Differential Geometry_ -- John A. Thorpe
 - **Group Leaders:**
   - Devansh Kamra (B3)
   - R Gnanananda Shreyas (B3)
 - **Topics Covered:**
-  - Point set Topology on \\(R^{n}\\)
-  - Continuity and Differentiability on \\(R^{n}\\)
+  - Point set Topology on \\(\mathbb{R}^{n}\\)
+  - Continuity and Differentiability on \\(\mathbb{R}^{n}\\)
   - Chain rule for Multivariable Functions
   - Directional Derivatives
   - Clairout's and Hermann Schwartz Theorem
   - Total derivatives and reduction of Total derivatives
-  - Mean Value theorem in \\(R^{n}\\)
+  - Mean Value theorem in \\(\mathbb{R}^{n}\\)
   - Taylor series for Multivariable Functions
   - Inverse and Implicit Function Theorem
   - Riemann Integration for Multivariable Functions
@@ -136,7 +138,7 @@ theorem, which relates the total curvature of a surface to its topological chara
   - Planes and Normals
   - Surface Integrals
   - Green's Theorem
-  - Divergence Theorem and Strokes's Theorem on \\(R^{n}\\)
+  - Divergence Theorem and Strokes's Theorem on \\(\mathbb{R}^{n}\\)
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 

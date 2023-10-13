@@ -5,6 +5,10 @@ description: "Expository Talks for the year 2023 at the Students' Math Club at I
 
 {{< katex >}}
 
+{{< lead >}}
+Fall 2023
+{{< /lead >}}
+
 ## EP2312: Critical Percolation on Non-Amenable groups
 
 - **Speaker:** Ishaan Bhadoo (B. Math, 2024)
@@ -93,7 +97,7 @@ description: "Expository Talks for the year 2023 at the Students' Math Club at I
 - **Abstract:** We will discuss the Djikgraff-Witten approach to Topological Quantum Field Theories which are essentially representations of the Cobordism Category. We would only dwell on the simplest non trivial dimensions (1 + 1) and see how the classification of 2-D surfaces leads to an elegant result like the Mednykh's Formula. We will try to motivate how something that was conceived as a toy model for quantum theory is leading to "brave new mathematics" and might (???) provide some understanding of classification of manifolds and structure of higher categories.
 - **Pre-requisites:** Some familiarity with the basics of group representations might be useful.No knowledge of category theory will be assumed but familiarity with definition of categories and functors would be helpful.
 - **Date and time:** Sunday, 13th August 2023, 11:00 am - 12:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Place:** 2nd Floor Auditorium, Academic Building
 
 ## EP2303: Hyperbolic Geometry, Hyperbolic Surfaces and Fuchsian Groups
 
@@ -106,7 +110,13 @@ description: "Expository Talks for the year 2023 at the Students' Math Club at I
   - [_3-dimensional Geometry and Topology_](https://web.archive.org/https://math.berkeley.edu/~ianagol/276.S10/bookdraft.pdf) -- William Thurston
 - **Video:** Available [here](https://youtu.be/VWTdBFcM8TI).
 - **Date and time:** Saturday, 12th August 2023, 11:00 am - 12:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Place:** 2nd Floor Auditorium, Academic Building
+
+---
+
+{{< lead >}}
+Spring 2023
+{{< /lead >}}
 
 ## EP2302: Michael Keane's proof of the SLLN
 
