@@ -36,7 +36,7 @@ Who has the winning strategy?
 
 ## Guess the Sign
 
-Can you guess the sign of the \\(n^{\text{th}}\\) term of the expression?
+Can you guess the sign of the \\(n^{\textsf{th}}\\) term of the expression?
 
 $$
 \prod_{i=1}^\infty (1-a_i) = 1 - a_1 - a_2 + a_1a_2 - a_3 + a_3a_1 + a_3a_2 - a_3a_1a_2 - \dots
