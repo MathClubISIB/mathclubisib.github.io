@@ -11,7 +11,7 @@ WRP 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GR
 
 This is the home page of the WRP 2022 organised by the Math Club.
 
-### Category Theory
+## Category Theory
 
 Category theory originally arose as methods of formalising certain facts that hold for entire classes of mathematical structures, so as to make life easier and prove theorems at once for a large class of objects. In the last 50 or so years, it has however become a very diverse and useful branch of mathematics unto itself. We plan to have a brisk walk through the basic areas of category theory as well as look at how such abstractions actually help in solving very relevant problems in real life.
 
@@ -36,7 +36,7 @@ The following people, apart from the group leaders, have completed the reading p
 
 The project is officially completed.
 
-### Galois Theory
+## Galois Theory
 
 In the nineteenth century, two very young mathematicians, Neils Abel and Evariste Galois, answered a question about which the mathematical world had been curious for centuries. It is a question about the central activity of algebra, solving equations, particularly the question: Is there a formula for solving fifth degree polynomial equations? In this reading project, we will provide a modernized approach towards solving this question and discover the many uses of this approach and how it plays a central role in Algebra.
 
@@ -63,7 +63,7 @@ The following people, apart from the group leaders, have completed the reading p
 
 The project is officially completed.
 
-### Generating Functions
+## Generating Functions
 
 Generating functions are a useful tool which have a wide range of applicability. They can be used to find recurrence relations, sometimes even the exact form of a sequence. They can be used to get asymptotic formulae for the sequence when the exact form is too difficult to calculate, as in the case of The Prime number Theorem. Generating functions can also be used to calculate averages and other statistical properties of a sequence. This winter, we’ll try and learn some of these applications of Generating functions.
 
@@ -87,7 +87,7 @@ The following people, apart from the group leaders, have completed the reading p
 
 The project is officially completed.
 
-### Markov Chain and Mixing Time
+## Markov Chain and Mixing Time
 
 The study of Markov Chains is a lively and central part of modern probability theory. It has ties to several other mathematical areas as well, such as Algebraic Combinatorics, Graph Theory and Representation Theory to name a few. In this group reading project, we are going to introduce Markov Chains and look at a lot of classical (and useful) examples. Time permitting, we will look at Card Shuffling chains, which are an interpretation of Random Walks on the Symmetric Group.
 
@@ -117,7 +117,7 @@ The following people, apart from the group leaders, have completed the reading p
 
 The project is officially completed.
 
-### Probabilistic Method
+## Probabilistic Method
 
 We will introduce The Probabilistic Method as a tool for tackling problems
 in Graph Theory, Ramsey Theory, etc. A brief introduction to Graph Theory and Ramsey Theory will be given.
@@ -152,14 +152,14 @@ The following people, apart from the group leader, have completed the reading pr
 
 The project is officially completed.
 
-### Topology and Topological Groups
+## Topology and Topological Groups
 
 Topology arises in most of the field of mathematics quite naturally, and the study of topological spaces is a prime task in mathematics. Topology attempts to generalize geometry to apply it to a vast number of settings. This is going to a primary introduction to topology and we will also see what happens when we add more structure to the space such as topological groups. If time permits we will give a brief motivation for Algebraic Topology.
 
 - **Primary Reference:**
   - _Topology_ -- Klaus Jänich
   - [_Introduction to Topological Manifolds_](https://link.springer.com/book/10.1007/978-1-4419-7940-7) -- John M. Lee
-  - [_Topology_](https://web.archive.org/http://www.alefenu.com/libri/topologymunkres.pdf) -- James Munkres
+  - [_Topology_](https://web.archive.org/http://www.alefenu.com/libri/topologymunkres.pdf) -- James R. Munkres
 - **Group Leaders:**
   - Soumya Dasgupta (B2)
   - Trishan Mondal (B2)

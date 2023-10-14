@@ -71,7 +71,8 @@ The project is officially completed.
 Knot theory is a branch of mathematics which is perhaps the most "visual" yet fascinating. A considerably less sought after branch, it is one of the key elements of what is called "Geometric Topology". We shall be looking at knots, links, their invariants, classifications, associated polynomials and algebraic structures. We shall also have a look at other aspects of geometric topology and how they can be applied to Knot Theory. The main reading should be accessible even to those not very familiar with Point-Set Topology, though a familiarity would almost surely be helpful.
 
 - **Pre-Requisites:** Basic knowledge of groups and their actions, metric spaces. Topology will be helpful, though not necessary.
-- **Primary References:** [_The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots_](https://web.archive.org/https://www.math.cuhk.edu.hk/course_builder/1920/math4900e/Adams--The%20Knot%20Book.pdf) -- Colin C. Adams
+- **Primary References:**
+  - [_The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots_](https://web.archive.org/https://www.math.cuhk.edu.hk/course_builder/1920/math4900e/Adams--The%20Knot%20Book.pdf) -- Colin C. Adams
 - **Group Leaders:**
   - Snehinh Sen (B3)
   - (assisted by) Harshul Khanna (B3)
@@ -100,7 +101,8 @@ The project is officially completed.
 Matrix Groups are very special. Not only are they groups but also have an intrinsic vector space structure. This gives rise to the beautiful Lie Theory. The target of this course is to give a glimpse of it and see how beautifully various different aspects of mathematics like Analysis, Linear Algebra, Abstract Algebra, Topology and Geometry join hands to create a wonderful theory of these groups. Time permitting, we shall also have a look at the Representation Theory of such groups and their corresponding Lie algebras.
 
 - **Pre-Requisites:** A working knowledge of Groups and Vector Spaces, multivariable calculus, topological aspects of metric spaces.
-- **Primary Reference:** _Matrix Groups For Undergraduates_ -- Kristopher Tapp
+- **Primary Reference:**
+  - _Matrix Groups For Undergraduates_ -- Kristopher Tapp
 - **Group Leaders:**
   - Shahbaz A. Khan (B3)
   - Siddharth Acharya (B3)

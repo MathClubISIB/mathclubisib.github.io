@@ -68,7 +68,7 @@ Algebraic Topology consists of a vast and powerful theory that attempts to answe
 
 - **Pre-Requisites:** Metric Spaces, Elementary Point Set Topology, Elementary Real Analysis, Groups, Normal Subgroups, The Isomorphism Theorems.
 - **Primary References:**
-  - [_Topology_](https://web.archive.org/http://www.alefenu.com/libri/topologymunkres.pdf) -- James Munkres
+  - [_Topology_](https://web.archive.org/http://www.alefenu.com/libri/topologymunkres.pdf) -- James R. Munkres
   - [_Introduction to Topological Manifolds_](https://link.springer.com/book/10.1007/978-1-4419-7940-7) -- John M. Lee
   - [_An Introduction To Algebraic Topology_](https://web.archive.org/https://www.ugr.es/~acegarra/Rotman.pdf) -- Joseph J. Rotman
 - **Group Leader:** Srigyan Nandi (B3)
