@@ -1,0 +1,47 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<div class="flex flex-wrap justify-center mt-4">
+  {{ range .Site.Data.users }}
+  <div class="flex flex-col p-4 items-center">
+
+    <div class="mb-3">
+      {{ $authorImage := resources.Get .image }}
+      {{ if $authorImage }}
+      {{ if not $disableImageOptimization }}
+      {{ $authorImage = $authorImage.Fill "192x192" }}
+      {{ end }}
+      <img class="!pr-0 !mt-0 !mb-0 h-30 w-30 rounded-full" width="150" height="150" alt="{{ .name | default " Author"
+        }}" src="{{ $authorImage.RelPermalink }}" />
+      {{ end }}
+    </div>
+
+    <div class="text-center m-0.5">
+
+      {{ with .name | markdownify | emojify }}
+      <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+        {{ . }}
+      </div>
+      {{ end }}
+
+      {{ with .bio | markdownify | emojify }}
+      <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
+      {{ end }}
+
+      {{ with .creds | markdownify | emojify }}
+      <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
+      {{ end }}
+
+      <div class="social-media">
+        {{ range $links := .social }}
+        {{ range $name, $url := $links }}
+        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="{{ $url | safeURL }}" target="_blank"
+          aria-label="{{ $name | title }}" rel="me noopener noreferrer"><span
+            class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span></a>
+        {{ end }}
+        {{ end }}
+      </div>
+
+    </div>
+
+  </div>
+  {{ end }}
+</div>

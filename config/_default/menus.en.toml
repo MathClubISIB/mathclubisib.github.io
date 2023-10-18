@@ -120,6 +120,11 @@ parent = "Past Activities"
 pageRef = "wrp"
 weight = 20
 
+[[main]]
+name = "Team"
+pageRef = "team"
+weight = 30
+
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
