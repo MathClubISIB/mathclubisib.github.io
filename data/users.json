@@ -7,17 +7,17 @@
     "social": [{ "github": "https://github.com/BikramHalder" }, { "envelope": "mailto:bikram0x@outlook.com" }]
   },
   {
-    "name": "Saraswata Sensarma",
-    "image": "img/team/saraswata_sensarma.jpg",
-    "bio": "Vice President",
-    "creds": "B. Math, 3rd year",
-    "social": [{ "envelope": "mailto:sensarma.math@gmail.com" }]
-  },
-  {
     "name": "Hrishik Koley",
     "image": "img/team/Hrishik_Koley.jpg",
     "bio": "Interests: Graph Theory, Combinatorics",
     "creds": "B. Math, 2nd year",
     "social": [{ "github": "https://github.com/Hrishik-Koley" },{ "envelope": "mailto:hrishik.math@gmail.com" }]
+  },
+  {
+    "name": "Saraswata Sensarma",
+    "image": "img/team/saraswata_sensarma.jpg",
+    "bio": "Vice President",
+    "creds": "B. Math, 3rd year",
+    "social": [{ "envelope": "mailto:sensarma.math@gmail.com" }]
   }
 ]
