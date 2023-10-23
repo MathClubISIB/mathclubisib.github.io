@@ -6,6 +6,7 @@ summary: "Meet our amazing team!"
 cascade:
   showDate: false
   showAuthor: false
+  showToC: false
 ---
 
 {{< lead >}}
