@@ -1,6 +1,7 @@
 ---
 title: "Undergraduate Directed Group Reading Program"
 description: "UDGRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Exploring different topics, discovering applications and related areas during the summer break."
 
 cascade:
   showDate: false

@@ -1,6 +1,7 @@
 ---
 title: "WRP Winter 2023"
 description: "WRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "9 Projects | 4 Weeks | 9 Groups | 12 Leaders | 1 Assistant"
 ---
 
 {{< katex >}}

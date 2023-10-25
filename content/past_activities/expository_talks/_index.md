@@ -1,6 +1,7 @@
 ---
 title: "Expository Talks"
 description: "Expository Talks at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Expository Talks by the students and professors"
 ---
 
 {{< katex >}}

@@ -1,6 +1,7 @@
 ---
 title: "Winter Reading Program"
 description: "WRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Exploring different topics, discovering applications and related areas during the winter break."
 
 cascade:
   showDate: false

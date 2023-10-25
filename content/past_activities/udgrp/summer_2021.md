@@ -1,6 +1,7 @@
 ---
 title: "UDGRP Summer 2021"
 description: "UDGRP Summer 2021 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "4 Projects | 8 Weeks | 4 Groups | 4 Leaders | 2 Assistants | 8 Participants"
 ---
 
 {{< katex >}}

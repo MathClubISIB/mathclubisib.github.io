@@ -7,6 +7,14 @@ description: "General Problems suggested by the Students, Research Scholars and 
 
 On this page, we will be posting some general problems. You are encouraged to solve them and send your solutions (preferably \\(\LaTeX\\)ed or typed) to <mathclub.isibang@gmail.com>. There is no particular deadline before which you are expected to submit your solutions. A few well-written and nice solutions will be posted up for everyone to see. Happy solving!
 
+<!-- From Wordpress  -->
+<!--
+## The 67<sup>th</sup> Mersenne Prime
+
+At the October, 1903, meeting in New York of the American Mathematical Society, Frank Cole had a paper on the program with the modest title "On the factorization of large numbers". When the chairman called on him for his paper, Cole—who was always a man of few words—walked to the board and, saying nothing, proceeded to chalk up the arithmetic for raising 22 to the sixty-seventh power. Then he carefully subtracted 11. Without a word, he moved over to a clear space on the board and multiplied out, by longhand, \\(193,707,721 \times 761,838,257,287\\). The two calculations agreed. … For the first and only time in record, an audience of the American Mathematical Society vigorously applauded the author of a paper delivered before it. Cole took his seat without having uttered a word. Nobody asked him a question.
+
+Ref: https://hsm.stackexchange.com/questions/2105/whats-the-famous-story-about-a-mathematician-who-gave-a-talk-without-saying-a-w -->
+
 ## A Puzzle to Puzzle You
 
 [Here](/pdfs/gen_prob/a_puzzle_to_puzzle_you.pdf) is a problem posed by Snehinh Sen (B. Math, 2022).

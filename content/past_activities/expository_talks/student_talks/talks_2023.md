@@ -1,9 +1,14 @@
 ---
-title: "Expository Talks 2023"
+title: "Student Talks 2023"
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "12 Lectures | 2 Spring Sectures | 10 Autumn Lectures"
 ---
 
 {{< katex >}}
+
+All expository talks given by students of ISI Bangalore at our [Math Club](/) are listed below.
+
+---
 
 {{< lead >}}
 Fall 2023

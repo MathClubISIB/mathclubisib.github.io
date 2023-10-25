@@ -1,6 +1,7 @@
 ---
 title: "UDGRP Summer 2022"
 description: "UDGRP Summer 2022 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "6 Projects | 8 Weeks | 6 Groups | 8 Leaders | 14 Participants"
 ---
 
 {{< katex >}}
@@ -83,7 +84,7 @@ The following people, other than the leader, have completed the reading project 
 - Aratrick Basu (B2)
 - Eeshan Pandey (B2)
 - Gautham Ravuri (B3)
-- Soumya Das Gupta (B2)
+- Soumya Dasgupta (B2)
 
 The project is officially completed.
 
