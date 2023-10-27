@@ -60,7 +60,8 @@ In the nineteenth century, two very young mathematicians, Neils Abel and Evarist
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
-- Malav Dhaval Doshi (B1)
+- Amit Kumar Basistha (B1)
+- Aditya Garg (B1)
 
 The project is officially completed.
 

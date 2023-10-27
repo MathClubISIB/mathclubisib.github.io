@@ -86,37 +86,37 @@ pageRef = "resources/archived_articles"
 weight = 20
 
 [[main]]
-name = "Past Activities"
-pageRef = "past_activities"
+name = "Activities"
+pageRef = "activities"
 weight = 20
 
 [[main]]
 name = "Foundational Courses"
-parent = "Past Activities"
-pageRef = "past_activities/foundational_courses"
+parent = "Activities"
+pageRef = "activities/foundational_courses"
 weight = 20
 
 [[main]]
 name = "Lecture Series"
-parent = "Past Activities"
-pageRef = "past_activities/lecture_series"
+parent = "Activities"
+pageRef = "activities/lecture_series"
 weight = 20
 
 [[main]]
 name = "Expository Talks"
-parent = "Past Activities"
-pageRef = "past_activities/expository_talks"
+parent = "Activities"
+pageRef = "activities/expository_talks"
 weight = 20
 
 [[main]]
 name = "UDGRP"
-parent = "Past Activities"
+parent = "Activities"
 pageRef = "udgrp"
 weight = 20
 
 [[main]]
 name = "WRP"
-parent = "Past Activities"
+parent = "Activities"
 pageRef = "wrp"
 weight = 20
 

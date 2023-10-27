@@ -12,6 +12,28 @@ UGDRP SUMMER 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED I
 
 This is the home page of the UDGRP Summer 2023 organised by the [Math Club](/). The projects start from Saturday, 10<sup>th</sup> June, 2023. The topics being considered this time are presented below.
 
+## Applied Stochastic Processes
+
+The study of Markov Chains is a lively and central part of modern probability theory. It has ties to several other mathematical areas as well, such as Algebraic Combinatorics, Graph Theory and Representation Theory to name a few. In this group reading project, we are going to introduce Markov Chains and look at a lot of classical (and useful) examples. Our primary focus will be on the mixing of Markov Chains and computation of mixing times.
+We will spend some time dealing with coupling and Strong Stationary times, which will help us give upper bounds to the mixing times of some Markov Chains. We will also discuss some methods to give lower bounds to the mixing time. The second part of the project would concern other types of Markov Chains, mainly Shuffling Chains and Random Walk on Graphs, on both finite and countable state spaces. We will also deal with the Algebraic Treatment of Markov Chains, which would give further insight regarding the mixing of a large class of Chains.
+
+- **References:**
+
+  - _Markov Chains and Mixing Times_ -- Levine, Peres, Wilmer
+  - _Random Walks and Heat Kernels_ -- Martin T. Barlow
+  - _Analysis on Graphs_ -- Alexander Grigor\\(\'\\)yan
+
+- **Group Leader:**
+  - Deepta Basak (B3)
+  - Saraswata Sensarma (B3)
+  - Sarvesh Ravichadran Iyer (Ph.D)
+- **Topics Covered:**
+  - [TBA]
+
+The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+The project is officially completed.
+
 ## Geometric Group Theory
 
 Guillermo Moreno said, "Groups, like men, will be defined by their actions." Geometric Group Theory is all about studying actions of groups on Geometric Objects. By looking at such actions and the inherent geometry of the space being acted on, we can gain information about the structure of the group. For example, free groups are precisely the ones that admit a "free" action on a tree. This can be then used to very easily prove the Nielsen-Schreier theorem; that the subgroups of free groups are free. Over this summer, we will try to learn many interesting things such as Groups acting freely and non-freely on trees, Free groups and Folding, The Ping-Pong Lemma, etc.

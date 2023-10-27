@@ -1,7 +1,7 @@
 ---
 title: "WRP Winter 2023"
 description: "WRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "9 Projects | 4 Weeks | 9 Groups | 12 Leaders | 1 Assistant"
+summary: "9 Projects | 4 Weeks | 9 Groups | 12 Leaders"
 ---
 
 {{< katex >}}
@@ -44,7 +44,7 @@ This course aims to provide students with a solid foundation in probabilistic to
   - [_The Probabilistic Method_](https://web.archive.org/https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) -- Noga Alon & Joel A. Spencer
 - **Group Leaders:**
   - Hrishik Koley (B2)
-  - (assisted by) Bikram Halder (B3)
+  - Bikram Halder (B3)
 - **Topics to be Covered:**
   - Basic concepts and definitions related to graphs.
   - Basic probabilistic methods: LLNs, CLT, 1st & 2nd moment methods, convergence of random variables, basic branching process, Chernoff & Cramer bounds, Matringales, concentration inequalities and their use in graphs.
