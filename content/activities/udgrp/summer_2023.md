@@ -72,9 +72,15 @@ In this project, we study groups from a different setting than usual, using line
   - Varun Balasubramaniam (B3)
   - Ishaan Bhadoo (B3)
 - **Topics Covered:**
-  - [TBA]
+  - Group Representations
+  - Character Theory and the Orthogonality Relations
+  - Fourier Analysis on Finite Groups
+  - Burnside's Theorem
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Amit Kumar Basistha (B2)
+- Pragalbh Kumar Awasthi (B2)
 
 The project is officially completed.
 

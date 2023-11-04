@@ -11,26 +11,26 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Upcoming Activities"
-pageRef = "upcoming_activities"
-weight = 20
-
-[[main]]
-name = "Expository Talks (New!)"
-parent = "Upcoming Activities"
-pageRef = "upcoming_activities/expository_talks"
-weight = 20
-
-[[main]]
 name = "News and Events"
-parent = "Upcoming Activities"
-pageRef = "upcoming_activities/news_and_events"
-weight = 20
+pageRef = "news_and_events"
+weight = 30
+
+#[[main]]
+#name = "Expository Talks (New!)"
+#parent = "Upcoming Activities"
+#pageRef = "upcoming_activities/expository_talks"
+#weight = 20
+
+#[[main]]
+#name = "News and Events"
+#parent = "Upcoming Activities"
+#pageRef = "upcoming_activities/news_and_events"
+#weight = 20
 
 [[main]]
 name = "Participate"
 pageRef = "participate"
-weight = 20
+weight = 10
 
 [[main]]
 name = "Submit Problem"
