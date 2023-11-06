@@ -15,3 +15,7 @@
   ```bash
   hugo server
   ```
+- For more information, contact:
+  Aaratrick Basu ()
+  Bikram Halder (bikram0x@outlook.com)
+  Hrishik Koley (hrishik.math@outlook.com)
