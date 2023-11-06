@@ -1,12 +1,12 @@
 ---
 title: "Student Talks 2023"
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "13 Lectures | 2 Spring Lectures | 11 Autumn Lectures"
+summary: "13 Lectures | 2 Spring Lectures | 11 Autumn Lectures | 12 Speakers"
 ---
 
 {{< katex >}}
 
-All expository talks given by students of ISI Bangalore at our [Math Club](/) are listed below.
+All expository talks given by students of ISI Bangalore in the year 2023 at our [Math Club](/) are listed below.
 
 ---
 
@@ -25,8 +25,8 @@ Fall 2023
   - [_Stallings foldings and the subgroup structure of free groups_](https://arxiv.org/abs/math/0202285) -- Ilya Kapovich & Alexei Myasnikov
 - **Notes:** Available [here](https://drive.google.com/file/d/10D2IgbuTH-CMm9lbq1DH1JC19nEy1b77/view).
 - **Video:** Available [here](https://youtu.be/M6c2k7Gpha8).
-- **Date and Time:** Sunday, 29th October 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Sunday, 29th October 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2312: Critical Percolation on Non-Amenable groups
 
@@ -35,8 +35,8 @@ Fall 2023
   Many questions related to percolation on general graphs were initially introduced in the highly celebrated paper by Benjamini and Schramm, aptly titled "Percolation Beyond \\(\mathbb{Z}^d\\), Many Questions And a Few Answers". In our talk, we will present numerous classical results uncovered by Benjamini, Schramm, and their co-authors in the 1990s. We will then shift our focus to the recent advances in the field by Tom Hutchcroft and co-authors, which address many questions originally raised by Benjamini and Schramm. In particular, we will discuss the uniqueness and non-uniqueness phases of transitive graphs. We will then divert our attention to critical percolation and discuss Hutchcroft's amazing new proof, demonstrating that percolation dies at criticality for graphs exhibiting exponential growth.
 - **Notes:** Available [here](https://drive.google.com/file/d/1pldgkxBYNkibH5QOASASvixz1ciyYAKk/view).
 - **Video:** Available [here](https://youtu.be/ooXLCTn-qss).
-- **Date and Time:** Sunday, 8th October 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Sunday, 8th October 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2311: Analytic Continuation of the Riemann Zeta Function and the Prime Number Theorem
 
@@ -47,26 +47,26 @@ Fall 2023
   - [_An Introduction to Analytic Number Theory_](https://web.archive.org/https://dl.icdst.org/pdfs/files1/ebc2974176a03ab93756026a97b6d370.pdf) -- Tom M. Apostol
   - [_A Primer of Analytic Number Theory: From Pythagoras to Riemann_](https://web.archive.org/https://dl.icdst.org/pdfs/files1/287ed52c57df09ab91e07060cf7dd40f.pdf) -- Jeffrey Stopple
 - **Video:** Available [here](https://youtu.be/GRr6yUCfCmI).
-- **Date and Time:** Saturday, 7th October 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Saturday, 7th October 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2310: Representations of the symmetric and alternating groups
 
 - **Speaker:** Pavan K Srinivasan (B. Math, 2024)
 - **Abstract:** The theory of representations of the symmetric group has a wide variety of potential applications, ranging from quantum chemistry to the study of symmetric functions.In this talk, we begin by introducing some notions of finite group representations including some basic results about characters of groups. We will use these tools to find combinatorial criteria for the irreducibility of representations of symmetric and alternating groups using the Robinson-Schensted-Knuth (RSK) Algorithm. We will also see how irreducible representations of \\(S_n\\) behave when restricted to particular subgroups, and see elegant methods to compute character values of these representations.
 - **Video:** [TBU]
-- **Date and Time:** Monday, 2nd October 2023, 11:30 am - 1:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Date and Time:** Monday, 2nd October 2023, 11:30 AM - 1:30 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2309: Estimation in Curie-Weiss Tensor Potts model
 
 - **Speaker:** Sanchayan Bhowal (M. Math, 2025)
 - **Abstract:** Spin glass models are a fundamental class of models extensively studied in statistical physics. The celebrated Ising model and its generalization, the Potts model, are classical examples of the same. In this talk, we introduce a further generalization involving the concept of peer interactions, called the tensor Curie Weiss model. Much like the other spin glass systems, it exhibits phase transition. We will then derive the limiting distribution of the maximum likelihood estimates of the parameters and the magnetization vector. We will describe the limiting distribution for a certain subset of the parameter space. If time permits, we would extend our analysis to the remaining space. This talk will primarily be based on the paper [arXiv:2307.01052](https://arxiv.org/abs/2307.01052).
 - **Pre-requisites:** Familiarity with MLEs and convergence laws in probability is recommended.
-- **Notes:** Available [here](https://drive.google.com/file/d/1b5YZpxnJO0Zuol0Bf2u-9YdLvVA9i1N0/view?usp=drive_link).
+- **Notes:** Available [here](https://drive.google.com/file/d/1b5YZpxnJO0Zuol0Bf2u-9YdLvVA9i1N0/view).
 - **Video:** Available [here](https://youtu.be/XxchJRrzAQ0).
-- **Date and Time:** Sunday, 1st October 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Sunday, 1st October 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2308: A Proof of Cayley's Formula via Poisson Branching Process
 
@@ -77,8 +77,8 @@ Fall 2023
   - [_Random Graphs and Complex Networks, Volume I_](https://web.archive.org/https://www.win.tue.nl/~rhofstad/NotesRGCN.pdf) -- Remco van der Hofstad
   - [_The Random Walk Construction of Uniform Spanning Trees and Uniform Labelled Trees_](https://web.archive.org/https://www.cs.cmu.edu/~15859n/RelatedWork/AldousRandomTrees.pdf) -- David J Aldous
 - **Video:** Available [here](https://youtu.be/gvAeTNCKMW0).
-- **Date and Time:** Saturday, 30th September 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Saturday, 30th September 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2307: On the extrema of some log-correlated fields
 
@@ -89,8 +89,8 @@ Fall 2023
   - Most of the material on Branching Random Walks and Gaussian Free Fields is covered in the [lecture notes](https://web.archive.org/https://www.wisdom.weizmann.ac.il/~zeitouni/pdf/notesBRW.pdf).
   - [Talk by Ofer Zeitouni at ICTS](https://youtu.be/zoMA65FTcmw): This covers most of the materials on models based on Random Matrices and the Riemann Zeta function. Zeitouni also suggests many references in this talk.
 - **Video:** Available [here](https://youtu.be/mx8sSpEffcg).
-- **Date and Time:** Sunday, 3rd September 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Sunday, 3rd September 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2306: Projective Geometry
 
@@ -100,8 +100,8 @@ Fall 2023
   - _Geometric Transformation III_ -- I. M. Yaglom
   - [_Projective Geometry_](https://www.imomath.com/index.cgi?page=projectiveGeometry) -- Milivoje Lukić (IMO Compendium)
 - **Video:** Available [here](https://youtu.be/O7vKHEY5HJ4).
-- **Date and Time:** Saturday, 2nd September 2023, 11:00 am - 12:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Date and Time:** Saturday, 2nd September 2023, 11:00 AM - 12:30 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2305: What is so special about \\(\mathbb{Z}\left[ \frac{1+\sqrt{-19}}2 \right]\\) ?
 
@@ -110,16 +110,16 @@ Fall 2023
 - **References:**
   - [_Algebraic Number Theory_](https://web.archive.org/https://www.maths.ed.ac.uk/~v1ranick/papers/mollin.pdf) -- Richard A. Mollin
 - **Video:** Available [here](https://youtu.be/yYhEM8Bd9js).
-- **Date and Time:** Saturday, 19th August 2023, 11:00 am - 12:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Date and Time:** Saturday, 19th August 2023, 11:00 AM - 12:30 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2304: On a proof of the Mednykh's Formula via Dijkgraff-Witten Theory on 1 + 1 Cobordisms
 
 - **Speaker:** Prognadipto Majumder (B. Math, 2024)
 - **Abstract:** We will discuss the Djikgraff-Witten approach to Topological Quantum Field Theories which are essentially representations of the Cobordism Category. We would only dwell on the simplest non trivial dimensions (1 + 1) and see how the classification of 2-D surfaces leads to an elegant result like the Mednykh's Formula. We will try to motivate how something that was conceived as a toy model for quantum theory is leading to "brave new mathematics" and might (???) provide some understanding of classification of manifolds and structure of higher categories.
 - **Pre-requisites:** Some familiarity with the basics of group representations might be useful.No knowledge of category theory will be assumed but familiarity with definition of categories and functors would be helpful.
-- **Date and Time:** Sunday, 13th August 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Sunday, 13th August 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2303: Hyperbolic Geometry, Hyperbolic Surfaces and Fuchsian Groups
 
@@ -130,10 +130,10 @@ Fall 2023
   - [_A primer on mapping class groups_](https://web.archive.org/http://euclid.nmu.edu/~joshthom/Teaching/MA589/farbmarg.pdf) -- Benson Farb & Dan Margalit
   - _Teichmüller Theory, Volume 1_ -- John Hubbard
   - [_3-dimensional Geometry and Topology_](https://web.archive.org/https://math.berkeley.edu/~ianagol/276.S10/bookdraft.pdf) -- William Thurston
-- **Notes:** Available [here](https://drive.google.com/file/d/107CvCQeXglv__CELvLcsxUZVCeLyoemX/view?usp=drive_link).
+- **Notes:** Available [here](https://drive.google.com/file/d/107CvCQeXglv__CELvLcsxUZVCeLyoemX/view).
 - **Video:** Available [here](https://youtu.be/VWTdBFcM8TI).
-- **Date and Time:** Saturday, 12th August 2023, 11:00 am - 12:30 pm
-- **Place:** 2nd Floor Auditorium, Academic Building
+- **Date and Time:** Saturday, 12th August 2023, 11:00 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ---
 
@@ -147,13 +147,13 @@ Spring 2023
 - **Abstract:** Weak law of large numbers is generally taught in undergraduate probability courses. However, the proof of strong law of large numbers is generally omitted. The original proof involved manipulation of moments. However, we will look at Keane's proof of the strong law. Time to get stronger!
 - **References:**
   - [_The Essence of the Law of Large Numbers_](https://web.archive.org/https://www.isibang.ac.in/~athreya/swms2018f/lln3.pdf) -- Michael Keane
-- **Date and Time:** Sunday, 2nd April 2023, 11:00 am - 12:00 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Date and Time:** Sunday, 2nd April 2023, 11:00 AM - 12:00 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2301: Introduction to Ising Model
 
 - **Speaker:** Sarvesh Ravichandran Iyer (Ph.D)
 - **Abstract:** An Introduction to Ising Models. This talk was given to make students familiar with the Pre-requisites fot Hugo Duminil-Copin's talk at ICTS, Bangalore.
 - **Video:** Available [here](https://www.youtube.com/watch?v=9RJ9iMiPA68).
-- **Date and Time:** Sunday, 8th January 2023, 10:30 am - 12:30 pm
-- **Place:** G-26 Classroom, Academic Building
+- **Date and Time:** Sunday, 8th January 2023, 10:30 AM - 12:30 PM
+- **Venue:** G-26 Classroom, Academic Building
