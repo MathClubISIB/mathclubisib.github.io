@@ -23,9 +23,9 @@ Ref: https://hsm.stackexchange.com/questions/2105/whats-the-famous-story-about-a
 
 This wonderful problem has been posed by Rohan Pramod Shinde (B. Math, 2022). Try it out!
 
-> Let \\(n,k \in \mathbb N\\) be such that \\(2p \not\equiv 0 \\ (\text{mod } 2k+1)\\) for each \\(p = 1, 2, \dots, n\\). Then is the following true?
+> Let \\(n,k \in \mathbb N\\) be such that \\(2p \not\equiv 0\pmod{2k+1}\\) for each \\(p = 1, 2, \dots, n\\). Then is the following true?
 > $$ \int_0^\pi \Big[\sin{\left(a + \sin{((2k+1)x)}\right)} \Big]^{2n} {\rm d}x $$
-> What can you say if we remove the condition \\(2p \not\equiv 0 (\text{mod } 2k+1)\\) for each \\(p = 1, 2, \dots, n\\)?
+> What can you say if we remove the condition \\(2p \not\equiv 0\pmod{2k+1}\\) for each \\(p = 1, 2, \dots, n\\)?
 
 ## \\(\dots\\) Summing Up
 

@@ -17,7 +17,7 @@ mainSections = ["news"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "img/class_board_ssss.webp" # used as default for background images 
+# defaultBackgroundImage = "img/class_board_ssss.webp" # used as default for background images 
 # defaultFeaturedImage = "img/class_board_ssss.webp"   # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
