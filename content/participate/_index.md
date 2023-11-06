@@ -5,7 +5,6 @@ description: "Actively participate in the activities of Students' Math Club at I
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
 ---
 
 {{< katex >}}

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["news"]
+mainSections = ["news_and_events"]
 # robots = ""
 
 disableImageOptimization = false
@@ -66,8 +66,8 @@ showPagination = true
 invertPagination = false
 showReadingTime = false
 showTableOfContents = true
-# showRelatedContent = false
-# relatedContentLimit = 3
+showRelatedContent = true
+relatedContentLimit = 3
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = false
@@ -135,7 +135,7 @@ cardViewScreenWidth = false
 # globalWidgetPosition = "Right"
 
 [verification]
-# google = ""
+google = "tmdRerDxodO8wePbC7uipyREk4kquID6UodjMes6WHE"
 # bing = ""
 # pinterest = ""
 # yandex = ""

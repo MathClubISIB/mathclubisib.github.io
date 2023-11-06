@@ -6,7 +6,6 @@ summary: "Exploring different topics, discovering applications and related areas
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
 ---
 
 ## About UDGRP
