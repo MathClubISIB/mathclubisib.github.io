@@ -153,7 +153,7 @@ Spring 2023
 ## EP2301: Introduction to Ising Model
 
 - **Speaker:** Sarvesh Ravichandran Iyer (Ph.D)
-- **Abstract:** An Introduction to Ising Models. This talk was given to make students familiar with the Pre-requisites fot Hugo Duminil-Copin's talk at ICTS, Bangalore.
-- **Video:** Available [here](https://www.youtube.com/watch?v=9RJ9iMiPA68).
+- **Abstract:** An Introduction to Ising Models and some discussions (pre-requisites for Hugo Duminil-Copin's talk at ICTS, Bangalore)
+- **Video:** Available [here](https://youtu.be/9RJ9iMiPA68).
 - **Date and Time:** Sunday, 8th January 2023, 10:30 AM - 12:30 PM
 - **Venue:** G-26 Classroom, Academic Building
