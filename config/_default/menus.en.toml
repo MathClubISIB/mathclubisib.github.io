@@ -82,7 +82,7 @@ weight = 20
 [[main]]
 name = "Articles"
 parent = "Resources"
-pageRef = "resources/archived_articles"
+pageRef = "resources/articles"
 weight = 20
 
 [[main]]
