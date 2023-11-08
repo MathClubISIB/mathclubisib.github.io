@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2023"
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "13 Lectures | 2 Spring Lectures | 11 Autumn Lectures | 12 Speakers"
+summary: "13 Lectures | 2 Spring Lectures | 11 Fall Lectures | 12 Speakers"
 ---
 
 {{< katex >}}
