@@ -7,7 +7,7 @@ summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders"
 {{< katex >}}
 
 {{< lead >}}
-WRP 2023 is set to officially begin on 29th November, 2023. We will be organising promotional/introductory talks for all the WRP topics on 28th and 29th October, 2023. The schedule will be uploaded here.
+WRP 2023 is set to officially begin on 29th November, 2023. We have organised the introductory talks for all the WRP topics on 28th and 29th October, 2023. The class timings have been uploaded.
 {{< /lead >}}
 
 This is the home page of the WRP 2023 that will be organised by the [Math Club](/).
