@@ -29,7 +29,7 @@ In the 19th century, Lord Kelvin made a failed attempt to classify chemical elem
   - Knot Invariants - Knot Coloring, Alexander Polynomial, Kauffhart Polynomial, Jones Polynomial etc.
   - Knot Group
   - Links and Braids
-- **Date of Introductory Talk:** 28th October, 2023
+- **Date of Introductory Talk:** Sunday, 28th October, 2023
 
 ## Random Graphs
 
@@ -55,7 +55,7 @@ This course aims to provide students with a solid foundation in probabilistic to
 - **Tentative Topics:**
   - More: Kahn-Kalai Conjecture, Inhomogeneous Random Graphs, Configuration Model, Preferential Attachment Model.
   - Applications: Discussion of applications of random graphs in network
-- **Date of Introductory Talk:** 28th October, 2023
+- **Date of Introductory Talk:** Sunday, 28th October, 2023
 
 ## Galois Theory
 
@@ -75,7 +75,7 @@ Galois theory is an important branch of abstract algebra, with a rich history an
   - Ruler and Compass Constructions
   - Field Automorphisms
   - Fundamental Theorem of Galois Theory
-- **Date of Introductory Talk:** 28th October, 2023
+- **Date of Introductory Talk:** Sunday, 28th October, 2023
 
 ## Commutative Algebra
 
@@ -101,7 +101,7 @@ Commutative Algebra is the subject that provides the basic tools and structure r
   - Hilbert Basis theorem
   - Number Rings
   - Exact Sequences
-- **Date of Introductory Talk:** 28th October, 2023
+- **Date of Introductory Talk:** Sunday, 28th October, 2023
 
 ## Algebraic Topology
 
@@ -126,7 +126,7 @@ We shall then study the linking properties of the result of cutting n-twisted ba
   - Brower's Fixed Point Theorem
   - The Fundamental Group
   - Borsuk Ulam theorem and Ham Sandwich theorem
-- **Date of Introductory Talk:** 29th October, 2023
+- **Date of Introductory Talk:** Sunday, 29th October, 2023
 
 ## Measure Theory
 
@@ -150,9 +150,9 @@ Because of treating measure in a more general setting, this development immediat
   - Measurable Sets.
   - Lebesgue Measure, Measurable functions.
   - Lebesgue Integration: Integration on L+, simple functions, approximating measurable functions by Simple functions.
-  - Integration on \\(\mathbb{R}\\),\\(\mathbb{C}\\).
+  - Integration on \\(\mathbb{R}, \mathbb{C}\\).
   - Fatou's Lemma, Monotone Convergence Theorem, Dominated Convergence Theorem.
-- **Date of Introductory Talk:** 29th October, 2023
+- **Date of Introductory Talk:** Sunday, 29th October, 2023
 
 ## Random Walks, Stochastic Processes, and Brownian Motion
 
@@ -179,7 +179,7 @@ While there are no prerequisites for this WRP, having knowledge of results like 
 - **Tentative Topics:**
   - Kolmogorov Equations and their application in Brownian motion
   - Introduction To Kalman Filter and Optimal Transport.
-- **Date of Introductory Talk:** 29th October, 2023
+- **Date of Introductory Talk:** Sunday, 29th October, 2023
 
 ## Combinatorial Game Theory
 
@@ -202,7 +202,7 @@ We shall begin with a discussion of various types of games, their combinations a
   - Hackenbush: The Purple Mountain and the Green Jungle
   - Nim on Graphs
   - A Combinatorial Game Theoretic Analysis of Chess Endgames
-- **Date of Introductory Talk:** 28th October, 2023
+- **Date of Introductory Talk:** Sunday, 28th October, 2023
 
 ## Analytic Number Theory
 
@@ -219,4 +219,4 @@ Analytic number theory is a branch of number theory that uses methods from mathe
   - Chebysev's functions and relations equivalent to the prime number theorem
   - Hensel's lemma
   - Dirchlet's theorem of primes in an arithmetic progression
-- **Date of Introductory Talk:** 29th October, 2023
+- **Date of Introductory Talk:** Sunday, 29th October, 2023
