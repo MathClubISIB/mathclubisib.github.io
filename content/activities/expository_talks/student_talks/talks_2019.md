@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2019"
 description: "Expository Talks for the year 2019 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "1 Lecture | 1 Spring Lecture | No Autumn Lecture | 1 Speaker"
+summary: "1 Lecture | 1 Spring Lecture | No Fall Lecture | 1 Speaker"
 ---
 
 {{< katex >}}

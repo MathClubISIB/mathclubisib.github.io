@@ -24,13 +24,17 @@ We will spend some time dealing with coupling and Strong Stationary times, which
   - _Analysis on Graphs_ -- Alexander Grigor\\(\'\\)yan
 
 - **Group Leader:**
-  - Deepta Basak (B3)
+  - Ishaan Bhadoo (B3)
   - Saraswata Sensarma (B3)
   - Sarvesh Ravichadran Iyer (Ph.D)
 - **Topics Covered:**
   - [TBA]
 
 The following people, apart from the group leader, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Malav Dhaval Doshi (B2)
+- Ria Agarwal (B2)
+- Rishi Somani (B3)
 
 The project is officially completed.
 

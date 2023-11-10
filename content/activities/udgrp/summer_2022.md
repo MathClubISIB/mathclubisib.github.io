@@ -46,7 +46,7 @@ A measure is a generalization of geometrical measurements (length, area, volume)
 - **Group Leaders:**
   - Aprameya Girish Hebbar (B3)
   - Sanchayan Bhowal (B3)
-  - Sarvesh Ravichandran Iyer (RS)
+  - Sarvesh Ravichandran Iyer (SRF)
 - **Topics Covered:**
   - Elementary and Jordan measure.
   - Lebesgue measure and its properties.

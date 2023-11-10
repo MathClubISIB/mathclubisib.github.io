@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2023"
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "13 Lectures | 2 Spring Lectures | 11 Autumn Lectures | 12 Speakers"
+summary: "13 Lectures | 2 Spring Lectures | 11 Fall Lectures | 12 Speakers"
 ---
 
 {{< katex >}}
@@ -152,7 +152,7 @@ Spring 2023
 
 ## EP2301: Introduction to Ising Model
 
-- **Speaker:** Sarvesh Ravichandran Iyer (Ph.D)
+- **Speaker:** Sarvesh Ravichandran Iyer (SRF)
 - **Abstract:** An Introduction to Ising Models and some discussions (pre-requisites for Hugo Duminil-Copin's talk at ICTS, Bangalore)
 - **Video:** Available [here](https://youtu.be/9RJ9iMiPA68).
 - **Date and Time:** Sunday, 8th January 2023, 10:30 AM - 12:30 PM

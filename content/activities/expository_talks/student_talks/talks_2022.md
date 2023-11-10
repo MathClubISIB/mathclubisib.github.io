@@ -30,7 +30,7 @@ Spring 2022
 
 ## EP2201: Markov Chains and Stochastic Processes: The introduction you wish you had
 
-- **Speaker:** Sarvesh Ravichandran Iyer (Ph.D)
+- **Speaker:** Sarvesh Ravichandran Iyer (SRF)
 - **Abstract:** Stochastic processes and Markov chains are some of the most ubiquitous and indispensable cogs in our world's wheels. In this talk, the study of stochastic processes will be motivated and a gently explosive introduction will be provided. A natural transition to Markov chains will be made, followed by a slew of applications, results, generalizations and links with many other parts of mathematics. A section will be dedicated to some comical applications.
 - **Video:** Available [here](https://www.youtube.com/playlist?list=PL0l3kv-aP9d_R3SLLTi2OJgHndxZeapnq).
 - **Date and Time:** Saturday, 2nd April 2022, 2:00 PM - 3:45 PM
