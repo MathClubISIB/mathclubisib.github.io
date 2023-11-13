@@ -7,7 +7,7 @@ summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders"
 {{< katex >}}
 
 {{< lead >}}
-WRP 2023 is set to officially begin on 29th November, 2023. We will be organising promotional/introductory talks for all the WRP topics on 28th and 29th October, 2023. The schedule will be uploaded here.
+WRP 2023 is set to officially begin on 29th November, 2023. We have organised the introductory talks for all the WRP topics on 28th and 29th October, 2023. The class timings have been uploaded.
 {{< /lead >}}
 
 This is the home page of the WRP 2023 that will be organised by the [Math Club](/).
@@ -29,7 +29,8 @@ In the 19th century, Lord Kelvin made a failed attempt to classify chemical elem
   - Knot Invariants - Knot Coloring, Alexander Polynomial, Kauffhart Polynomial, Jones Polynomial etc.
   - Knot Group
   - Links and Braids
-- **Date of Introductory Talk:** Sunday, 28th October, 2023
+- **Date of Introductory Talk:** Saturday, 28th October, 2023
+- **Class Timings:** Tuesday 5:00pm to 7:00pm & Saturday 10:30am to 12:30pm
 
 ## Random Graphs
 
@@ -55,7 +56,8 @@ This course aims to provide students with a solid foundation in probabilistic to
 - **Tentative Topics:**
   - More: Kahn-Kalai Conjecture, Inhomogeneous Random Graphs, Configuration Model, Preferential Attachment Model.
   - Applications: Discussion of applications of random graphs in network
-- **Date of Introductory Talk:** Sunday, 28th October, 2023
+- **Date of Introductory Talk:** Saturday, 28th October, 2023
+- **Class Timings:** Tuesday & Thursday 8:00pm to 10:00pm
 
 ## Galois Theory
 
@@ -75,7 +77,8 @@ Galois theory is an important branch of abstract algebra, with a rich history an
   - Ruler and Compass Constructions
   - Field Automorphisms
   - Fundamental Theorem of Galois Theory
-- **Date of Introductory Talk:** Sunday, 28th October, 2023
+- **Date of Introductory Talk:** Saturday, 28th October, 2023
+- **Class Timings:** Wednesday 8:00pm to 10:00pm & Saturday 5:00pm to 7:00pm
 
 ## Commutative Algebra
 
@@ -101,7 +104,8 @@ Commutative Algebra is the subject that provides the basic tools and structure r
   - Hilbert Basis theorem
   - Number Rings
   - Exact Sequences
-- **Date of Introductory Talk:** Sunday, 28th October, 2023
+- **Date of Introductory Talk:** Saturday, 28th October, 2023
+- **Class Timings:** Monday & Thursday 5:00pm to 7:00pm
 
 ## Algebraic Topology
 
@@ -127,6 +131,7 @@ We shall then study the linking properties of the result of cutting n-twisted ba
   - The Fundamental Group
   - Borsuk Ulam theorem and Ham Sandwich theorem
 - **Date of Introductory Talk:** Sunday, 29th October, 2023
+- **Class Timings:** Sunday & Thursday 10:30am to 12:30pm
 
 ## Measure Theory
 
@@ -153,6 +158,7 @@ Because of treating measure in a more general setting, this development immediat
   - Integration on \\(\mathbb{R}, \mathbb{C}\\).
   - Fatou's Lemma, Monotone Convergence Theorem, Dominated Convergence Theorem.
 - **Date of Introductory Talk:** Sunday, 29th October, 2023
+- **Class Timings:** Wednesday 5:00pm to 7:00pm & Saturday 2:30pm to 4:30pm
 
 ## Random Walks, Stochastic Processes, and Brownian Motion
 
@@ -180,6 +186,7 @@ While there are no prerequisites for this WRP, having knowledge of results like 
   - Kolmogorov Equations and their application in Brownian motion
   - Introduction To Kalman Filter and Optimal Transport.
 - **Date of Introductory Talk:** Sunday, 29th October, 2023
+- **Class Timings:** Monday 10:30am to 12:30pm & Friday 10:30am to 12:30pm
 
 ## Combinatorial Game Theory
 
@@ -202,7 +209,8 @@ We shall begin with a discussion of various types of games, their combinations a
   - Hackenbush: The Purple Mountain and the Green Jungle
   - Nim on Graphs
   - A Combinatorial Game Theoretic Analysis of Chess Endgames
-- **Date of Introductory Talk:** Sunday, 28th October, 2023
+- **Date of Introductory Talk:** Saturday, 28th October, 2023
+- **Class Timings:** Sunday 8:00pm to 10:00pm & Wednesday 2:30pm to 4:30pm
 
 ## Analytic Number Theory
 
@@ -220,3 +228,4 @@ Analytic number theory is a branch of number theory that uses methods from mathe
   - Hensel's lemma
   - Dirchlet's theorem of primes in an arithmetic progression
 - **Date of Introductory Talk:** Sunday, 29th October, 2023
+- **Class Timings:** Tuesday 10:30am to 12:30pm & Friday 5:00pm to 7:00pm
