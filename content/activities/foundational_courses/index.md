@@ -4,13 +4,22 @@ description: "Foundational Courses at the Students' Math Club at Indian Statisti
 summary: "To teach some topics that are considered fundamental and prerequisites for a number of talks / projects"
 ---
 
-<!-- 3 Courses | 12 Talks | 6 Speakers -->
+<!-- 4 Courses | 13 Talks | 7 Speakers -->
 
 {{< katex >}}
 
 The [Math Club](/) will be organizing a set of Foundational Courses starting from the Fall 2021 semester, aimed towards first year students, where some topics which are considered fundamental and pre-requisites of quite a few talks / projects yet are not covered in the first few semesters of present B. Math Curriculum will be covered. Every first year student is urged to attend them. Future math club talks and activities as well as projects which students might undertake might have these topics as pre-requisites. They will also provide some intuition (beyond the usual textbook content) behind some basic ideas involved in each topic.
 
 Note, however, that these talks will be open to each and every member of ISI Bangalore and beyond, so everybody is welcome to attend them!
+
+## Fo231: Rudiments of Probability
+
+Number of Talks: 1
+
+- **Speaker:** Saraswata Sensarma (B. Math, 2024)
+- **Target:** [TBU]
+- **Schedule:** Sunday, 3rd December 2023, 3:00 PM
+
 
 ## Fo223: Rings and Modules
 
