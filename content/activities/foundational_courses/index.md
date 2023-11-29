@@ -12,14 +12,15 @@ The [Math Club](/) will be organizing a set of Foundational Courses starting fro
 
 Note, however, that these talks will be open to each and every member of ISI Bangalore and beyond, so everybody is welcome to attend them!
 
-## Fo231: Rudiments of Probability
+## Fo231: The Probabilistic Method: Moments and Tails - A very brief introduction
 
 Number of Talks: 1
 
 - **Speaker:** Saraswata Sensarma (B. Math, 2024)
-- **Target:** [TBU]
+- **Abstract:** The first half of the talk will be on moment methods. We would introduce the first and second moment methods and demonstrate some of its applications in combinatorics. These are elememtary techniques, often instrumental in proving the (non-)existence of certain combinatorial objects.  
+  The second part of the lecture will be focused on estimating the tail probabilities using Markov's and Chebychev's inequalities. Using this, we would give a short proof (due to Tutte) of a theorem of Hardy and Ramanujan involving the number of divisors of a number. We would end with an extension of this result - the Erdos-Kac Theorem.
+- **Pre-requisites:** There are no prequesites as such. Anybody with a working knowledge of elementary discrete probability will have no difficulty following the presentation.
 - **Schedule:** Sunday, 3rd December 2023, 3:00 PM
-
 
 ## Fo223: Rings and Modules
 

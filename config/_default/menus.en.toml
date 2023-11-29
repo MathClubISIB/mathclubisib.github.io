@@ -130,11 +130,11 @@ weight = 20
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+# [[subnavigation]]
+# name = "YouTube"
+# pre = "youtube"
+# url = "https://www.youtube.com/@MathClubISIB"
+# weight = 2
 
 #[[main]]
 #  name = "Categories"
