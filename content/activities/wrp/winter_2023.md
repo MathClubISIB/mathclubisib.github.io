@@ -1,13 +1,13 @@
 ---
 title: "WRP Winter 2023"
 description: "WRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders"
+summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders | 19 Participants"
 ---
 
 {{< katex >}}
 
 {{< lead >}}
-WRP 2023 is set to officially begin on 29th November, 2023. We have organised the introductory talks for all the WRP topics on 28th and 29th October, 2023. The class timings have been uploaded.
+WRP 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
 This is the home page of the WRP 2023 that will be organised by the [Math Club](/).
@@ -22,15 +22,19 @@ In the 19th century, Lord Kelvin made a failed attempt to classify chemical elem
   - [_The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots_](https://web.archive.org/https://www.math.cuhk.edu.hk/course_builder/1920/math4900e/Adams--The%20Knot%20Book.pdf) -- Colin C. Adams
 - **Group Leader:**
   - Dhruba Sarkar (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
+
   - What is homeomorphism, embedding, ambient isotopy?
   - Definition of Knot
   - Reidemeister Theorem and Reidemeister Moves
   - Knot Invariants - Knot Coloring, Alexander Polynomial, Kauffhart Polynomial, Jones Polynomial etc.
   - Knot Group
   - Links and Braids
-- **Date of Introductory Talk:** Saturday, 28th October, 2023
-- **Class Timings:** Tuesday 5:00pm to 7:00pm & Saturday 10:30am to 12:30pm
+
+  The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+- \* Yuvraj Singh Rajpurohit (B1)
+- Arkapriyo Hore (B1)
 
 ## Random Graphs
 
@@ -46,18 +50,19 @@ This course aims to provide students with a solid foundation in probabilistic to
 - **Group Leaders:**
   - Bikram Halder (B3)
   - Hrishik Koley (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Basic concepts and definitions related to graphs.
   - Basic probabilistic methods: LLNs, CLT, 1st & 2nd moment methods, convergence of random variables, basic branching process, Chernoff & Cramer bounds, Matringales, concentration inequalities and their use in graphs.
   - Asymptotics: Miscellaneous inequalities, asymptotic notations.
   - Models of random graphs: Overview of 2 models of random graphs, namely, the Erdős–Rényi model \\((G\_{n,p})\\) and the Gilbert model \\((G\_{n,m})\\), which are closely related.
   - Properties of random graphs: Study various properties of random graphs such as subgraph count, degree distribution, giant component and phase transition as well as various thresholds and sharp thresholds related to them.
-  - Extremal properties: Diameter, chromaticity, spectral properties.
-- **Tentative Topics:**
-  - More: Kahn-Kalai Conjecture, Inhomogeneous Random Graphs, Configuration Model, Preferential Attachment Model.
+  - Kahn-Kalai Conjecture
+  - Basic Idea of Preferential Attachment Model
   - Applications: Discussion of applications of random graphs in network
-- **Date of Introductory Talk:** Saturday, 28th October, 2023
-- **Class Timings:** Tuesday & Thursday 8:00pm to 10:00pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+- \* Adrija Chatterjee (B1)
 
 ## Galois Theory
 
@@ -70,15 +75,19 @@ Galois theory is an important branch of abstract algebra, with a rich history an
 - **Group Leaders:**
   - Amit Kumar Basistha (B2)
   - Gandharv Sawant (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Basic Group Theory
   - Field Extensions
   - Normality and Separability
   - Ruler and Compass Constructions
   - Field Automorphisms
   - Fundamental Theorem of Galois Theory
-- **Date of Introductory Talk:** Saturday, 28th October, 2023
-- **Class Timings:** Wednesday 8:00pm to 10:00pm & Saturday 5:00pm to 7:00pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Arkapriyo Hore (B1)
+- Anjali Elizabeth Paul (B2)
+- Subhadeep Pal (M1)
 
 ## Commutative Algebra
 
@@ -91,7 +100,7 @@ Commutative Algebra is the subject that provides the basic tools and structure r
 - **Group Leaders:**
   - Sankha Subhra Chakraborty (B2)
   - Tejas Varma (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Prime and Maximal Ideals
   - Operations on Ideals
   - Spectrum of a Ring
@@ -102,10 +111,13 @@ Commutative Algebra is the subject that provides the basic tools and structure r
   - Nakayama's lemma
   - Noetherian Rings
   - Hilbert Basis theorem
-  - Number Rings
-  - Exact Sequences
-- **Date of Introductory Talk:** Saturday, 28th October, 2023
-- **Class Timings:** Monday & Thursday 5:00pm to 7:00pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Kalmanje Avyaktha Achar (B1)
+- Arkapriyo Hore (B1)
+- Anjali Elizabeth Paul (B2)
+- Subhadeep Pal (M1)
 
 ## Algebraic Topology
 
@@ -121,17 +133,21 @@ We shall then study the linking properties of the result of cutting n-twisted ba
 - **Group Leaders:**
   - Anasmit Pal (B2)
   - Pragalbh Kumar Awasthi (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Basics of Point-Set Topology
   - Cell Complexes
   - The Euler Characteristic
   - Classification of Closed Surfaces
   - Linking and Winding Numbers
-  - Brower's Fixed Point Theorem
+  - Brouwer's Fixed Point Theorem
   - The Fundamental Group
   - Borsuk Ulam theorem and Ham Sandwich theorem
-- **Date of Introductory Talk:** Sunday, 29th October, 2023
-- **Class Timings:** Sunday & Thursday 10:30am to 12:30pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Arya Biswas (B1)
+- Anant Umesh Kerur (B1)
+- Subhadeep Pal (M1)
 
 ## Measure Theory
 
@@ -148,7 +164,7 @@ Because of treating measure in a more general setting, this development immediat
 - **Group Leaders:**
   - Anshuman Agrawal (B2)
   - Bhavesh Pandya (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Riemann Integration and Convergence of function (point wise and uniform).
   - Algebra, Sigma Algebra, their properties. Measure, finite, Sigma finite, semi finite measures.
   - Outer measure, Caratheodory's Theorem(1st), Pre Measure, Caratheodory-Hann Extension Theorem.
@@ -157,8 +173,13 @@ Because of treating measure in a more general setting, this development immediat
   - Lebesgue Integration: Integration on L+, simple functions, approximating measurable functions by Simple functions.
   - Integration on \\(\mathbb{R}, \mathbb{C}\\).
   - Fatou's Lemma, Monotone Convergence Theorem, Dominated Convergence Theorem.
-- **Date of Introductory Talk:** Sunday, 29th October, 2023
-- **Class Timings:** Wednesday 5:00pm to 7:00pm & Saturday 2:30pm to 4:30pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Sarbartha Sarkar (B1)
+- Aditya Garg (B2)
+- Nikhil Nagaria (B2)
+- Pragalbh Kumar Awasthi (B2)
 
 ## Random Walks, Stochastic Processes, and Brownian Motion
 
@@ -173,7 +194,7 @@ While there are no prerequisites for this WRP, having knowledge of results like 
   - [_Topics in Optimal Transport_](https://web.archive.org/https://www.math.ucla.edu/~wgangbo/Cedric-Villani.pdf) -- Cedric Villani
 - **Group Leaders:**
   - Malav Dhaval Doshi (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - SLLN, CLT, Some Standard Distributions and their properties and Covariance/Correlation (Overview i.e modulo proofs)
   - Introduction to Random Walk and Stochastic Process
   - Poisson Process and deriving some essential results related to it.
@@ -182,11 +203,13 @@ While there are no prerequisites for this WRP, having knowledge of results like 
   - Analyse "Empirical Distribution Function" using Brownian Motion, LLN and CLT.
   - Analyze the hitting times and variations of Brownian motion.
   - Brownian motion having a drift and (semi)markov processes.
-- **Tentative Topics:**
-  - Kolmogorov Equations and their application in Brownian motion
-  - Introduction To Kalman Filter and Optimal Transport.
-- **Date of Introductory Talk:** Sunday, 29th October, 2023
-- **Class Timings:** Monday 10:30am to 12:30pm & Friday 10:30am to 12:30pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+- \* Aritrabha Majumdar (B1)
+- \* Samadrita Bhattacharya (B1)
+- \* Shiva Sanjay Semwal (B1)
+- Muhammed Shameel K V (B1)
 
 ## Combinatorial Game Theory
 
@@ -200,7 +223,7 @@ We shall begin with a discussion of various types of games, their combinations a
 - **Group Leaders:**
   - Nikhil Nagaria (B2)
   - Pragalbh Kumar Awasthi (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Basics of Combinatorial Game Theory
   - Some Simple Combinatorial Games
   - Several Impartial Games
@@ -209,8 +232,14 @@ We shall begin with a discussion of various types of games, their combinations a
   - Hackenbush: The Purple Mountain and the Green Jungle
   - Nim on Graphs
   - A Combinatorial Game Theoretic Analysis of Chess Endgames
-- **Date of Introductory Talk:** Saturday, 28th October, 2023
-- **Class Timings:** Sunday 8:00pm to 10:00pm & Wednesday 2:30pm to 4:30pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+- \* Yuvraj Singh Rajpurohit (B1)
+- \* Daibik Barik (B1)
+- \* Arya Biswas (B1)
+- Shiva Sanjay Semwal (B1)
+- Suryansh Shailesh Shirbhate (B1)
 
 ## Analytic Number Theory
 
@@ -220,12 +249,14 @@ Analytic number theory is a branch of number theory that uses methods from mathe
   - [_An Introduction to Analytic Number Theory_](https://web.archive.org/https://dl.icdst.org/pdfs/files1/ebc2974176a03ab93756026a97b6d370.pdf) -- Tom M. Apostol
 - **Group Leaders:**
   - Aishik Sarkar (B2)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Convolutions
   - Various number theoretic functions
   - Asymptotic formulae
   - Chebysev's functions and relations equivalent to the prime number theorem
   - Hensel's lemma
   - Dirchlet's theorem of primes in an arithmetic progression
-- **Date of Introductory Talk:** Sunday, 29th October, 2023
-- **Class Timings:** Tuesday 10:30am to 12:30pm & Friday 5:00pm to 7:00pm
+
+The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
+
+- Korou Khundrakpam (B1)

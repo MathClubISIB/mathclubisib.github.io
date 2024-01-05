@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2023"
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "13 Lectures | 2 Spring Lectures | 11 Fall Lectures | 12 Speakers"
+summary: "14 Lectures | 2 Spring Lectures | 12 Fall Lectures | 12 Speakers"
 ---
 
 {{< katex >}}
@@ -13,6 +13,18 @@ All expository talks given by students of ISI Bangalore in the year 2023 at our 
 {{< lead >}}
 Fall 2023
 {{< /lead >}}
+
+## EP2314: Thresholds and Expectation Thresholds
+
+- **Speaker:** Bikram Halder (B. Math, 2024)
+- **Abstract:** Many problems in probabilistic combinatorics boil down to computing the thresholds for increasing properties, a certain value that indicates the drastic change of a structure possessing that property. In 2006, Kahn and Kalai conjectured that for any non-trivial increasing property on a finite set, its threshold is never far from its "expectation threshold", a natural (and often easy to compute) lower bound on the threshold. A positive answer to this conjecture allows one to narrow down the location of thresholds to a tiny window. In particular, this easily implies several difficult results, such as thresholds for perfect hypergraph matching (known as Shamir's problem, solved by Johansson-Kahn-Vu) and bounded-degree spanning trees (Montgomery). In this talk, I will introduce the Kahn-Kalai conjecture with some motivating examples, and then briefly discuss the recent resolution by Huy Tuan Pham and Jinyoung Park, along with some previous work on the topic.
+- **References:**
+  - [_Thresholds and expectation thresholds_](https://arxiv.org/abs/math/0603218) -- Jeff Kahn & Gil Kalai
+  - [_A Proof of the Kahn-Kalai Conjecture_](https://arxiv.org/abs/2203.17207) -- Jinyoung Park & Huy Tuan Pham
+  - [_A short proof of Kahn-Kalai conjecture_](https://arxiv.org/abs/2303.02144) -- P.Tran & V.Vu
+- **Notes:** Available [here](https://bikramhalder.github.io/uploads/talks/2023/thresholds_and_expectation_thresholds.pdf).
+- **Video:** Available [here](https://youtu.be/2NAcMavFDds).
+- **Date and Time:** Tuesday, 26th December 2023, 8:00 PM - 10:00 PM
 
 ## EP2313: Free Groups and Foldings
 

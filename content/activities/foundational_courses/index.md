@@ -20,6 +20,7 @@ Number of Talks: 1
 - **Abstract:** The first half of the talk will be on moment methods. We would introduce the first and second moment methods and demonstrate some of its applications in combinatorics. These are elememtary techniques, often instrumental in proving the (non-)existence of certain combinatorial objects.  
   The second part of the lecture will be focused on estimating the tail probabilities using Markov's and Chebychev's inequalities. Using this, we would give a short proof (due to Tutte) of a theorem of Hardy and Ramanujan involving the number of divisors of a number. We would end with an extension of this result - the Erdos-Kac Theorem.
 - **Pre-requisites:** There are no prequesites as such. Anybody with a working knowledge of elementary discrete probability will have no difficulty following the presentation.
+- **Video:** Available [_here_](https://youtu.be/8Z8wdIJ5VwU).
 - **Schedule:** Sunday, 3rd December 2023, 3:00 PM
 
 ## Fo223: Rings and Modules
