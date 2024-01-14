@@ -16,6 +16,6 @@
   hugo server
   ```
 - For more information, contact:
-  - Aaratrick Basu (aaratrick.r2ab@gmail.com)
-  - Bikram Halder (bikram0x@outlook.com)
-  - Hrishik Koley (hrishik.math@outlook.com)
+  - [_Aaratrick Basu_](aaratrick.r2ab@gmail.com)
+  - [_Bikram Halder_](bikram0x@outlook.com)
+  - [_Hrishik Koley_](hrishik.math@outlook.com)

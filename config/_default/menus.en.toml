@@ -94,7 +94,7 @@ weight = 20
 name = "Foundational Courses"
 parent = "Activities"
 pageRef = "activities/foundational_courses"
-weight = 20
+weight = 15
 
 [[main]]
 name = "Lecture Series"
@@ -106,19 +106,25 @@ weight = 20
 name = "Expository Talks"
 parent = "Activities"
 pageRef = "activities/expository_talks"
-weight = 20
+weight = 5
+
+[[main]]
+name = "Seminars"
+parent = "Activities"
+pageRef = "activities/seminars"
+weight = 10
 
 [[main]]
 name = "UDGRP"
 parent = "Activities"
 pageRef = "udgrp"
-weight = 20
+weight = 25
 
 [[main]]
 name = "WRP"
 parent = "Activities"
 pageRef = "wrp"
-weight = 20
+weight = 30
 
 # [[main]]
 # name = "Team"
