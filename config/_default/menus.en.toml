@@ -13,7 +13,7 @@
 [[main]]
 name = "News and Events"
 pageRef = "news_and_events"
-weight = 30
+weight = 25
 
 #[[main]]
 #name = "Expository Talks (New!)"
@@ -30,7 +30,7 @@ weight = 30
 [[main]]
 name = "Participate"
 pageRef = "participate"
-weight = 10
+weight = 15
 
 [[main]]
 name = "Submit Problem"
@@ -88,6 +88,17 @@ weight = 20
 [[main]]
 name = "Activities"
 pageRef = "activities"
+weight = 5
+
+[[main]]
+name = "Seminars"
+pageRef = "seminars"
+weight = 10
+
+[[main]]
+name = "What Is...?"
+parent = "Seminars"
+pageRef = "seminars/what_is"
 weight = 20
 
 [[main]]
@@ -109,9 +120,9 @@ pageRef = "activities/expository_talks"
 weight = 5
 
 [[main]]
-name = "Seminars"
+name = "Meet & Greet"
 parent = "Activities"
-pageRef = "activities/seminars"
+pageRef = "activities/meet_n_greet"
 weight = 10
 
 [[main]]
