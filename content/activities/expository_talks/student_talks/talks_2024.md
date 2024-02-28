@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2024"
 description: "Expository Talks for the year 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "1 Lectures | 1 Spring Lectures | 0 Fall Lectures | 1 Speakers"
+summary: "2 Lectures | 2 Spring Lectures | No Fall Lecture | 2 Speakers"
 ---
 
 {{< katex >}}
@@ -17,11 +17,11 @@ Spring 2024
 ## EP2402: Introduction to Non-Commutative Spaces
 
 - **Speaker:** Saqib Mushtaq Shah (M. Math, 2025)
-- **Abstract:** We will first demonstrate that commutative (unital) C*-algebras are dual to compact Hausdorff spaces through the Gelfand representation. Drawing inspiration from the commutative case, we attempt to construct duals (referred to as noncommutative spaces) of noncommutative C*-algebras using various methods of generalization. We prove some basic properties and will establish the relationship between these noncommutative spaces.
-- **References:** [TBU]
-- **Notes:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Sunday, 21st January 2024, 11:00 AM - 01:00 PM
+- **Abstract:** We will first demonstrate that commutative (unital) \\(C^\*\\)-algebras are dual to compact Hausdorff spaces through the Gelfand representation. Drawing inspiration from the commutative case, we attempt to construct duals (referred to as noncommutative spaces) of noncommutative \\(C^\*\\)-algebras using various methods of generalization. We prove some basic properties and will establish the relationship between these noncommutative spaces.
+- **References:** (See the notes)
+- **Notes:** Available [here](https://drive.google.com/file/d/1pR5izLBb8arKIk31kLrJZsraXVtp9JH5/view).
+- **Video:** Available [here](https://youtu.be/UUGLGAmQAng).
+- **Date and Time:** Sunday, 21st January 2024, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2401: A Gist of Optimal Transport
@@ -32,6 +32,6 @@ Spring 2024
   - _Topics in Optimal Transport_ -- Cedric Villani
   - [_Lecture Series on Optimal Transport_](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl) -- Brittany Hamfeldt
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/UUGLGAmQAng).
 - **Date and Time:** Sunday, 14th January 2024, 3:00 PM - 5:00 PM
-- **Venue:** G26 classroom, Academic Building
+- **Venue:** G-26 Classroom, Academic Building
