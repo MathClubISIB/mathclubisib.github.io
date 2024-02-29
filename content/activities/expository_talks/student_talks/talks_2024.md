@@ -14,6 +14,16 @@ All expository talks given by students of ISI Bangalore in the year 2024 at our 
 Spring 2024
 {{< /lead >}}
 
+## EP2403: Exact Sequences of Modules and Lazard’s Theorem
+
+- **Speaker:** Sankha Subhra Chakraborty (B.Math, 2025)
+- **Abstract:** This talk will serve as an introduction to the theory of exact sequences of modules. We will look at Hom and tensor, and discuss their exactness as functors to motivate the need for defining projective and flat modules. We will look at some characterisations of projective modules and discuss the hierarchy of free, projective and flat modules. We will introduce and discuss direct limits of directed systems of modules, and we shall conclude the talk with a theorem of Lazard, namely, the characterisation of flat modules as direct limit of finitely generated free modules.
+- **References:** [TBU]
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 3rd March 2024, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
 ## EP2402: Introduction to Non-Commutative Spaces
 
 - **Speaker:** Saqib Mushtaq Shah (M. Math, 2025)
