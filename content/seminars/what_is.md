@@ -10,87 +10,15 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 ---
 
-## WHATIS12: What Is Poincaré Recurrence Theorem?
+## WI01: What Is ??
 
-- **Speaker:** Devansh Kamra (B. Math, 2024)
+- **Speaker:** Aaratrick Basu (B. Math, 2024)
 - **Abstract:** [TBU]
 - **Video:** [TBU]
-- **Date and Time:** Saturday, 6th April 2024, 3:00pm-4:00pm
+- **Date and Time:** Saturday, 9th March 2024, 3:00pm-4:00pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WHATIS11: What Is Ideal Class Group?
-
-- **Speaker:** Shubhrojyoti Dhara (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Sunday, 31st March 2024, 11:30pm-12:30pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS10: What Is Concentration?
-
-- **Speaker:** Ishaan Bhadoo (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Saturday, 30th March 2024, 3:00pm-4:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS09: What Is Graph Cohomology?
-
-- **Speaker:** Prognadipto Majumdar (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Friday, 29th March 2024, 9:00pm-10:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS08: What Is Stable Homotopy?
-
-- **Speaker:** Soumya Dasgupta (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Sunday, 24th March 2024, 11:30pm-12:30pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS07: What Is Cut-Off?
-
-- **Speaker:** Sanchayan Bhowal (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Saturday, 23rd March 2024, 3:00pm-4:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS06: What Is Mixing Time?
-
-- **Speaker:** Deepta Basak (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Friday, 22nd March 2024, 9:00pm-10:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS05: What Is Shannon Entropy?
-
-- **Speaker:** Hrishik Koley (B. Math, 2025)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Sunday, 17th March 2024, 11:30pm-12:30pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS04: What Is Cohomlogy?
-
-- **Speaker:** Trishan Mondal (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Saturday, 16th March 2024, 3:00pm-4:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS03: What Is Coupling?
-
-- **Speaker:** Saraswata Sensarma (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Friday, 15th March 2024, 9:00pm-10:00pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WHATIS02: What Is Graphon?
+## WI02: What Is Graphon?
 
 - **Speaker:** Bikram Halder (B. Math, 2024)
 - **Abstract:** [TBU]
@@ -98,10 +26,82 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 10th March 2024, 11:30am-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WHATIS01: What Is ??
+## WI03: What Is Coupling?
 
-- **Speaker:** Aaratrick Basu (B. Math, 2024)
+- **Speaker:** Saraswata Sensarma (B. Math, 2024)
 - **Abstract:** [TBU]
 - **Video:** [TBU]
-- **Date and Time:** Saturday, 9th March 2024, 3:00pm-4:00pm
+- **Date and Time:** Friday, 15th March 2024, 9:00pm-10:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI04: What Is Cohomlogy?
+
+- **Speaker:** Trishan Mondal (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 16th March 2024, 3:00pm-4:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI05: What Is Shannon Entropy?
+
+- **Speaker:** Hrishik Koley (B. Math, 2025)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 17th March 2024, 11:30pm-12:30pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI06: What Is Mixing Time?
+
+- **Speaker:** Deepta Basak (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Friday, 22nd March 2024, 9:00pm-10:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI07: What Is Cut-Off?
+
+- **Speaker:** Sanchayan Bhowal (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 23rd March 2024, 3:00pm-4:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI08: What Is Stable Homotopy?
+
+- **Speaker:** Soumya Dasgupta (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 24th March 2024, 11:30pm-12:30pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI09: What Is Graph Cohomology?
+
+- **Speaker:** Prognadipto Majumdar (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Friday, 29th March 2024, 9:00pm-10:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI10: What Is Concentration?
+
+- **Speaker:** Ishaan Bhadoo (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 30th March 2024, 3:00pm-4:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI11: What Is Ideal Class Group?
+
+- **Speaker:** Shubhrojyoti Dhara (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 31st March 2024, 11:30pm-12:30pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI12: What Is Poincaré Recurrence Theorem?
+
+- **Speaker:** Devansh Kamra (B. Math, 2024)
+- **Abstract:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 6th April 2024, 3:00pm-4:00pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
