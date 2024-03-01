@@ -41,7 +41,6 @@ Spring 2024
 - **References:**
   - _Topics in Optimal Transport_ -- Cedric Villani
   - [_Lecture Series on Optimal Transport_](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl) -- Brittany Hamfeldt
-- **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/UUGLGAmQAng).
 - **Date and Time:** Sunday, 14th January 2024, 3:00 PM - 5:00 PM
 - **Venue:** G-26 Classroom, Academic Building
