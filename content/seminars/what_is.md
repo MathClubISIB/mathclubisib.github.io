@@ -60,7 +60,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 ## WI07: What Is Cut-Off?
 
-- **Speaker:** Sanchayan Bhowal (B. Math, 2024)
+- **Speaker:** Sanchayan Bhowal (M. Math, 2025)
 - **Abstract:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 23rd March 2024, 3:00pm-4:00pm
