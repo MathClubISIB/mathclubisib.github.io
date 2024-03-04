@@ -21,7 +21,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 ## WI02: What Is Graphon?
 
 - **Speaker:** Bikram Halder (B. Math, 2024)
-- **Abstract:** [TBU]
+- **Abstract:** Graphons, short for graph functions, are limiting objects of large finite graphs with respect to the cut-metric, which provides a powerful analytic framework for analyzing large graphs. In this talk, we will introduce graphons, motivate them, discuss how they complete the space of finite graphs. We will look at some results that connect the the finite world of graphs with the continuous world of graphons.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 10th March 2024, 11:30am-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
