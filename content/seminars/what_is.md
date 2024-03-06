@@ -13,7 +13,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 ## WI01: What Is ?(x)?
 
 - **Speaker:** Aaratrick Basu (B. Math, 2024)
-- **Abstract:** We introduce the function $?(x)$ defined by Minkowski in 1904, and studied quite well since. It is a continuous function on $\[0,1\]$ which has very interesting properties relating to dynamical systems, number theory, integral transforms, and is a rich object as a function itself via analysis of continued fractions and convergents. We give a whirlwind tour of some of these aspects, presenting only the main definitions and results. No prerequisites beyond first-year knowledge of analysis and algebra will be assumed formally, but we do demand accepting certain technical facts on faith.
+- **Abstract:** We introduce the function \\(?(x)\\) defined by Minkowski in 1904, and studied quite well since. It is a continuous function on \\(\[0,1\]\\) which has very interesting properties relating to dynamical systems, number theory, integral transforms, and is a rich object as a function itself via analysis of continued fractions and convergents. We give a whirlwind tour of some of these aspects, presenting only the main definitions and results. No prerequisites beyond first-year knowledge of analysis and algebra will be assumed formally, but we do demand accepting certain technical facts on faith.
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 9th March 2024, 3:00pm-4:00pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
@@ -37,7 +37,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 ## WI04: What Is Cohomlogy?
 
 - **Speaker:** Trishan Mondal (B. Math, 2024)
-- **Abstract:** In this talk we will briefly introduce the (ordinary)cohomology theory, Eilenberg-steenrod axioms. Then we will look into the cohomology ring of a topological spaces and it's application in Hopf-algebra, $H$-spaces, how cohomology operations motivates a construction of loop spaces which gives us EHP sequence. Then we will try to look at Serre finiteness conditions via cohomology operations.
+- **Abstract:** In this talk we will briefly introduce the (ordinary)cohomology theory, Eilenberg-steenrod axioms. Then we will look into the cohomology ring of a topological spaces and it's application in Hopf-algebra, \\(H\\)-spaces, how cohomology operations motivates a construction of loop spaces which gives us EHP sequence. Then we will try to look at Serre finiteness conditions via cohomology operations.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 17th March 2024, 11:30am-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
