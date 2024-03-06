@@ -98,7 +98,15 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 31st March 2024, 11:30pm-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI12: What Is Poincaré Recurrence Theorem?
+##WI12: What Is Knot Theory?
+
+- **Speaker:** Dhruba Sarkar (B.Math, 2025)
+- **Abstract:** In this talk, we will try to provide a mathematical formulation of our usual intuition of knots. We will talk about knot equivalence and how we can associate numbers, polynomials, topological and algebraic structure on knots to differentiate between them. In particular, we will look at Knot Colorability and how we use it to differentiate between knots.
+- **Video:** [TBU]
+- **Date and Time:** Monday, 1st April 2024, 9:00pm-10:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI13: What Is Poincaré Recurrence Theorem?
 
 - **Speaker:** Devansh Kamra (B. Math, 2024)
 - **Abstract:** Poincare's Recurrence Theorem is a celebrated result in Ergodic Theory, which states that a dynamical system under certain constraints is bound to return arbitrarily close to its initial stage after a finite amount of time. This result has found widespread applications in the study of dynamical systems. We would be discussing this result from a measure-theoretic viewpoint, building upon the necessary notions before developing a neat proof of the theorem, along with some applications.
