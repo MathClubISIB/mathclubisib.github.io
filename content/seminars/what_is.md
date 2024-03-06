@@ -98,7 +98,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 31st March 2024, 11:30pm-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-##WI12: What Is Knot Theory?
+## WI12: What Is Knot Theory?
 
 - **Speaker:** Dhruba Sarkar (B.Math, 2025)
 - **Abstract:** In this talk, we will try to provide a mathematical formulation of our usual intuition of knots. We will talk about knot equivalence and how we can associate numbers, polynomials, topological and algebraic structure on knots to differentiate between them. In particular, we will look at Knot Colorability and how we use it to differentiate between knots.
