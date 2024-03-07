@@ -26,7 +26,15 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 10th March 2024, 11:30am-12:30pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI03: What Is Shannon Entropy?
+## WI03: What Is Stable Homotopy?
+
+- **Speaker:** Soumya Dasgupta (B. Math, 2024)
+- **Abstract:** In an introductory course on algebraic topology, one encounters fundamental groups as robust topological invariants. Homotopy groups naturally extend this notion. The functor \\([(\mathbb{S}^n,e_1), - ] : \topo_* \to \grp\\), particularly for \\(n > 1\\), becomes a functor from pointed spaces to abelian groups, i.e., \\([(\mathbb{S}^n,e_1), - ] : \topo_* \to \ab\\). However, unlike homology groups, homotopy groups lack a suspension isomorphism theorem. Fruedenthal's work established that the suspension functor induces an isomorphism under certain conditions, paving the way for stable homotopy theory. Though computing stable homotopy groups for even spheres remains formidable, their significance in various geometric and topological theories continues to motivate exploration of this challenging area of study. We will talk about Pontryagin-Thom construction, and conclude that classification of framed manifolds upto framed cobordism reduces to the computation of stable homotopy groups of spheres.
+- **Video:** [TBU]
+- **Date and Time:** Monday, 18th March 2024, 9:00am-10:00pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## WI04: What Is Shannon Entropy?
 
 - **Speaker:** Hrishik Koley (B. Math, 2025)
 - **Abstract:** Entropy is a concept that is most commonly associated with a state of disorder. The concept of information entropy was introduced by Claude Shannon in his 1948 paper "[A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)". It gives us an idea of the information content of the process. We will introduce Shannon entropy as a fundamental limit for how much we can compress a source, without risking distortion or loss. We will be introducing this concept of Shannon entropy and look at it's various characterizations. If time permits, we may also take a look at Alfred Renyi's extension of Shannon entropy, famously known as, the Renyi entropy.
@@ -34,20 +42,12 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Saturday, 16th March 2024, 3:00pm-4:00pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI04: What Is Cohomlogy?
+## WI05: What Is Cohomlogy?
 
 - **Speaker:** Trishan Mondal (B. Math, 2024)
 - **Abstract:** In this talk we will briefly introduce the (ordinary)cohomology theory, Eilenberg-steenrod axioms. Then we will look into the cohomology ring of a topological spaces and it's application in Hopf-algebra, \\(H\\)-spaces, how cohomology operations motivates a construction of loop spaces which gives us EHP sequence. Then we will try to look at Serre finiteness conditions via cohomology operations.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 17th March 2024, 11:30am-12:30pm
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WI05: What Is Stable Homotopy?
-
-- **Speaker:** Soumya Dasgupta (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Monday, 18th March 2024, 9:00am-10:00pm
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI06: What Is Mixing Time?
