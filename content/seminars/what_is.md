@@ -15,7 +15,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Speaker:** Aaratrick Basu (B. Math, 2024)
 - **Abstract:** We introduce the function \\(?(x)\\) defined by Minkowski in 1904, and studied quite well since. It is a continuous function on \\(\[0,1\]\\) which has very interesting properties relating to dynamical systems, number theory, integral transforms, and is a rich object as a function itself via analysis of continued fractions and convergents. We give a whirlwind tour of some of these aspects, presenting only the main definitions and results. No prerequisites beyond first-year knowledge of analysis and algebra will be assumed formally, but we do demand accepting certain technical facts on faith.
 - **Video:** [TBU]
-- **Date and Time:** Saturday, 9th March 2024, 3:00 PM - 4:00 PM
+- **Date and Time:** Saturday, 9th March 2024, 3:30 PM - 4:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI02: What Is Graphon?
@@ -68,7 +68,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 ## WI08: What Is Cut-Off?
 
-- **Speaker:** Sanchayan Bhowal (B. Math, 2024)
+- **Speaker:** Sanchayan Bhowal (M. Math, 2025)
 - **Abstract:** I will introduce the cutoff phenomenon in Markov Chains. I will discuss some examples where this is observed like random walk in hypercube and card shuffling. Finally I'll discuss the characterization of cutoff under some special cases like birth death chains. We will also look into famous examples by Aldous and Pak where the characterization falls short.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 24th March 2024, 11:30 AM - 12:30 PM
