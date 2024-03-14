@@ -1,7 +1,7 @@
 ---
 title: "What Is...?"
 description: "'What Is...?' Seminar for the year 2024 at the Math Club at Indian Statistical Institute, Bangalore."
-summary: "12 Student Lectures | 1 Special Student Lecture | 1 Special Lecture | 14 Speakers"
+summary: "13 Student Lectures | 1 Special Student Lecture | 1 Special Lecture | 15 Speakers"
 ---
 
 {{< katex >}}
