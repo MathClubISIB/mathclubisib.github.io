@@ -36,7 +36,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 ## WI04: What Is Cohomlogy?
 
-- **Speaker:** Trishan Mondal (B. Math, 2024)
+- **Speaker:** [Trishan Mondal](https://trishan8.github.io/) (B. Math, 2024)
 - **Abstract:** In this talk we will briefly introduce the (ordinary)cohomology theory, Eilenberg-steenrod axioms. Then we will look into the cohomology ring of a topological spaces and it's application in Hopf-algebra, \\(H\\)-spaces, how cohomology operations motivates a construction of loop spaces which gives us EHP sequence. Then we will try to look at Serre finiteness conditions via cohomology operations.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 17th March 2024, 11:30 AM - 12:30 PM
