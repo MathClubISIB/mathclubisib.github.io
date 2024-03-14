@@ -28,7 +28,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 ## WI03: What Is Shannon Entropy?
 
-- **Speaker:** Hrishik Koley (B. Math, 2025)
+- **Speaker:** [Hrishik Koley](https://hrishik-koley.github.io/) (B. Math, 2025)
 - **Abstract:** Entropy is a concept that is most commonly associated with a state of disorder. The concept of information entropy was introduced by Claude Shannon in his 1948 paper "[A Mathematical Theory of Communication](https://web.archive.org/https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)". It gives us an idea of the information content of the process. We will introduce Shannon entropy as a fundamental limit for how much we can compress a source, without risking distortion or loss. We will be introducing this concept of Shannon entropy and look at it's various characterizations. If time permits, we may also take a look at Alfred Renyi's extension of Shannon entropy, famously known as, the Renyi entropy.
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 16th March 2024, 3:00 PM - 4:00 PM
