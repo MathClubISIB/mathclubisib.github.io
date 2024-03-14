@@ -4,6 +4,14 @@ description: "Events of 2024"
 summary: "Events of 2024"
 ---
 
+## AlCoVE 2024: Algebraic Combiantorics Virtual Conference
+
+
+AlCoVE brings together researchers interested in algebraic combinatorics from around the world. Each talk will be 30 minutes and between talks, there will be casual social activities for spending time with your friends and making new friends. [Learn More &#8599;](https://www.math.uwaterloo.ca/~opecheni/alcove2024.htm)
+
+- **Dates:** 17th-18th June, 2024
+- **Mode:** Online
+
 ## CONTACT III: Combinatorial Number Theory and Connected Topics
 
 The main aim of this conference is to create an opportunity for young researchers to get an overview of the current research trends in both combinatorics and number theory. [Learn More &#8599;](https://sites.google.com/ahduni.edu.in/contact-iii/home)
