@@ -4,7 +4,7 @@ description: "Events of 2024"
 summary: "Events of 2024"
 ---
 
-## Combinatorial Number Theory and Connected Topics III
+## CONTACT III: Combinatorial Number Theory and Connected Topics
 
 The main aim of this conference is to create an opportunity for young researchers to get an overview of the current research trends in both combinatorics and number theory. [Learn More &#8599;](https://sites.google.com/ahduni.edu.in/contact-iii/home)
 
