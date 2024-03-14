@@ -4,6 +4,15 @@ description: "Events of 2024"
 summary: "Events of 2024"
 ---
 
+## Combinatorial Number Theory and Connected Topics III
+
+The main aim of this conference is to create an opportunity for young researchers to get an overview of the current research trends in both combinatorics and number theory. [Learn More &#8599;](https://sites.google.com/ahduni.edu.in/contact-iii/home)
+
+- **Dates:** 16th-17th March, 2024
+- **Mode:** [Online &#8599](https://charlotte-edu.zoom.us/j/98943374160?pwd=SExQQWJFb3NObXk4bU14SmJnU0d3dz09)
+- **Schedule:** [Available Here](https://drive.google.com/file/d/1RT6ydgop0RZgqGRzWhkomGoTD6iSwrr7/view?usp=sharing)
+- **Title & Abstract of Talk:** [Available Here](https://drive.google.com/file/d/1q1AWCtjLMClJiq-khgntZP9XKsRLW2V0/view?usp=sharing)
+
 ## Chennai-Tirupati Number Theory Conference
 
 The aim of the meeting is to foster interactions between mathematicians working at academic institutes located in Chennai and Tirupati. It also serves as a platform for graduate students and post-docs to announce and communicate their work to experts in the field. [Learn More &#8599;](https://sites.google.com/view/inter-city-nt-conf-cmi/home)
