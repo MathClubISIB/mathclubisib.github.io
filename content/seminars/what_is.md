@@ -29,7 +29,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 ## WI03: What Is Shannon Entropy?
 
 - **Speaker:** [Hrishik Koley](https://hrishik-koley.github.io/) (B. Math, 2025)
-- **Abstract:** Entropy is a concept that is most commonly associated with a state of disorder. The concept of information entropy was introduced by Claude Shannon in his 1948 paper [_A Mathematical Theory of Communication_](https://web.archive.org/https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)". It gives us an idea of the information content of the process. We will introduce Shannon entropy as a fundamental limit for how much we can compress a source, without risking distortion or loss. We will be introducing this concept of Shannon entropy and look at it's various characterizations. If time permits, we may also take a look at Alfréd Rényi's extension of Shannon entropy, famously known as, the Rényi entropy.
+- **Abstract:** Entropy is a concept that is most commonly associated with a state of disorder. The concept of information entropy was introduced by Claude Shannon in his 1948 paper "[_A Mathematical Theory of Communication_](https://web.archive.org/https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)". It gives us an idea of the information content of the process. We will introduce Shannon entropy as a fundamental limit for how much we can compress a source, without risking distortion or loss. We will be introducing this concept of Shannon entropy and look at it's various characterizations. If time permits, we may also take a look at Alfréd Rényi's extension of Shannon entropy, famously known as, the Rényi entropy.
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 16th March 2024, 3:00 PM - 4:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
@@ -65,7 +65,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Speaker:** Saraswata Sensarma (B. Math, 2024)
 - **Abstract:** In this talk, we give brief introduction to the notion of coupling of probability measures. Coupling is an extremely versatile tool, which finds applications in almost all facets of probability theory. In the first half of the talk, we will explore its use in studying mixing in finite Markov chains. In the second half, we introduce the notion of stochastic domination and analyze it through the lens of coupling. We then extend this notion to posets, which naturally leads us to correlation inequalities like Harris' inequality and FKG inequality. These find extensive applications in percolation theory and the Ising model, and the random cluster model in general.
 - **Video:** [TBU]
-- **Date and Time:** Sunday, 24th March 2024, 11:30 AM - 12:30 PM
+- **Date and Time:** Sunday, 24th March 2024, 10:30 AM - 11:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI08: What Is Cut-Off?
@@ -73,7 +73,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Speaker:** [Sanchayan Bhowal](https://sanchayan-bhowal.github.io/) (M. Math, 2025)
 - **Abstract:** I will introduce the cutoff phenomenon in Markov Chains. I will discuss some examples where this is observed like random walk in hypercube and card shuffling. Finally I'll discuss the characterization of cutoff under some special cases like birth death chains. We will also look into famous examples by Aldous and Pak where the characterization falls short.
 - **Video:** [TBU]
-- **Date and Time:** Sunday, 24th March 2024, 4:00 PM - 5:00 PM
+- **Date and Time:** Sunday, 24th March 2024, 12:00 PM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI09: What Is Concentration?
@@ -116,7 +116,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 7th April 2024, 4:00 PM - 5:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI14: What Is Bennequin's Inequality?
+## WIGSL: What Is Bennequin's Inequality?
 
 - **Speaker:** Balarka Sen (B. Math, 2021)
 - **Abstract:** A contact structure on a 3-manifold is a nowhere-integrable plane field on the manifold. Of particular interest are contact structures which are "tight", in which case the geometry of the contact manifold is sufficiently complicated. We focus our discussion to a semi-local study of contact structures near embedded surfaces (possibly, with boundary) in the manifold. As a consequence, we deduce the Thurston-Bennequin inequality for Legendrian knots in tight contact manifolds. We discuss some modest applications, and time permitting, indicate several ambitious ones.
