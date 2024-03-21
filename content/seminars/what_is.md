@@ -53,7 +53,9 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 ## WI06: What Is Mixing Time?
 
 - **Speaker:** Deepta Basak (B. Math, 2024)
-- **Abstract:** [TBU]
+- **Abstract:** We start with a concise introduction to Markov Chains, focusing on stationary distributions and the conditions necessary for their existence and uniqueness. Our primary interest lies in understanding the long-term behavior of finite Markov Chains, which leads us to define the Mixing Time. This measures the time required for a Markov Chain to get "close" to its stationary distribution.
+      Moving forward, we introduce several eigenvalue techniques and explore the connections between the eigenvalues of transition matrices and the Mixing Time. Additionally, we examine some upper and lower bounds on the Mixing Time in terms of the Relaxation Time. 
+      Throughout our discussion, we will use the Random Walk on the n-dimensional Hypercube as a central example to illustrate these concepts effectively.
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 23rd March 2024, 3:00 PM - 4:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
