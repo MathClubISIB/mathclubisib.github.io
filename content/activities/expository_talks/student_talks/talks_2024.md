@@ -14,9 +14,19 @@ All expository talks given by students of ISI Bangalore in the year 2024 at our 
 Spring 2024
 {{< /lead >}}
 
+## EP2404: Bernstein's problem for minimal surfaces in \\(\mathbb{R}^3\\)
+
+- **Speaker:** Devansh Kamra (B. Math, 2024)
+- **Abstract:** Bernstein's problem poses the question that if the graph of a scalar function on \\(\mathbb{R}^{n-1}\\) is a minimal surface, then whether the function is linear or not. This result holds if and only if \\(n \leq 8\\). We will solve the problem for \\(n=3\\) after introducing the notion of minimal surfaces and comparing various equivalent definitions, along with developing a necessary condition for the graph of a scalar function to be a minimal surface.
+- **References:** [TBU]
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Thursday, 28th March 2024, 9:00 PM - 10:30 PM
+- **Venue:** G-26 Classroom, Academic Building
+
 ## EP2403: Exact Sequences of Modules and Lazard’s Theorem
 
-- **Speaker:** Sankha Subhra Chakraborty (B.Math, 2025)
+- **Speaker:** Sankha Subhra Chakraborty (B. Math, 2025)
 - **Abstract:** This talk will serve as an introduction to the theory of exact sequences of modules. We will look at Hom and tensor, and discuss their exactness as functors to motivate the need for defining projective and flat modules. We will look at some characterisations of projective modules and discuss the hierarchy of free, projective and flat modules. We will introduce and discuss direct limits of directed systems of modules, and we shall conclude the talk with a theorem of Lazard, namely, the characterisation of flat modules as direct limit of finitely generated free modules.
 - **References:** [TBU]
 - **Notes:** [TBU]
