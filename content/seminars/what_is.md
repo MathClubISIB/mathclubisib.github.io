@@ -64,8 +64,8 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 - **Speaker:** Saraswata Sensarma (B. Math, 2024)
 - **Abstract:** In this talk, we give brief introduction to the notion of coupling of probability measures. Coupling is an extremely versatile tool, which finds applications in almost all facets of probability theory. In the first half of the talk, we will explore its use in studying mixing in finite Markov chains. In the second half, we introduce the notion of stochastic domination and analyze it through the lens of coupling. We then extend this notion to posets, which naturally leads us to correlation inequalities like Harris' inequality and FKG inequality. These find extensive applications in percolation theory and the Ising model, and the random cluster model in general.
-- **Video:** Available [here](https://youtu.be/cOujRv2IoVM).
-- **Date and Time:** Sunday, 24th March 2024, 10:30 AM - 11:30 PM
+- **Video:** Available [here](https://youtu.be/cOujRv2IoVM)
+- **Date and Time:** Sunday, 24th March 2024, 10:30 AM - 11:30 AM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI08: What Is Cut-Off?
