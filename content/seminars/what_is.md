@@ -54,8 +54,8 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 
 - **Speaker:** Deepta Basak (B. Math, 2024)
 - **Abstract:** We start with a concise introduction to Markov Chains, focusing on stationary distributions and the conditions necessary for their existence and uniqueness. Our primary interest lies in understanding the long-term behavior of finite Markov Chains, which leads us to define the Mixing Time. This measures the time required for a Markov Chain to get "close" to its stationary distribution.
-      Moving forward, we introduce several eigenvalue techniques and explore the connections between the eigenvalues of transition matrices and the Mixing Time. Additionally, we examine some upper and lower bounds on the Mixing Time in terms of the Relaxation Time. 
-      Throughout our discussion, we will use the Random Walk on the n-dimensional Hypercube as a central example to illustrate these concepts effectively.
+  Moving forward, we introduce several eigenvalue techniques and explore the connections between the eigenvalues of transition matrices and the Mixing Time. Additionally, we examine some upper and lower bounds on the Mixing Time in terms of the Relaxation Time.
+  Throughout our discussion, we will use the Random Walk on the n-dimensional Hypercube as a central example to illustrate these concepts effectively.
 - **Video:** Available [here](https://youtu.be/YZnhxW3ytKY).
 - **Date and Time:** Saturday, 23rd March 2024, 3:00 PM - 4:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
@@ -76,15 +76,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 24th March 2024, 12:00 PM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI09: What Is Concentration?
-
-- **Speaker:** Ishaan Bhadoo (B. Math, 2024)
-- **Abstract:** [TBU]
-- **Video:** [TBU]
-- **Date and Time:** Saturday, 30th March 2024, 3:00 PM - 4:00 PM
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## WI10: What Is Graph Cohomology?
+## WI09: What Is Graph Cohomology?
 
 - **Speaker:** Prognadipto Majumdar (B. Math, 2024)
 - **Abstract:** We'll define models of graph complexes and explore basic topological properties of graphs. We'll move on to an application of a certain model of graph cohomolgy which directly gives us the Chromatic Polynomial. If time permits , we may look at some connections to TQFTs.
@@ -92,15 +84,15 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Sunday, 31st March 2024, 11:30 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI11: What Is Ideal Class Group?
+## WI10: What Is Ideal Class Group?
 
 - **Speaker:** Shubhrojyoti Dhara (B. Math, 2024)
-- **Abstract:** [TBU]
+- **Abstract:** The Ideal Class groups measure to a certain extent how far a certain ring of integers is, from being a PID. We explore its relations to the equivalence classes of positive definite quadratic forms. We advance to the proof of FLT of Kummer for special primes \\(p \nmid h\_{\mathfrak{O}\_{\mathscr{F}}}\\). Lastly, we will introduce Adeles and Idele Class Groups.
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 31st March 2024, 4:00 PM - 5:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI12: What Is Poincaré Recurrence Theorem?
+## WI11: What Is Poincaré Recurrence Theorem?
 
 - **Speaker:** Devansh Kamra (B. Math, 2024)
 - **Abstract:** Poincaré's Recurrence Theorem is a celebrated result in Ergodic Theory, which states that a dynamical system under certain constraints is bound to return arbitrarily close to its initial stage after a finite amount of time. This result has found widespread applications in the study of dynamical systems. We would be discussing this result from a measure-theoretic viewpoint, building upon the necessary notions before developing a neat proof of the theorem, along with some applications.
@@ -108,7 +100,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Date and Time:** Saturday, 6th April 2024, 3:00 PM - 4:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## WI13: What Is Knot Theory?
+## WI12: What Is Knot Theory?
 
 - **Speaker:** Dhruba Sarkar (B. Math, 2025)
 - **Abstract:** In this talk, we will try to provide a mathematical formulation of our usual intuition of knots. We will talk about knot equivalence and how we can associate numbers, polynomials, topological and algebraic structure on knots to differentiate between them. In particular, we will look at Knot Colorability and how we use it to differentiate between knots.
