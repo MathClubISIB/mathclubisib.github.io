@@ -97,7 +97,7 @@ In the "What Is...?" seminar, speakers will take up a topic and try to elaborate
 - **Speaker:** Devansh Kamra (B. Math, 2024)
 - **Abstract:** Poincaré's Recurrence Theorem is a celebrated result in Ergodic Theory, which states that a dynamical system under certain constraints is bound to return arbitrarily close to its initial stage after a finite amount of time. This result has found widespread applications in the study of dynamical systems. We would be discussing this result from a measure-theoretic viewpoint, building upon the necessary notions before developing a neat proof of the theorem, along with some applications.
 - **Video:** [TBU]
-- **Date and Time:** Saturday, 6th April 2024, 3:00 PM - 4:00 PM
+- **Date and Time:** Saturday, 6th April 2024, 4:00 PM - 5:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## WI12: What Is Knot Theory?
