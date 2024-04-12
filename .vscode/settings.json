@@ -2,5 +2,5 @@
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "markdown.editor.pasteUrlAsFormattedLink.enabled": "always",
-  "markdown.editor.drop.enabled": true,
+  "markdown.editor.drop.enabled": "smart",
 }

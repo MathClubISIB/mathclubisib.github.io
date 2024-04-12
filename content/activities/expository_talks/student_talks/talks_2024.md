@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2024"
 description: "Expository Talks for the year 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "4 Lectures | 4 Spring Lectures | No Fall Lecture | 4 Speakers"
+summary: "5 Lectures | 5 Spring Lectures | No Fall Lecture | 5 Speakers"
 ---
 
 {{< katex >}}
@@ -14,13 +14,24 @@ All expository talks given by students of ISI Bangalore in the year 2024 at our 
 Spring 2024
 {{< /lead >}}
 
-## EP2404: Bernstein's problem for minimal surfaces in \\(\mathbb{R}^3\\)
+## EP2405: Chaotic Dynamics on the Riemann Sphere
 
-- **Speaker:** Devansh Kamra (B. Math, 2024)
-- **Abstract:** Bernstein's problem poses the question that if the graph of a scalar function on \\(\mathbb{R}^{n-1}\\) is a minimal surface, then whether the function is linear or not. This result holds if and only if \\(n \leq 8\\). We will solve the problem for \\(n=3\\) after introducing the notion of minimal surfaces and comparing various equivalent definitions, along with developing a necessary condition for the graph of a scalar function to be a minimal surface.
+- **Speaker:** Saptarshi Halder (M. Math, 1st year)
+- **Abstract:** We give an elementary introduction to the holomorphic dynamics on the Riemann Sphere. We outline some basic concepts regarding this. Next we introduce the notion of Fatou and Julia sets. We see some easy examples. If time permits we will introduce the Mandelbrot set.
+- **Pre-requisites:** Basic Real and Complex analysis, Set theory.
 - **References:** [TBU]
 - **Notes:** [TBU]
 - **Video:** [TBU]
+- **Date and Time:** Tuesday, 2nd April 2024, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2404: Bernstein's problem for minimal surfaces in \\(\mathbb{R}^3\\)
+
+- **Speaker:** Devansh Kamra (B. Math, 2024)
+- **Abstract:** Bernstein's problem poses the question that if the graph of a scalar function on \\(\mathbb{R}^{n-1}\\) is a minimal surface, then whether the function is linear or not. This result holds if and only if \\(n \leq 8\\). We will solve the problem for \\(n = 3\\) after introducing the notion of minimal surfaces and comparing various equivalent definitions, along with developing a necessary condition for the graph of a scalar function to be a minimal surface.
+- **References:** [TBU]
+- **Notes:** [TBU]
+- **Video:** Available [here](https://youtu.be/yEWDcYEONkU).
 - **Date and Time:** Thursday, 28th March 2024, 9:00 PM - 10:30 PM
 - **Venue:** G-26 Classroom, Academic Building
 
@@ -30,7 +41,7 @@ Spring 2024
 - **Abstract:** This talk will serve as an introduction to the theory of exact sequences of modules. We will look at Hom and tensor, and discuss their exactness as functors to motivate the need for defining projective and flat modules. We will look at some characterisations of projective modules and discuss the hierarchy of free, projective and flat modules. We will introduce and discuss direct limits of directed systems of modules, and we shall conclude the talk with a theorem of Lazard, namely, the characterisation of flat modules as direct limit of finitely generated free modules.
 - **References:** [TBU]
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/C79v4uaPaaI).
 - **Date and Time:** Sunday, 3rd March 2024, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
