@@ -1,6 +1,6 @@
 ---
 title: "UDGRP Summer 2023"
-description: "UDGRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
+description: "UDGRP Summer 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "5 Projects | 8 Weeks | 5 Groups | 7 Leaders | 10 Participants"
 ---
 

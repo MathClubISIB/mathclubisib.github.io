@@ -1,16 +1,16 @@
 ---
-title: "WRP Winter 2022"
-description: "WRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "UDGRP Winter 2022"
+description: "UDGRP Winter 2022 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "6 Projects | 4 Weeks | 6 Groups | 11 Leaders | 12 Participants"
 ---
 
 {{< katex >}}
 
 {{< lead >}}
-WRP 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
+UDGRP Winter 2022 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the WRP 2022 organised by the Math Club.
+This is the home page of the UDGRP Winter 2022 organised by the [Math Club](/). The projects start from Saturday, 7<sup>th</sup> December, 2022. The topics being considered this time are presented below.
 
 ## Category Theory
 

@@ -1,16 +1,16 @@
 ---
-title: "WRP Winter 2023"
-description: "WRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "UDGRP Winter 2023"
+description: "UDGRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders | 19 Participants"
 ---
 
 {{< katex >}}
 
 {{< lead >}}
-WRP 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
+UDGRP Winter 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the WRP 2023 that will be organised by the [Math Club](/).
+This is the home page of the UDGRP Winter 2022 organised by the [Math Club](/). The projects start from Saturday, 29<sup>th</sup> November, 2023. The topics being considered this time are presented below.
 
 ## Knot Theory
 
@@ -183,9 +183,9 @@ The following people, apart from the group leaders, have completed the reading p
 
 ## Random Walks, Stochastic Processes, and Brownian Motion
 
-Probability theory involves analyzing event behavior over a significant time span. This WRP aims to explore fundamental concepts and the roots of random processes without delving into technical details, offering an intuitive understanding. We will begin by discussing important results such as the Law of Large Numbers and the Central Limit Theorem. Then, we'll examine examples of random processes, with a primary focus on connecting Brownian Motion to a simple random walk on the real line. The project will also explore Brownian Motion's properties, including its application in analyzing the Empirical Distribution Function, hitting times, arc sine law, drift, and Markov processes. If time allows, we may introduce Time Series, with a focus on the Kalman Filter and Optimal Transport.
+Probability theory involves analyzing event behavior over a significant time span. This UDGRP aims to explore fundamental concepts and the roots of random processes without delving into technical details, offering an intuitive understanding. We will begin by discussing important results such as the Law of Large Numbers and the Central Limit Theorem. Then, we'll examine examples of random processes, with a primary focus on connecting Brownian Motion to a simple random walk on the real line. The project will also explore Brownian Motion's properties, including its application in analyzing the Empirical Distribution Function, hitting times, arc sine law, drift, and Markov processes. If time allows, we may introduce Time Series, with a focus on the Kalman Filter and Optimal Transport.
 
-While there are no prerequisites for this WRP, having knowledge of results like the Law of Large Numbers, the Central Limit Theorem (excluding proofs), standard distributions, and covariance/correlation can be beneficial.
+While there are no prerequisites for this UDGRP, having knowledge of results like the Law of Large Numbers, the Central Limit Theorem (excluding proofs), standard distributions, and covariance/correlation can be beneficial.
 
 - **Primary References:**
   - _Stochastic Processes_ -- Sheldon M. Ross
