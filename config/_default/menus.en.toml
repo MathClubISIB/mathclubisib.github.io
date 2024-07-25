@@ -131,12 +131,6 @@ parent = "Activities"
 pageRef = "udgrp"
 weight = 25
 
-[[main]]
-name = "WRP"
-parent = "Activities"
-pageRef = "wrp"
-weight = 30
-
 # [[main]]
 # name = "Team"
 # pageRef = "team"
