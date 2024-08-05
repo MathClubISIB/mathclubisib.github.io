@@ -10,7 +10,7 @@ summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders | 19 Participants"
 UDGRP Winter 2023 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the UDGRP Winter 2022 organised by the [Math Club](/). The projects start from Saturday, 29<sup>th</sup> November, 2023. The topics being considered this time are presented below.
+This is the home page of the UDGRP Winter 2023 organised by the [Math Club](/). The projects start from Saturday, 29<sup>th</sup> November, 2023. The topics being considered this time are presented below.
 
 ## Knot Theory
 
