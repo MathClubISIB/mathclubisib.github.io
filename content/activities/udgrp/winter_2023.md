@@ -87,7 +87,6 @@ The following people, apart from the group leaders, have completed the reading p
 
 - Arkapriyo Hore (B1)
 - Anjali Elizabeth Paul (B2)
-- Subhadeep Pal (M1)
 
 ## Commutative Algebra
 
@@ -117,7 +116,6 @@ The following people, apart from the group leaders, have completed the reading p
 - Kalmanje Avyaktha Achar (B1)
 - Arkapriyo Hore (B1)
 - Anjali Elizabeth Paul (B2)
-- Subhadeep Pal (M1)
 
 ## Algebraic Topology
 
@@ -147,7 +145,6 @@ The following people, apart from the group leaders, have completed the reading p
 
 - Arya Biswas (B1)
 - Anant Umesh Kerur (B1)
-- Subhadeep Pal (M1)
 
 ## Measure Theory
 
