@@ -1,12 +1,46 @@
 ---
 title: "Student Talks 2024"
 description: "Expository Talks for the year 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "5 Lectures | 5 Spring Lectures | No Fall Lecture | 5 Speakers"
+summary: "10 Lectures | 5 Spring Lectures | 5 Fall Lectures | 8 Speakers"
 ---
 
 {{< katex >}}
 
-All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
+## All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
+
+{{< lead >}}
+Fall 2024
+{{< /lead >}}
+
+## EP2408: Tribone Tilings: Honeycombs to Benzels
+
+- **Speaker:** Hrishik Koley (B. Math, 3rd year)
+- **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
+- **Pre-requisites:** Some knowledge of graph theory might help, but I would anyways introduce all the needed concepts.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2407: Homological Methods in Number Theory
+
+- **Speaker:** Amit Kumar Basistha (B. Math, 3rd year)
+- **Abstract:** The application of Homological Methods in Algebraic Number Theory, particularly in Class Field Theory, gained popularity around the 1950s and has propelled enormous advancement in the subject. In this talk, I will introduce some notions of Group Cohomology and how they are applicable in Number Theory. In particular, I will introduce the notion of 'Abstract Class Formation' and define the reciprocity isomorphism and its functorial properties. Finally I will present a nice characterization of the Norm Groups of a Local Field.
+- **Pre-requisites:** Knowledge of Abstract Algebra and some point set topology will be assumed. Further the content of the talk on Homological Algebra by Sankha Subhra Chakraborty will be assumed.
+- **Notes:** Available [here](https://drive.google.com/file/d/1gkEor8WQAJ5sMVluOcO1az2Y8GFSEJDu/view?usp=drive_link)
+- **Video:** Available [here](https://youtu.be/FgwajV1w1RY)
+- **Date and Time:** Sunday, 11th August 2024, 11:00 AM - 01:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2406: Introduction to Homological Algebra and Derived Functors
+
+- **Speaker:** Sankha Subhra Chakraborty (B. Math, 3rd year)
+- **Abstract:** When a left or right exact functor is applied to a short exact sequence, exactness is only preserved at one end. Derived functors provide a systematic method to continue this sequence on the other end. Most of the talk will include introducing and explaining the setup for talking about these derived functors, including exactness, chain complexes, chain homotopy, and resolutions.
+- **Pre-requisites:** Knowledge of elementary linear algebra concepts such as linear maps, kernel, image etc will be helpful for following the talk.
+- **Notes:** Available [here](https://drive.google.com/file/d/1DDIhqkIpgHYEdNFRGQqdClbVEOiiPane/view?usp=drive_link)
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 10th August 2024, 10:30 AM - 12:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ---
 
@@ -19,9 +53,7 @@ Spring 2024
 - **Speaker:** Saptarshi Halder (M. Math, 1st year)
 - **Abstract:** We give an elementary introduction to the holomorphic dynamics on the Riemann Sphere. We outline some basic concepts regarding this. Next we introduce the notion of Fatou and Julia sets. We see some easy examples. If time permits we will introduce the Mandelbrot set.
 - **Pre-requisites:** Basic Real and Complex analysis, Set theory.
-- **References:** [TBU]
-- **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/4infaq-P27E)
 - **Date and Time:** Tuesday, 2nd April 2024, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 

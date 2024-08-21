@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Directed Group Reading Program"
 description: "UDGRP at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "Exploring different topics, discovering applications and related areas during the summer break."
+summary: "Exploring different topics, discovering applications and related areas during the summer and winter break."
 
 cascade:
   showDate: false
@@ -12,7 +12,7 @@ cascade:
 
 The Undergraduate Directed Group Reading Program (UDGRP) is an initiative by the students of [Math Club, ISI Bangalore](/). The target is to learn a bit about accessible, elementary yet elegant topics which are generally excluded from an undergraduate curriculum here. The target students are first and second year undergraduates, though third years are also encouraged to participate if they are interested.
 
-Groups of 5-7 students are formed along with a mentor, who is a third year undergraduate or first year graduate student having some experience or interest in that field. Every group is primarily interested to study a bit about a specific topic, its applications and subsidiary topics. The whole objective is to be introduced to different avenues of mathematics in a simple and accessible way, as is the target of the club.
+Groups of 5-7 students are formed along with a mentor, who is a second year or third year undergraduate student having some experience or interest in that field. Every group is primarily interested to study a bit about a specific topic, its applications and subsidiary topics. The whole objective is to be introduced to different avenues of mathematics in a simple and accessible way, as is the target of the club.
 
 ## The Process
 
