@@ -16,7 +16,7 @@ Fall 2024
 
 - **Speaker:** Hrishik Koley (B. Math, 3rd year)
 - **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
-- **Pre-requisites:** Some knowledge of graph theory might help, but I would anyways introduce all the needed concepts.
+- **Pre-requisites:** Some knowledge of graph theory, group theory, and basic topology might help, but I would anyways introduce all the needed concepts.
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
