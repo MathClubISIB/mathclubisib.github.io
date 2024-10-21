@@ -12,7 +12,7 @@ summary: "16 Lectures | 5 Spring Lectures | 11 Fall Lectures | 13 Speakers"
 Fall 2024
 {{< /lead >}}
 
-## EP2416: Percolation and Kesten's Theorem
+## EP2417: Percolation and Kesten's Theorem
 
 - **Speaker:** Malav Dhaval Doshi (B.Math, 3rd year)
 - **Abstract:** This talk is intended to introduce the idea of Bernoulli percolation. Starting of with basic inequalities, we will cover Russo's formula and introduce notion of critical probability, ergodicity, sub and super critical phases. We will prove some results regarding the sub-critical and super-critical phases concluding with Kesten's theorem for \\(\mathbb{Z}^2\\) lattice.
@@ -21,7 +21,7 @@ Fall 2024
 - **Date and Time:** Saturday, 5th October 2024, 11:00 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## EP2415: Trapped or Free - Understanding Random Walk Dynamics
+## EP2416: Trapped or Free - Understanding Random Walk Dynamics
 
 - **Speaker:** Aritrabha Majumdar (B. Math, 2nd year)
 - **Abstract:** The objective of this talk is to investigate the recurrence and transience of random walks, concentrating on essential probabilistic techniques and criteria to distinguish between these behaviours. The talk will examine foundational concepts and their implications for understanding the long-term properties of random walks in various dimensions.
@@ -31,7 +31,7 @@ Fall 2024
 - **Date and Time:** Wednesday, 2nd October 2024, 9:00 PM - 10:30 PM
 - **Venue:** G-26 classroom, Academic Building
 
-## EP2414: Zeeman's Collapsibility Conjecture
+## EP2415: Zeeman's Collapsibility Conjecture
 
 - **Speaker:** Pragalbh Kumar Awasthi (B. Math, 3rd year)
 - **Abstract:** The Dunce Hat is the simplest example of a non-collapsible polyhedron which is contractible. However, its product with the unit interval acquires enough room that it becomes collapsible. In 1963, E.C. Zeeman conjectured that the same holds for any contractible polyhedron, and the problem remains open to this date.
@@ -46,7 +46,7 @@ Fall 2024
 - **Date and Time:** Sunday, 28th September 2024, 11:00 AM - 12:30 PM
 - **Venue:** G-26 classroom, Academic Building
 
-## EP2413: On Topological Groups and Pontryagin Duality
+## EP2414: On Topological Groups and Pontryagin Duality
 
 - **Speaker:** Dhruba Sarkar (B. Math, 3rd year)
 - **Abstract:** Pontryagin Duality is an analogue of Fourier Transformation for Locally Compact Abelian (LCA) groups, with underlying topological structure. In this talk, we will introduce topological groups and look at some of its properties. In particular, we shall talk about Locally Compact groups and look at a version of Open Mapping Theorem for LCA groups. We will then look at the proof of Pontryagin duality by showing it for compact, discrete, compactly generated and LCA groups. We will end the talk with some applications of Pontryagin duality and a version of Structure Theorem on LCA groups.
@@ -56,7 +56,7 @@ Fall 2024
 - **Date and Time:** Sunday, 22nd September 2024, 11:00 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## EP2412: An Elementary Proof of the Prime Number Theorem
+## EP2413: An Elementary Proof of the Prime Number Theorem
 
 - **Speaker:** Korou Khundrakpam (B. Math, 2nd year)
 - **Abstract:** The distribution of prime numbers, particularly the Prime Number Theorem, has fascinated mathematicians for centuries, with key milestones marked by advances made by notable mathematicians throughout the course of history. In this talk, we will explore Chebyshev’s contributions to the problem, mainly his work that laid the foundation for estimating the density of prime numbers. We will then delve into the elegance and significance of Selberg’s "elementary" proof of the Prime Number Theorem, highlighting how it revolutionized our understanding of the asymptotic behavior of primes. By connecting these pivotal results, we will gain insight into how modern analytic and elementary techniques contribute to unraveling the mysteries of prime number distribution.
@@ -66,7 +66,7 @@ Fall 2024
 - **Date and Time:** Saturday, 21st September 2024, 11:00 AM - 12:30 PM
 - **Venue:** G-26 Classroom, Academic Building
 
-## EP2411: Discriminant of Polynomials through the Lens of Galois Theory
+## EP2412: Discriminant of Polynomials through the Lens of Galois Theory
 
 - **Speaker:** Anasmit Pal (B. Math, 3rd year)
 - **Abstract:** This talk explores the intricate relationship between discriminants and Galois groups of polynomials over a given field (mainly over \\(\mathbb{Q}\\)). We begin by establishing foundational Galois theoretic concepts and theorems. Then, we delve into diverse methods for computing discriminants, including:
@@ -83,7 +83,7 @@ This talk will be a very basic one with the pre-requisite being field theory, an
 - **Date and Time:** Sunday, 1st September 2024, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## EP2410: Introduction to Modules of Differentials
+## EP2411: Introduction to Modules of Differentials
 
 - **Speaker:** Muhammed K.M. (M. Math, 2nd year)
 - **Abstract:** We will start by defining an algebra over a commutative ring. We will discuss some of its properties, recalling tensor product and localization of algebras. We will then introduce the central topic of our talk,module of relative differentials,discussing some of its properties. We will also introduce exact sequences related to differentials. If time permits,we will also talk about base change of relative differentials.
@@ -93,7 +93,7 @@ This talk will be a very basic one with the pre-requisite being field theory, an
 - **Date and Time:** Saturday, 31st August 2024, 3:00 PM - 4:00 PM
 - **Venue:** G-26 Classroom, Academic Building
 
-## EP2409: Besicovitch's Covering Theorem: A Geometric Approach
+## EP2410: Besicovitch's Covering Theorem: A Geometric Approach
 
 - **Speaker:** Saptarshi Halder (M. Math, 2nd year)
 - **Abstract:** We start by defining the Radon measure in n-dimensional Euclidean space. We derive the Vitali’s Covering Theorem. However we observe some control issues there which is our main motivation to study Besicovitch's covering theorem. The crucial geometric difference is that Vitali’s Covering Theorem provides a cover of enlarged balls, whereas Besicovitch’s Covering Theorem yields a cover out of the original balls, at the price of a certain controlled amount of overlap. These covering theorems will enable us to define and study Maximal functions which we encounter frequently in the field of mathematical analysis.
@@ -103,7 +103,7 @@ This talk will be a very basic one with the pre-requisite being field theory, an
 - **Date and Time:** Sunday, 25th August 2024, 10:30 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## EP2408: Tribone Tilings: Honeycombs to Benzels
+## EP2409: Tribone Tilings: Honeycombs to Benzels
 
 - **Speaker:** Hrishik Koley (B. Math, 3rd year)
 - **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
@@ -112,6 +112,16 @@ This talk will be a very basic one with the pre-requisite being field theory, an
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2408: A Glimpse into Geometric Group Theory: Folding and the Ping-Pong
+
+- **Speaker:** Rinkiny Ghatak (B.Math, 3rd year)
+- **Abstract:** Geometric group theory looks at groups through the geometric objects that they act on (graphs, topological spaces, manifolds, etc.), and the geometric properties of those objects help us understand algebraic properties of the group. In the first half of the talk, I will talk about how we can "fold" graphs to study subgroups of free groups, which is otherwise a difficult task with pure algebraic tools. In the second half, we will see the ping-pong lemma, where we identify free groups by seeing if they "play ping-pong" or not. We will see a very nice application in the study of the subgroups of \\(PSL(2,\mathbb{C})\\) by looking at their action on the Riemann sphere.
+- **Prerequisites:** Basic notions of group theory would help. Having some knowledge of algebraic topology will help see more connections, but it is not at all necessary.
+- **Notes:** [TBU]
+- **Video:** Available [here](https://youtu.be/qnHGvXD1HTo)
+- **Date and Time:** Sunday, 18th August 2024, 11:00 AM - 01:00 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2407: Homological Methods in Number Theory
 
