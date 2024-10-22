@@ -15,6 +15,11 @@ name = "News and Events"
 pageRef = "news_and_events"
 weight = 25
 
+[[main]]
+name = "Members"
+pageRef = "members"
+weight = 30
+
 #[[main]]
 #name = "Expository Talks (New!)"
 #parent = "Upcoming Activities"
