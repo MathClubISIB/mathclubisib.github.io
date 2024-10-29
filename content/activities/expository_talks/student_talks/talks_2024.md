@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2024"
 description: "Expository Talks for the year 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "16 Lectures | 5 Spring Lectures | 11 Fall Lectures | 13 Speakers"
+summary: "17 Lectures | 5 Spring Lectures | 11 Fall Lectures | 13 Speakers"
 ---
 
 {{< katex >}}
@@ -12,6 +12,18 @@ summary: "16 Lectures | 5 Spring Lectures | 11 Fall Lectures | 13 Speakers"
 Fall 2024
 {{< /lead >}}
 
+## EP2418: Unifying Forms and Homology: An Introduction to de Rham's theorem and Poincáre Duality
+
+- **Speaker:** Anasmit Pal (B.Math, 3rd year)
+- **Abstract:** Differential topology and geometry owe much of their foundational structure to de Rham’s theorem and Poincaré duality. These results bridge the gap between de Rham cohomology and cohomology with compact support and singular cohomology, offering profound insights into the topology of smooth manifolds. In this talk, we will begin by recalling the essentials of differential forms, both in Euclidean spaces and on manifolds, and explore the idea of integration on manifolds. We'll also touch on Stokes' theorem which is a broader generalization of the one we study in multivariable calculus.
+
+  The core of the presentation will delve into different cohomology theories, such as smooth singular cohomology and cohomology with compact support. We will discuss the role of the Mayer-Vietoris sequence in these contexts, laying the groundwork for the main focus: a statement and sketch of the proof of de Rham’s theorem. This will naturally lead into a discussion of Poincaré duality for de Rham cohomology, accompanied by examples and key applications.
+
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Thursday, 24th October 2024, 6:00 PM - 7:30 PM
+- **Venue:** G-26 classroom, Academic Building
+
 ## EP2417: Percolation and Kesten's Theorem
 
 - **Speaker:** Malav Dhaval Doshi (B.Math, 3rd year)
@@ -19,7 +31,7 @@ Fall 2024
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 5th October 2024, 11:00 AM - 12:30 PM
-- **Venue:** 2nd Floor Auditorium, Academic Building
+- **Venue:** G-26 classroom, Academic Building
 
 ## EP2416: Trapped or Free - Understanding Random Walk Dynamics
 
