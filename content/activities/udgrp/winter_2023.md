@@ -34,7 +34,6 @@ In the 19th century, Lord Kelvin made a failed attempt to classify chemical elem
   The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
 - \* Yuvraj Singh Rajpurohit (B1)
-- Arkapriyo Hore (B1)
 
 ## Random Graphs
 
