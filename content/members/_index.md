@@ -36,3 +36,21 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Amit Kumar Basistha (B.Math 2025)
 - Gandharv Sawant (B.Math 2025)
 - Hrishik Koley (B.Math 2025)
+
+## Academic Year 2022-23
+
+- Sanchayan Bhowal (B.Math 2023)
+- Aaratrick Basu (B.Math 2024)
+- Deepta Basak (B.Math 2024)
+- Saraswata Sensarma (B.Math 2024)
+- Soumya Dasgupta (B.Math 2024)
+- Trishan Mondal (B.Math 2024)
+
+## Academic Year 2021-22
+
+- Snehinh Sen (B.Math 2022)
+- Md Rahil Miraj (B.Math 2023)
+- Pratichi Paramita (B.Math 2023)
+- Rahul Mazumder (B.Math 2023)
+- Sanchayan Bhowal (B.Math 2023)
+- Srigyan Nandi (B.Math 2023)
