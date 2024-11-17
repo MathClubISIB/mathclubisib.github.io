@@ -209,3 +209,24 @@ In this UDGRP we will motivate the necessity for an axiomatic approach to set th
   - Schröder-Benstein theorem
   - Cardinal numbers
   - Cardinal arithmetic
+
+## Knot Theory
+
+This is a rather comprehensive branch of topology, giving mathematical descriptions about the knots; closed curves immersed in three dimensional space. Through this course, we will discuss the main ideas from knot theory like classification, Reidemeister moves and knot invariants such as Jones and Alexander polynomials. We try to relate what knot theory has to do with other areas of mathematics: algebra, geometry, and physics. At the course's end, the students will understand how to manipulate and analyze the knots by topological methods and how the basics of the computation of knot invariants allow to distinguish some knots from others.
+
+- **Primary References:**
+  - [_The Knot Book: An Introduction to the Mathematical Theory of Knots_](https://www.math.cuhk.edu.hk/course_builder/1920/math4900e/Adams--The%20Knot%20Book.pdf) -- C. Adams
+  - [_Knot Theory_](https://www.math.cuhk.edu.hk/course_builder/1920/math4900e/Livingston%20C.---Knot%20theory%20%28MAA%2C%201996%29.pdf) --C. Livingstone
+  - [_University Lectures on Knot Theory_](https://personal.math.ubc.ca/~hkeese/IHS_notes.pdf)
+- **Group Leaders:**
+  - Daibik Barik (B2)
+  - Suryansh Shailesh Shirbhate (B2)
+- **Topics to be covered:**
+  - Introduction to Knots and Links
+  - Knot Diagrams and Reidemeister Moves
+  - Basic Knot Invariants (Crossing Number, Tricolorability)
+  - Types of Knots
+  - Polynomial Invariants: Alexander and Jones Polynomials
+  - Connecting Graph Theory with Knots
+  - Applications of Knot Theory in Biology and Physics
+  - Open Problems in Knot Theory
