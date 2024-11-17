@@ -34,9 +34,9 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 Geometric group theory is all about looking at groups through the geometric objects they act on - like graphs, topological spaces, manifolds. The geometric properties of those objects help us understand algebraic properties of the group. We use group actions on various sets in order to gather some useful information about the groups. We will start by introducing Cayley graphs and proving some theorems. Then we will try to develop some machinery and prove that any group that acts freely on a tree is a free group. From there, we will go towards the proof of Nielsen-Schreier theorem, which says that any subgroup of a free group is free. We will also introduce hyperbolic plane and explore group actions on it. If time permits, we will touch on solvable groups and prove the tits alternative.
 
 - **Primary References:**
-  - _Geometric Group Theory_ -- Clara L\(\"\)oh
+  - _Geometric Group Theory_ -- Clara Löh
   - _Office Hours with Geometric Group Theorist_ -- Matt Clay and Dan Margalit
-- **Group Leader:**
+- **Group Leaders:**
   - Rinkiny Ghatak (B3)
   - Treanungkur Mal (B2)
 - **Topics to be covered:**
@@ -49,3 +49,163 @@ Geometric group theory is all about looking at groups through the geometric obje
   - Ping Pong Lemma
   - Solvable Groups
   - Tits Alternative
+
+## Projective Geometry
+
+Independence of the parallel postulate in euclidian geometry from the rest of the axioms, motivates us to study a geometry where any two lines intersect.This is what is known as projective goemetry.
+
+We start by defining affine planes and studying some of their properties.This will lead us to investigate the completion of affine planes,which would motivate the axioms of projective planes. We will see some important theorems relating to them and then the notions of perspectivities and projectivities. We will introduce the construction of projective spaces over division rings and discuss some natural questions related to them. We will also cover projective collineations and its applications.
+
+- **Primary References:**
+  - _Projective Geometry and Modern Algebra_ -- Lars Kadison and Matthias Kromann
+  - _An Expedition to Geometry_ -- S. Kumaresan and G. Santhanam
+- **Group Leader:**
+  - Devansh Dhar Dwivedi (B2)
+- **Topics to be covered:**
+  - Properties and transformations of affine planes
+  - Desargues theorem and non-Desarguesian planes
+  - Axioms of projective planes
+  - The principle of duality
+  - Fano's axiom and harmonic points
+  - Perspectivities and Projectivities
+  - The fundamental theorem for projectivities on a line
+  - An application-projective completion of the conics
+  - Planes over division rings
+  - Mobius transformations and cross ratios
+  - Projective collineations
+
+## Measure Theory
+
+Here we will give you the motivation behind the introduction of the concept of measure and then move on to discuss definitions, some important propositions which have major applications in probability and statistics. We will also discuss little about measurable and non-measurable sets, and learn about convergence and integration in measure. We will finally end with DCT (Dominated Convergence Theorem).
+
+- **Primary References:**
+  - _Measure Theory and Fine Properties of Functions_ -- Lawrence C. Evans and Ronald F. Gariepy
+  - _Measure and Integration_ -- S.Kesavan
+  - _Real Analysis: Modern Techniques and Their Applications_ -- G. Folland
+  - _Principles of Mathematical Analysis_ -- Walter Rudin
+- **Group Leaders:**
+  - Saptarshi Halder (M2)
+  - Sarbartha Sarkar (B2)
+- **Topics to be covered:**
+  - Riemann Integration
+  - Sequences and Series of functions
+  - Measure and Measurable functions
+  - Lusin's and Egoroff's Theorems
+  - Integral and Limit Theorems
+
+## Dynamical Systems
+
+The study of dynamical systems serves as a significant tool for analyzing the evolution of intricate processes, including the trajectories of celestial bodies, the transmission of diseases, and the variations observed in financial markets. By concentrating on the alterations in a system's state as dictated by specific rules or equations, the theory of dynamical systems elucidates patterns of stability, unpredictability, and chaos. This field explores both the orderly motion of a pendulum and the chaotic fluctuations of weather patterns, seeking to understand the fundamental forces that instigate transitions from order to chaos in both natural and artificial contexts. Key areas of focus include linearization, which simplifies nonlinear dynamics into linear systems for predicting local behaviour, and stability analysis, which evaluates the response of systems to minor perturbations. Concepts such as Lyapunov functions and invariant manifolds play a crucial role in determining system stability and in deciphering the complex behaviours that can arise from seemingly simple nonlinear systems. This examination of local and global dynamics reveals the intricate balance that influences the shift between stable and unstable behaviours in both natural and engineered systems.
+
+- **Primary References:**
+  - _Differential Equation and Dynamical Systems_ -- Lawrence Perko
+  - _Differential Equations, Dynamical Systems and Linear Algebra_ -- Hirsch and Smale
+- **Group Leader:**
+  - Aritrabha Majumdar (B2)
+- **Topics to be covered:**
+  - Linear Systems: Homogeous and non-homogenous systems, basic stability Analysis
+  - Basics of local theory of non-linear systems
+  - If time permits --
+    - Global existence Theorem
+    - Limit set and attractors
+    - Extension of stable manifold theorem for periodic orbits
+
+## Fourier Analysis
+
+This project explores the fundamental role of Fourier series and Fourier transforms, essential tools for analyzing functions in various mathematical and scientific domains.
+
+In mathematics, Fourier methods are crucial for studying L-functions, theta functions, and the Riemann zeta function, and have significant applications in signal processing and engineering. In physics, Fourier analysis underpins the Heisenberg uncertainty principle in quantum mechanics and provides solutions to the heat equations and wave equations. It also forms the basis for Radon and X-ray transforms, widely used in medical imaging.
+
+We will cover the basics of Fourier series and transforms, uniqueness, kernels, summability methods, and the convergence of Fourier series, along with other orthogonal bases. To round off the project, we will discuss applications such as those mentioned earlier to highlight the wide-ranging impact of Fourier analysis.
+
+- **Primary References:**
+  - _Fourier Analysis: An Introduction_ -- Stein and Shakarchi
+  - _Fourier Analysis and it's Applications_ -- Gerald B. Folland
+- **Group Leaders:**
+  - Arjina Jana (B2)
+  - Debatra Das (B2)
+- **Topics to be covered:**
+  - Basic definition
+  - Convergence and uniqueness of Fourier series
+  - Convolutions and Good Kernels
+  - Elementary theory of Fourier transform on \(\mathbb{R}\)
+  - Some applications
+
+## Combinatorial Game Theory
+
+Combinatorial game theory is about games played between two players who make alternating moves with no hidden information or randomness. The subject of study is finding which player is winning, and the winning strategies. This involves assigning "numbers" to quantify the amount of advantage the players have in a specific position. There is a rich mathematical structure on these, and we will study the arithmetic of these game values in detail.
+
+We shall begin with several games and common winning techniques. We will look at the structure of game values in detail, and study how these values add and simplify. Finally, we will look at temperature theory, and study hot, cold and tepid games, and learn how to win at each kind, and learn how to draw thermographs of games. We will also study strategies to win at some particular games. If time permits, we can do additional topics like impartial games, infinitesimals, all-small games etc.
+
+- **Primary References:**
+  - _Lessons in Play: An Introduction to Combinatorial Game Theory_ -- David Wolfe, Michael H. Albert and Richard J. Nowakowski
+  - _Winning Ways for Your Mathematical Plays_ -- Elwyn R. Berlekamp, John H. Conway, and Richard K. Guy
+  - _Combinatorial Game Theory_ -- Aaron N. Siegel
+- **Group Leaders:**
+  - Nikhil Nagaria (B3)
+  - Arya Biswas (B2)
+  - Nirjhar Laskar (B2)
+- **Topics to be covered:**
+  - Common techniques in winning games, like symmetry, greed, strategy-stealing, etc
+  - Sum of games and outcome classes
+  - Game values and their structure
+  - Canonical forms of games
+  - Temperature theory, hot and cold games
+  - Number Avoidance theorems
+
+## Plane Algebraic Curves
+
+This UDGRP will concern curves: the zero sets of polynomials in two variables. We will discuss the intersection of curves: the definitions of intersection and intersection multiplicity. The course will build up to Bezout's theorem, which tells us about the total number of intersections that two curves can have (counting multiplicity). We will then use Bezout to prove a classical theorem (Pascal's theorem) and discuss the relation between the (topological) genus and the degree of a smooth complex projective curve.
+
+- **Primary References:**
+  - [_Gathmann's notes_](https://agag-gathmann.math.rptu.de/class/curves-2023/curves-2023.pdf)
+  - [_Fulton's notes_](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
+- **Group Leaders:**
+  - Andy Guerra (B2)
+- **Topics to be covered:**
+  - Definition of affine plane curves
+  - Intersection, multiplicity and singularities
+  - Projective plane curves
+  - Intersections in projective space
+  - Bezout's theorem
+
+## Point Set Topology
+
+This course on point-set topology will explore the foundational concepts as well as the advanced topics within the subject. Spanning from the basics of topological spaces to the intricate details of metrization and function spaces, the curriculum will cover the first seven chapters of the book. Key topics include open and closed sets, convergence, continuity, and compactness, leading to an in-depth examination of metrization theorems and the properties of various function spaces. By the end of the course, you will gain a solid understanding of the essential principles of topology and their applications, preparing you for further study in mathematical analysis and related fields. Through a combination of theoretical discussions and practical examples, you will get a chance to enhance your problem-solving skills and ability to engage with complex topological concepts.
+
+- **Primary References:**
+  - _Topology_ by James Munkres
+- **Group Leaders:**
+  - Ayan Pal (B2)
+  - Yuvraj Singh Rajpurohit (B2)
+- **Topics to be covered:**
+  - Topological Spaces and Continuous functions
+  - Connectedness and compactness
+  - Countability and separation axioms
+  - The tychonoff theorem
+  - Metrization theorems and paracompactness
+  - Complete metric spaces and function spaces
+
+## Introduction to Set Theory
+
+Set theory is a foundational branch of mathematics that studies collections of objects, known as sets. It provides a formal framework for understanding concepts such as membership, subsets, unions, intersections, and complements. Developed in the late 19th century by Georg Cantor, set theory introduced the idea of infinite sets and cardinality, leading to significant advancements in mathematical logic and the philosophy of mathematics.
+In this UDGRP we will motivate the necessity for an axiomatic approach to set theory by spending time on "Naive" set theory, which was done historically but turned out to be plagued with paradoxes.Then we will move on to the popular axiomatic approach "ZFC" and cover it in an informal manner. We will spend some time on the controversial Axiom of Choice and it's inevitable consequences. We will also look at some cardinal arithmetic, use it to prove some results, and also question existence of certain sets, thus being forced to introduce the concept of "classes".
+
+- **Primary References:**
+  - _Naive Set Theory_ by Paul R. Halmos
+- **Group Leaders:**
+  - Avyaktha Achar (B2)
+  - Naveen Kumar G (B2)
+- **Topics to be covered:**
+  - Some Basic axioms of set theory
+  - Russel's paradox
+  - Peano axioms
+  - Axiom of choice and it's consequences
+  - Zorn's lemma
+  - Well ordering theorem
+  - Transfinite recursion
+  - Ordinal numbers
+  - Ordinal arithmetic
+  - Schröder-Benstein theorem
+  - Cardinal numbers
+  - Cardinal arithmetic
