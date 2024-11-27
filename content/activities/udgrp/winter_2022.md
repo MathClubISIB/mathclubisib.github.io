@@ -109,13 +109,13 @@ The study of Markov Chains is a lively and central part of modern probability th
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions.
 
-- Aditya Garg (B1)
-- Anasmit Pal (B1)
-- Doshi Malav Dhaval (B1)
-- Hrishik Koley (B1)
-- Ruchira Mukherjee (B1)
-- Sankha Subhra Chakraborty (B1)
-- Shriyaa Srivastava (B1)
+- \*Aditya Garg (B1)
+- \*Anasmit Pal (B1)
+- \*Doshi Malav Dhaval (B1)
+- \*Hrishik Koley (B1)
+- \*Ruchira Mukherjee (B1)
+- \*Sankha Subhra Chakraborty (B1)
+- \*Shriyaa Srivastava (B1)
 
 The project is officially completed.
 

@@ -174,8 +174,6 @@ The following people, apart from the group leaders, have completed the reading p
 
 - Sarbartha Sarkar (B1)
 - Aditya Garg (B2)
-- Nikhil Nagaria (B2)
-- Pragalbh Kumar Awasthi (B2)
 
 ## Random Walks, Stochastic Processes, and Brownian Motion
 

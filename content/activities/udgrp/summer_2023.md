@@ -59,7 +59,6 @@ The following people, apart from the group leader, have completed the reading pr
 
 - Dhruba Sarkar (B2)
 - Nikhil Nagaria (B2)
-- Pragalbh Kumar Awasthi (B2)
 - Rinkiny Ghatak (B2)
 
 The project is officially completed.
