@@ -52,7 +52,7 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Md Rahil Miraj (B.Math 2023)
 - Pratichi Paramita (B.Math 2023)
 - Rahul Mazumder (B.Math 2023)
-- Saheb Mahapatra (B.Math 2023)
+- Saheb Mohapatra (B.Math 2023)
 - Sanchayan Bhowal (B.Math 2023)
 - Srigyan Nandi (B.Math 2023)
 - Venkat Trivikram (B.Math 2023)
