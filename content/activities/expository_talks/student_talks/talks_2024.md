@@ -19,7 +19,7 @@ Fall 2024
 - **Speaker:** Anasmit Pal (B.Math, 3rd year)
 - **Abstract:** Differential topology and geometry owe much of their foundational structure to de Rham’s theorem and Poincaré duality. These results bridge the gap between de Rham cohomology and cohomology with compact support and singular cohomology, offering profound insights into the topology of smooth manifolds. In this talk, we will begin by recalling the essentials of differential forms, both in Euclidean spaces and on manifolds, and explore the idea of integration on manifolds. We'll also touch on Stokes' theorem which is a broader generalization of the one we study in multivariable calculus.
 
-  The core of the presentation will delve into different cohomology theories, such as smooth singular cohomology and cohomology with compact support. We will discuss the role of the Mayer-Vietoris sequence in these contexts, laying the groundwork for the main focus: a statement and sketch of the proof of de Rham’s theorem. This will naturally lead into a discussion of Poincaré duality for de Rham cohomology, accompanied by examples and key applications.
+  &nbsp; &nbsp; The core of the presentation will delve into different cohomology theories, such as smooth singular cohomology and cohomology with compact support. We will discuss the role of the Mayer-Vietoris sequence in these contexts, laying the groundwork for the main focus: a statement and sketch of the proof of de Rham’s theorem. This will naturally lead into a discussion of Poincaré duality for de Rham cohomology, accompanied by examples and key applications.
 
 - **Notes:** [TBU]
 - **Video:** [TBU]
@@ -50,9 +50,9 @@ Fall 2024
 - **Speaker:** Pragalbh Kumar Awasthi (B. Math, 3rd year)
 - **Abstract:** The Dunce Hat is the simplest example of a non-collapsible polyhedron which is contractible. However, its product with the unit interval acquires enough room that it becomes collapsible. In 1963, E.C. Zeeman conjectured that the same holds for any contractible polyhedron, and the problem remains open to this date.
 
-&nbsp; &nbsp; Formal 3-deformations of 2-polyhedra correspond to certain operations on the presentations of their fundamental groups. After a survey of results from PL topology and results related to Zeeman's conjecture, we shall start exploring what this correspondence is and prove that the conjecture for a certain type of 2-polyhedrons implies Andrews-Curtis Conjecture with Stabilizations.
+  &nbsp; &nbsp; Formal 3-deformations of 2-polyhedra correspond to certain operations on the presentations of their fundamental groups. After a survey of results from PL topology and results related to Zeeman's conjecture, we shall start exploring what this correspondence is and prove that the conjecture for a certain type of 2-polyhedrons implies Andrews-Curtis Conjecture with Stabilizations.
 
-&nbsp; &nbsp; We shall then look at a few swindle-type arguments and how Mazur swindle can be used to prove Topological Schoenflies Theorem-a generalization of Jordan Curve Theorem. Finally, making use of this, we shall see a proof of the fact that Zeeman's conjecture on collapsibility implies the famous Poincare Conjecture.
+  &nbsp; &nbsp; We shall then look at a few swindle-type arguments and how Mazur swindle can be used to prove Topological Schoenflies Theorem-a generalization of Jordan Curve Theorem. Finally, making use of this, we shall see a proof of the fact that Zeeman's conjecture on collapsibility implies the famous Poincare Conjecture.
 
 - **Pre-requisites:** Basic algebraic topology will be assumed in proofs of some results. However, a sizable portion of the talk will be accessible to people with little background in the subject.
 - **Notes:** [TBU]
@@ -85,12 +85,12 @@ Fall 2024
 - **Speaker:** Anasmit Pal (B. Math, 3rd year)
 - **Abstract:** This talk explores the intricate relationship between discriminants and Galois groups of polynomials over a given field (mainly over \\(\mathbb{Q}\\)). We begin by establishing foundational Galois theoretic concepts and theorems. Then, we delve into diverse methods for computing discriminants, including:
 
-- Vandermonde matrices and Newton's Identities
-- Resultants of Polynomials
-- Norms of finite field extensions
+  - Vandermonde matrices and Newton's Identities
+  - Resultants of Polynomials
+  - Norms of finite field extensions
 
-We will also demonstrate how to compute Galois groups by analyzing cycle types of automorphisms within \\(S_n\\).
-This talk will be a very basic one with the pre-requisite being field theory, and will include lots of interesting examples.
+  &nbsp; &nbsp; We will also demonstrate how to compute Galois groups by analyzing cycle types of automorphisms within \\(S_n\\).
+  This talk will be a very basic one with the pre-requisite being field theory, and will include lots of interesting examples.
 
 - **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/RerQBHI_kQg)
