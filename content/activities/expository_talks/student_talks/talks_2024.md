@@ -6,7 +6,7 @@ summary: "18 Lectures | 5 Spring Lectures | 13 Fall Lectures | 14 Speakers"
 
 {{< katex >}}
 
-## All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
+### All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
 
 {{< lead >}}
 Fall 2024
@@ -48,9 +48,9 @@ Fall 2024
 - **Speaker:** Pragalbh Kumar Awasthi (B. Math, 3rd year)
 - **Abstract:** The Dunce Hat is the simplest example of a non-collapsible polyhedron which is contractible. However, its product with the unit interval acquires enough room that it becomes collapsible. In 1963, E.C. Zeeman conjectured that the same holds for any contractible polyhedron, and the problem remains open to this date.
 
-  Formal 3-deformations of 2-polyhedra correspond to certain operations on the presentations of their fundamental groups. After a survey of results from PL topology and results related to Zeeman's conjecture, we shall start exploring what this correspondence is and prove that the conjecture for a certain type of 2-polyhedrons implies Andrews-Curtis Conjecture with Stabilizations.
+&nbsp; &nbsp; Formal 3-deformations of 2-polyhedra correspond to certain operations on the presentations of their fundamental groups. After a survey of results from PL topology and results related to Zeeman's conjecture, we shall start exploring what this correspondence is and prove that the conjecture for a certain type of 2-polyhedrons implies Andrews-Curtis Conjecture with Stabilizations.
 
-  We shall then look at a few swindle-type arguments and how Mazur swindle can be used to prove Topological Schoenflies Theorem-a generalization of Jordan Curve Theorem. Finally, making use of this, we shall see a proof of the fact that Zeeman's conjecture on collapsibility implies the famous Poincare Conjecture.
+&nbsp; &nbsp; We shall then look at a few swindle-type arguments and how Mazur swindle can be used to prove Topological Schoenflies Theorem-a generalization of Jordan Curve Theorem. Finally, making use of this, we shall see a proof of the fact that Zeeman's conjecture on collapsibility implies the famous Poincare Conjecture.
 
 - **Pre-requisites:** Basic algebraic topology will be assumed in proofs of some results. However, a sizable portion of the talk will be accessible to people with little background in the subject.
 - **Notes:** [TBU]
