@@ -6,7 +6,9 @@ summary: "18 Lectures | 5 Spring Lectures | 13 Fall Lectures | 14 Speakers"
 
 {{< katex >}}
 
-### All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
+All expository talks given by students of ISI Bangalore in the year 2024 at our [Math Club](/) are listed below.
+
+---
 
 {{< lead >}}
 Fall 2024
