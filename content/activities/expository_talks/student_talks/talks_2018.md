@@ -1,17 +1,17 @@
 ---
-title: "Student Talks 2019"
-description: "Expository Talks for the year 2019 at the Students' Math Club at Indian Statistical Institute, Bangalore."
+title: "Student Talks 2018"
+description: "Expository Talks for the year 2018 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "2 Lectures | No Spring Lecture | 2 Fall Lectures | 2 Speakers"
 ---
 
 {{< katex >}}
 
-All expository talks given by students of ISI Bangalore in the year 2019 at our [Math Club](/) are listed below.
+All expository talks given by students of ISI Bangalore in the year 2018 at our [Math Club](/) are listed below.
 
 ---
 
 {{< lead >}}
-Fall 2019
+Fall 2018
 {{< /lead >}}
 
 ## EP1802: Introduction to Hardy Spaces
@@ -36,5 +36,5 @@ Fall 2019
 <!-- ---
 
 {{< lead >}}
-Spring 2019
+Spring 2018
 {{< /lead >}} -->
