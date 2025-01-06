@@ -299,3 +299,5 @@ In this UDGRP we will motivate the necessity for an axiomatic approach to set th
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
 - Shankha Suvra Dam (B2)
+- Treanungkur Mal (B2)
+- Nikhil Nagaria (B3)
