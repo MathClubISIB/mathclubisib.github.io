@@ -121,6 +121,7 @@ The following people, apart from the group leaders, have completed the reading p
 - \* Subhojit Maji (B1)
 - \* Souparna Pal (B1)
 - Kanak Nilesh Sanghvi (B1)
+- Ramdas Singh (B1)
 
 ## Knot Theory
 
