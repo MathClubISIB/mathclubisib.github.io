@@ -122,6 +122,7 @@ The following people, apart from the group leaders, have completed the reading p
 - \* Souparna Pal (B1)
 - Kanak Nilesh Sanghvi (B1)
 - Ramdas Singh (B1)
+- Shankha Suvra Dam (B2)
 
 ## Knot Theory
 
@@ -296,9 +297,9 @@ In this UDGRP we will motivate the necessity for an axiomatic approach to set th
   - Schröder-Benstein theorem
   - Cardinal numbers
   - Cardinal arithmetic
+- **Notes:** Available [here](https://drive.google.com/drive/folders/1Lt2eVff4W3x9t6mMmGO8zSHDV13msQm-)
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
-- Shankha Suvra Dam (B2)
 - Treanungkur Mal (B2)
 - Nikhil Nagaria (B3)
