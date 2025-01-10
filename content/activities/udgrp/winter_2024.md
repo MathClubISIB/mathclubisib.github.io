@@ -32,6 +32,7 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
     - Lattice Path Enumeration
     - Integer Partitions and Symmetric Functions
     - Catalan Numbers, Dyck Paths, and q,t-analogues
+- **Notes and Presentations:** Available [here](https://hrishik-koley.github.io/musings/enumerative_combinatorics/)
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
