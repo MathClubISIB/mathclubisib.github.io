@@ -25,13 +25,11 @@ Combinatorics is a branch of mathematics focused on the study of discrete object
 - **Topics to be covered:**
   - Generating Functions
   - Basic Group Theory
-  - Basics of Combinatorics
-  - As per choice of attendees we can then move on to any of the following topics:
-    - Tilings
-    - Rook Theory
-    - Lattice Path Enumeration
-    - Integer Partitions and Symmetric Functions
-    - Catalan Numbers, Dyck Paths, and q,t-analogues
+  - Cauchy-Davenport and Chevalley Warning
+  - Basics of Polytopes and Hyperplane Arrangements
+  - Brouwer's Fixed Point Theorem
+  - Sperner's Lemma
+  - Fair Division Problem
 - **Notes and Presentations:** Available [here](https://hrishik-koley.github.io/musings/enumerative_combinatorics/)
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
@@ -60,10 +58,10 @@ Geometric group theory is all about looking at groups through the geometric obje
   - Cayley Graphs
   - Group acting on Trees
   - Nielsen-Schreier Theorem
-  - Hyperbolic Plane
   - Ping Pong Lemma
-  - Solvable Groups
-  - Tits Alternative
+  - Quasi-Isometry of Groups
+  - Growth Functions
+- **Notes:** Available [here](https://maltreanungkur.github.io/web/teaching/)
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
