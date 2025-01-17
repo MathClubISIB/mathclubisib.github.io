@@ -118,3 +118,7 @@ All the videos are available in the playlist [here](https://www.youtube.com/play
 - **Video:** Available [here](https://youtu.be/DvCqm8ZyVBg).
 - **Date and Time:** Monday, 8th April 2024, 9:00 PM - 10:00 PM
 - **Venue:** Online (Google Meet)
+
+
+
+**Banner Design Credits:** Ruchira Mukherjee (B.Math, 2025)
