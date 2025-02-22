@@ -37,7 +37,7 @@ The following people, apart from the group leaders, have completed the reading p
 - \* Aayusman Mallick (B1)
 - \* Anuvab De (B1)
 - \* Arkaprovo Das (B1)
-- \* Priyankar Karmakar (B1)
+- \* Priyankar Biswas (B1)
 - \* Subhojit Maji (B1)
 - \* Adrija Chatterjee (B2)
 - \* Daibik Barik (B2)
