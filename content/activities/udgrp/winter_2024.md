@@ -41,6 +41,7 @@ The following people, apart from the group leaders, have completed the reading p
 - \* Subhojit Maji (B1)
 - \* Adrija Chatterjee (B2)
 - \* Daibik Barik (B2)
+- Shankha Suvra Dam (B2)
 
 ## Geometric Group Theory
 
@@ -300,5 +301,5 @@ In this UDGRP we will motivate the necessity for an axiomatic approach to set th
 
 The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
-- Treanungkur Mal (B2)
-- Nikhil Nagaria (B3)
+- \* Treanungkur Mal (B2)
+- \* Nikhil Nagaria (B3)
