@@ -8,6 +8,20 @@ summary: "Members of Math Club"
 
 Since it's advent in 2018 the Math Club has been managed by different students. Below are the members of the Math Club over the years:
 
+## Academic Year 2024-25 (Spring Semester)
+
+- Hrishik Koley (B.Math 2025)
+- Arkapriyo Hore (B.Math 2026)
+- Devansh Dhar Dwivedi (B.Math 2026)
+- Shankha Suvra Dam (B.Math 2026)
+- Aayusman Mallick (B.Math 2027)
+- Anuvab De (B.Math 2027)
+- Arkaprovo Das (B.Math 2027)
+- Priyankar Biswas (B.Math 2027)
+- Sayan Dewan (B.Math 2027)
+- Souparna Pala (B.Math 2027)
+- Subhojit Maji (B.Math 2027)
+
 ## Academic Year 2024-25 (Fall Semester)
 
 - Hrishik Koley (B.Math 2025)
