@@ -19,7 +19,7 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Arkaprovo Das (B.Math 2027)
 - Priyankar Biswas (B.Math 2027)
 - Sayan Dewan (B.Math 2027)
-- Souparna Pala (B.Math 2027)
+- Souparna Pal (B.Math 2027)
 - Subhojit Maji (B.Math 2027)
 
 ## Academic Year 2024-25 (Fall Semester)
