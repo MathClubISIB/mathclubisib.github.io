@@ -4,6 +4,8 @@ description: "'What is ...?' Seminar for Spring 2024 at the Math Club at Indian 
 summary: "12 Student Lectures | 1 Special Student Lecture | 13 Speakers"
 ---
 
+![What Is? Banner](img/WhatIsSeminarBanner_2024.jpeg)
+
 {{< katex >}}
 
 All the videos are available in the playlist [here](https://www.youtube.com/playlist?list=PL0l3kv-aP9d_FSw08irX60ucY-o_qiy-f).
@@ -116,3 +118,7 @@ All the videos are available in the playlist [here](https://www.youtube.com/play
 - **Video:** Available [here](https://youtu.be/DvCqm8ZyVBg).
 - **Date and Time:** Monday, 8th April 2024, 9:00 PM - 10:00 PM
 - **Venue:** Online (Google Meet)
+
+
+
+**Banner Design Credits:** Ruchira Mukherjee (B.Math, 2025)
