@@ -29,7 +29,7 @@ Fall 2024
 - **Speaker:** Malav Dhaval Doshi (B.Math, 3rd year)
 - **Abstract:** This talk is intended to introduce the idea of Bernoulli percolation. Starting of with basic inequalities, we will cover Russo's formula and introduce notion of critical probability, ergodicity, sub and super critical phases. We will prove some results regarding the sub-critical and super-critical phases concluding with Kesten's theorem for \\(\mathbb{Z}^2\\) lattice.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/FD93TglLSK4)
 - **Date and Time:** Saturday, 5th October 2024, 11:00 AM - 12:30 PM
 - **Venue:** G-26 classroom, Academic Building
 
@@ -39,7 +39,7 @@ Fall 2024
 - **Abstract:** The objective of this talk is to investigate the recurrence and transience of random walks, concentrating on essential probabilistic techniques and criteria to distinguish between these behaviours. The talk will examine foundational concepts and their implications for understanding the long-term properties of random walks in various dimensions.
 - **Pre-requisites:** Knowledge of basic probability theory.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/9-B8msNFuk8)
 - **Date and Time:** Wednesday, 2nd October 2024, 9:00 PM - 10:30 PM
 - **Venue:** G-26 classroom, Academic Building
 
@@ -51,7 +51,7 @@ Fall 2024
   &nbsp; &nbsp; We shall then look at a few swindle-type arguments and how Mazur swindle can be used to prove Topological Schoenflies Theorem-a generalization of Jordan Curve Theorem. Finally, making use of this, we shall see a proof of the fact that Zeeman's conjecture on collapsibility implies the famous Poincare Conjecture.
 - **Pre-requisites:** Basic algebraic topology will be assumed in proofs of some results. However, a sizable portion of the talk will be accessible to people with little background in the subject.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/yvMRjEI-DsA)
 - **Date and Time:** Sunday, 28th September 2024, 11:00 AM - 12:30 PM
 - **Venue:** G-26 classroom, Academic Building
 
@@ -61,7 +61,7 @@ Fall 2024
 - **Abstract:** Pontryagin Duality is an analogue of Fourier Transformation for Locally Compact Abelian (LCA) groups, with underlying topological structure. In this talk, we will introduce topological groups and look at some of its properties. In particular, we shall talk about Locally Compact groups and look at a version of Open Mapping Theorem for LCA groups. We will then look at the proof of Pontryagin duality by showing it for compact, discrete, compactly generated and LCA groups. We will end the talk with some applications of Pontryagin duality and a version of Structure Theorem on LCA groups.
 - **Pre-requisites:** Basic knowledge of Topology
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/niZH6UEKZtQ)
 - **Date and Time:** Sunday, 22nd September 2024, 11:00 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -71,7 +71,7 @@ Fall 2024
 - **Abstract:** The distribution of prime numbers, particularly the Prime Number Theorem, has fascinated mathematicians for centuries, with key milestones marked by advances made by notable mathematicians throughout the course of history. In this talk, we will explore Chebyshev’s contributions to the problem, mainly his work that laid the foundation for estimating the density of prime numbers. We will then delve into the elegance and significance of Selberg’s "elementary" proof of the Prime Number Theorem, highlighting how it revolutionized our understanding of the asymptotic behavior of primes. By connecting these pivotal results, we will gain insight into how modern analytic and elementary techniques contribute to unraveling the mysteries of prime number distribution.
 - **Pre-requisites:** Basic knowledge of Number Theory.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/7cHYCtwY3CA)
 - **Date and Time:** Saturday, 21st September 2024, 11:00 AM - 12:30 PM
 - **Venue:** G-26 Classroom, Academic Building
 
@@ -117,7 +117,7 @@ Fall 2024
 - **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
 - **Pre-requisites:** Some knowledge of graph theory, group theory, and basic topology might help, but I would anyways introduce all the needed concepts.
 - **Notes:** Available [here](https://hrishik-koley.github.io/talks_and_notes/Beamer_Presentation.pdf)
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/ETJQ1Fi-xzw)
 - **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
