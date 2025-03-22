@@ -21,7 +21,7 @@ summary: "5 Lectures | 1 Spring Lectures | 4 Fall Lectures | 5 Speakers | 2 in G
 - **Pre-requisites:** Some knowledge of graph theory, group theory, and basic topology might help, but I would anyways introduce all the needed concepts.
 - **Notes:** Available [here](https://hrishik-koley.github.io/talks_and_notes/Beamer_Presentation.pdf)
 - **Video:** [TBU]
-- **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
+- **Date and Time:** Saturday, 24th August 2024, 11:00 AM - 01:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## ST2403: An Elementary Proof of the Prime Number Theorem
@@ -43,7 +43,7 @@ summary: "5 Lectures | 1 Spring Lectures | 4 Fall Lectures | 5 Speakers | 2 in G
   - [_An Introduction to Analytic Number Theory_](https://web.archive.org/https://dl.icdst.org/pdfs/files1/ebc2974176a03ab93756026a97b6d370.pdf) -- Tom M. Apostol
   - [_A Primer of Analytic Number Theory: From Pythagoras to Riemann_](https://web.archive.org/https://dl.icdst.org/pdfs/files1/287ed52c57df09ab91e07060cf7dd40f.pdf) -- Jeffrey Stopple
 - **Video:** Available [here](https://youtu.be/GRr6yUCfCmI).
-- **Date and Time:** Saturday, 7th October 2023, 11:00 AM - 12:30 PM
+- **Date and Time:** Saturday, 7th October 2023, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## ST2003: Quiver Representations and Gabriel's Theorem
