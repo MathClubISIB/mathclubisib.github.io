@@ -1,20 +1,10 @@
 ---
 title: "Special Talks"
 description: "Special Talks at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "Special Talks organized by Math Club at Indian Statistical Institute, Bangalore."
+summary: "5 Lectures | 1 Spring Lectures | 4 Fall Lectures | 5 Speakers | 2 in G-26 | 2 in 2nd Floor Audi"
 ---
 
-## ST2409: Tribone Tilings: Honeycombs to Benzels
-
-- **Speaker:** Hrishik Koley (B. Math, 3rd year)
-- **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
-- **Pre-requisites:** Some knowledge of graph theory, group theory, and basic topology might help, but I would anyways introduce all the needed concepts.
-- **Notes:** Available [here](https://hrishik-koley.github.io/talks_and_notes/Beamer_Presentation.pdf)
-- **Video:** [TBU]
-- **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
-- **Venue:** 2nd Floor Auditorium, Academic Building
-
-## ST2408: A Glimpse into Geometric Group Theory: Folding and the Ping-Pong
+## ST2409: A Glimpse into Geometric Group Theory: Folding and the Ping-Pong
 
 - **Speaker:** Rinkiny Ghatak (B.Math, 3rd year)
 - **Abstract:** Geometric group theory looks at groups through the geometric objects that they act on (graphs, topological spaces, manifolds, etc.), and the geometric properties of those objects help us understand algebraic properties of the group. In the first half of the talk, I will talk about how we can "fold" graphs to study subgroups of free groups, which is otherwise a difficult task with pure algebraic tools. In the second half, we will see the ping-pong lemma, where we identify free groups by seeing if they "play ping-pong" or not. We will see a very nice application in the study of the subgroups of \\(PSL(2,\mathbb{C})\\) by looking at their action on the Riemann sphere.
@@ -23,6 +13,16 @@ summary: "Special Talks organized by Math Club at Indian Statistical Institute, 
 - **Video:** Available [here](https://youtu.be/qnHGvXD1HTo)
 - **Date and Time:** Sunday, 18th August 2024, 11:00 AM - 01:00 PM
 - **Venue:** G-26 Classroom, Academic Building
+
+## ST2408: Tribone Tilings: Honeycombs to Benzels
+
+- **Speaker:** Hrishik Koley (B. Math, 3rd year)
+- **Abstract:** Tilings have been a very interesting field of algebraic combinatorics, since it's dawn, and yet has a plethora of unanswered questions, partly owing to the fact that new shapes and new tiles never cease to arise and being considered. From such wide classes of shapes and tiles, Conway and Lagarias considered and showed that certain roughly triangular regions in the hexagonal grid or honeycombs cannot be tiled by shapes Thurston later dubbed tribones. However, in 2021, Propp introduced a two-parameter family of roughly hexagonal regions in the hexagonal grid called benzels and showed that a tiling by tribones exists under certain constraints on these parameters.
+- **Pre-requisites:** Some knowledge of graph theory, group theory, and basic topology might help, but I would anyways introduce all the needed concepts.
+- **Notes:** Available [here](https://hrishik-koley.github.io/talks_and_notes/Beamer_Presentation.pdf)
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 24th August 2024, 11:30 AM - 01:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## ST2403: An Elementary Proof of the Prime Number Theorem
 
