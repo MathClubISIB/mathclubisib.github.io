@@ -22,7 +22,7 @@ The first week is intended for revision and recapitulation of elementary topics 
 
 ## How to participate
 
-This Summer, the project is only open to B. Math students of ISI Bangalore. We hope to expand it in the next edition.
+For now, the project is only open to B. Math students of ISI Bangalore. We hope to expand it in the next edition.
 
 If you are an ISIBC student presently pursuing B. Math and want to participate, mail us at <mathclub.isibang@gmail.com> with your phone number (preferably whatsapp), topic interested in and full name. We shall get back to you soon. Note that as the groups advance with their reading, it might be harder for you to cope up, so please contact as soon as possible.
 
