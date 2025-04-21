@@ -37,8 +37,10 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Amit Kumar Basistha (B.Math 2025)
 - Gandharv Sawant (B.Math 2025)
 - Hrishik Koley (B.Math 2025)
+- Adrija Chatterjee (B.Math 2026)
 - Arkapriyo Hore (B.Math 2026)
 - Daibik Barik (B.Math 2026)
+- Kangna Chirag Patel (B.Math 2026)
 - Samadrita Bhattacharya (B.Math 2026)
 - Shankha Suvra Dam (B.Math 2026)
 
@@ -50,6 +52,7 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Amit Kumar Basistha (B.Math 2025)
 - Gandharv Sawant (B.Math 2025)
 - Hrishik Koley (B.Math 2025)
+- Sankha Subhra Chakraborty (B.Math 2025)
 
 ## Academic Year 2022-23
 
