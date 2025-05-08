@@ -6,7 +6,7 @@ summary: "5 Project | 8 Weeks | 5 Group | 6  Leader"
 
 {{< katex >}}
 
-This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). The projects start from Saturday, 19<sup>th</sup> May, 2025. The topic being considered this time are presented below.
+This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). The projects start from Monday, 19<sup>th</sup> May, 2025. The topic being considered this time are presented below.
 
 ## An Invitation to High Dimensional Probability
 
