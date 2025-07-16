@@ -6,7 +6,7 @@ summary: "5 Project | 8 Weeks | 5 Group | 6  Leader"
 
 {{< katex >}}
 
-This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). The projects start from Monday, 19<sup>th</sup> May, 2025. The topic being considered this time are presented below.
+This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). It is open for students from all universities in India. For the same reason, we are not keeping a record for the students in each UDGRP this year. The projects start from Monday, 19<sup>th</sup> May, 2025. The topics considered are presented below.
 
 ## An Invitation to High Dimensional Probability
 
@@ -21,7 +21,7 @@ High Dimensional Probability (HDP) is a branch of probability which deals with l
   - _Probability in High dimensions_ -- Joel A. Tropp
 - **Group Leader:**
   - Saraswata Sensarma (M.Math 1st year, ISI Kolkata)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - _Concentration Inequalities:_ Markov and Chebychev inequalities, moment methods, Cramer-Chernoff bounds, Hoeffding and Bernstein inequalities, martingale methods - Azuma-Hoeffding, Efron-Stein and bounded difference inequalities, entropy bounds.
     - _Applications:_ random graphs, random matrices, data science, signal processing, and asymptotic convex geometry.
   - _Supremum:_ Upper bounds to supremum-direct method, covering method, chaining and generic chaining, Dudley's inequality
@@ -42,7 +42,7 @@ This summer reading course introduces the theory of random walks on graphs — a
   - [_Reversible Markov Chains and Random Walks on Graphs_](https://www.stat.berkeley.edu/~aldous/RWG/book.html) -- David J. Aldous and James Allen Fill
 - **Group Leader:**
   - Bikram Halder (M.Math 1st year, ISI Kolkata)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Random Walk Basics: Definitions, transition probabilities, recurrence vs. transience, and examples.
   - Electrical Network Analogy: Using resistance networks to compute random walk properties like hitting times and return probabilities.
   - Applications to Percolation on Trees: How random walks illuminate the structure of infinite trees and critical phenomena in percolation.
@@ -62,14 +62,12 @@ Symmetry is everywhere -- from the shapes of molecules to the roots of equations
 - **Group Leaders:**
   - Anasmit Pal (B.Math 3rd Year, ISI Bangalore)
   - Hrishik Koley (B.Math 3rd Year, ISI Bangalore)
-- **Topics to be Covered:**
+- **Topics Covered:**
   - Basics of Group Theory
   - Representations of Finite Groups
   - Character Theory
   - Induced Representations, Group Algebras, Real Representations
   - Young Diagrams, and Frobenius Character Formula
-  - Symmetric Functions, and Robinson-Schensted-Knuth (RSK) Correspondence
-  - _Other Topics (time permitting)_: Murnaghan-Nakayama Rule — Quasisymmetric Functions — Knuth Equivalence — Littlewood-Richardson Rule
 
 ## Galois Theory
 
