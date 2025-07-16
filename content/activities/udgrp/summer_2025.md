@@ -6,7 +6,11 @@ summary: "5 Project | 8 Weeks | 5 Group | 6  Leader"
 
 {{< katex >}}
 
-This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). It is open for students from all universities in India. For the same reason, we are not keeping a record for the students in each UDGRP this year. The projects start from Monday, 19<sup>th</sup> May, 2025. The topics considered are presented below.
+{{< lead >}} UDGRP Winter 2024 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP.{{< /lead >}}
+
+Due to UDGRP Summer 2025 being attended by students from various universities of India so, we are not keeping track of the people who completed each reading project.
+
+This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). It is open for students from all universities in India. The projects start from Monday, 19<sup>th</sup> May, 2025. The topics being considered this time are presented below.
 
 ## An Invitation to High Dimensional Probability
 
