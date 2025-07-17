@@ -53,26 +53,6 @@ This summer reading course introduces the theory of random walks on graphs — a
   - Counting Spanning Trees: Employing Green’s functions and the matrix-tree theorem to count spanning trees in finite graphs.
   - _Other Topics (time permitting)_: Mixing times — how quickly random walks converge to equilibrium — and heat kernel estimates for diffusion.
 
-## Representation Theory & Symmetric Functions
-
-Symmetry is everywhere -- from the shapes of molecules to the roots of equations. But how do we quantify symmetry mathematically? This question is answered by \textbf{representation theory}, where abstract groups like permutations and rotations are transformed into concrete matrices and combinatorial objects. Vector spaces and matrices, having a lot of structure, are exploited to study groups by using “representations”.
-&nbsp; &nbsp; We will emphasize on studying the representation theory of the symmetric group, where we will prove that its irreducible representations are in bijection with integer partitions and construct them explicitly via Specht modules.
-&nbsp; &nbsp; We will also explore how the representation-theoretic perspective leads naturally to symmetric functions -- which plays a key role in modern combinatorics. We will finally go on to examine combinatorial manifestations through the Robinson-Schensted-Knuth correspondence and Schur functions.
-
-- **References:**
-  - _Representation Theory: A First Course_ -- William Fulton and Joe Harris
-  - _The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions_ -- Bruce E. Sagan
-  - _Linear Representations of Finite Groups_ -- J.P. Serre
-- **Group Leaders:**
-  - Anasmit Pal (B.Math 3rd Year, ISI Bangalore)
-  - Hrishik Koley (B.Math 3rd Year, ISI Bangalore)
-- **Topics Covered:**
-  - Basics of Group Theory
-  - Representations of Finite Groups
-  - Character Theory
-  - Induced Representations, Group Algebras, Real Representations
-  - Young Diagrams, and Frobenius Character Formula
-
 ## Galois Theory
 
 Galois theory as the name suggests was introduced by Galois for studying roots of a polynomial. The main problem was to characterize polynomial equations that are solvable by radicals. The Galois theory which was developed by Galois is quite different from what we study now, it's the works of Emil Artin which will be our main focus. We will need a basic understanding of Group Theory, Rings and Modules, though all these topics that may sound unfamiliar are actually quite intuitive. In fact one can easily get a hold of prerequisites while reading field theory, which is the start of Galois Theory. We definitely look at the Fundamental Theorem of Galois theory, which gives bijection between intermediate field extensions $k \subseteq L \subseteq K$ and subgroups of the Galois group of the field extensions $K$ over $k$, whenever the extension is a finite Galois extension. The Fundamental Theorem of Galois Theory will resolve Galois' dream, we will give a precise characterization of polynomials that are solvable by radicals. Other applications include the most elementary proof of the Fundamental Theorem of Algebra that actually uses algebra. But Galois theory is not just about all these, it has deep connections with other fields of mathematics such as covering spaces. There are also other aspects that one can look at such as Galois theory for infinite algebraic extensions or one can also look at more practical examples coming from Algebraic Geometry where the field extensions are not necessarily algebraic.
