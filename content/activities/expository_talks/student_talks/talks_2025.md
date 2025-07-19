@@ -19,7 +19,7 @@ Spring 2024
 - **Speaker:** Samadrita Bhattacharya (B.Math, 2nd year)
 - **Abstract:** The study of causation becomes essential in statistics when we want to understand the story behind the data, to a degree of depth greater than just correlation. It also explains anomalies in datasets that otherwise make no sense. It has far reaching applications in fields ranging from machine learning to medical research and business analytics. This talk will serve as a small introduction into this vast avenue of research, discussing the fundamental concepts required to venture into it. I will talk about Causal Graphs, a simple diagramatic representation of causal information using directed graphs, and use simple causal graphs to understand complex scenarios.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/oS1dzggf1a4)
 - **Date and Time:** Saturday, 22nd March 2025, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -28,7 +28,7 @@ Spring 2024
 - **Speaker:** Tejas Varma (B.Math, 3rd year)
 - **Abstract:** Hasse's Local-Global Principle is a technique used to determine if Diophantine equations have solutions (in the integers or rational numbers) by studying them over the real numbers and the p-adic fields. This method has proved itself to be particularly helpful in the study of quadratic forms. We will introduce the p-adic fields and demonstrate a few results, such as the Hasse-Minkowski theorem, that make use of the principle. We will also discuss a few applications and tackle some classical problems in Number Theory including Legendre's Three Squares Theorem and Lagrange's Four Squares Theorem. Time permitting, we will spend some time on integral quadratic forms in particular and try to understand the extent to which this principle may be applied.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/XpC50T7ymzM)
 - **Date and Time:** Sunday, 9th February 2025, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -79,6 +79,6 @@ Spring 2024
 - **Speaker:** Devansh Dhar Dwivedi (B.Math, 2nd year)
 - **Abstract:** The graph reconstruction conjecture is a famous problem in the area graph theory, posed by Paul Kelly and Stanislaw Ulam in 1941. It asks whether a graph can be uniquely determined from all of its vertex-deleted subgraphs.This talk would revolve around exploring the families of graphs for which this problem is known to have an affirmative answer.We would talk about the properties of a graph that could produce a given set of vertex deleted subgraphs.The motive of this talk would be to get a well rounded perspective on this problem as well as various problems related to it.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/_X3LnhxO7jE)
 - **Date and Time:** Saturday, 11th January 2025, 11:00 AM - 12:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
