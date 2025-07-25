@@ -16,7 +16,6 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 - Shankha Suvra Dam (B.Math 2026)
 - Aayusman Mallick (B.Math 2027)
 - Anuvab De (B.Math 2027)
-- Arkaprovo Das (B.Math 2027)
 - Priyankar Biswas (B.Math 2027)
 - Sayan Bhadra (B.Math 2027)
 - Sayan Dewan (B.Math 2027)
