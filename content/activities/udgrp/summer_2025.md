@@ -1,14 +1,12 @@
 ---
 title: "UDGRP Summer 2025"
 description: "UDGRP Summer 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "5 Project | 8 Weeks | 5 Group | 6  Leader"
+summary: "4 Projects | 8 Weeks | 4 Groups | 4  Leaders"
 ---
 
 {{< katex >}}
 
 {{< lead >}} UDGRP SUMMER 2025 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP.{{< /lead >}}
-
-Due to UDGRP Summer 2025 being attended by students from various universities of India so, we are not keeping track of the people who completed each reading project.
 
 This is the home page of the UDGRP Summer 2025 co-organised by the [Math Club, ISI Bangalore](/) and [Math Club, ISI Kolkata](https://mathclubisik.github.io/). It is open for students from all universities in India. The projects start from Monday, 19<sup>th</sup> May, 2025. The topics being considered this time are presented below.
 
@@ -26,11 +24,20 @@ High Dimensional Probability (HDP) is a branch of probability which deals with l
 - **Group Leader:**
   - Saraswata Sensarma (M.Math 1st year, ISI Kolkata)
 - **Topics Covered:**
+
   - _Concentration Inequalities:_ Markov and Chebychev inequalities, moment methods, Cramer-Chernoff bounds, Hoeffding and Bernstein inequalities, martingale methods - Azuma-Hoeffding, Efron-Stein and bounded difference inequalities, entropy bounds.
     - _Applications:_ random graphs, random matrices, data science, signal processing, and asymptotic convex geometry.
   - _Supremum:_ Upper bounds to supremum-direct method, covering method, chaining and generic chaining, Dudley's inequality
     - _Applications:_ singular values of random matrices, convex analysis
   - _Universality and Phase transitions:_ Lindeberg exchange method, central limit theorem, Phase transitions will be studied via examples involving random graphs and percolation theory.
+
+  The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+  - \* Saptaswa Baisya (B.Stat 3rd Year, ISI Kolkata)
+  - Hafsa Mohammed Muzammil Shaikh (B.Stat 1st Year, ISI Kolkata)
+  - Sahitya Kumbhakar (B.Stat 1st Year, ISI Kolkata)
+  - Rahul Kumar (B.Math 1st Year, ISI Bangalore)
+  - Swarnav Kalita (B.Math 1st Year, ISI Bangalore)
 
 ## Random Walk on Graphs
 
@@ -47,11 +54,19 @@ This summer reading course introduces the theory of random walks on graphs — a
 - **Group Leader:**
   - Bikram Halder (M.Math 1st year, ISI Kolkata)
 - **Topics Covered:**
+
   - Random Walk Basics: Definitions, transition probabilities, recurrence vs. transience, and examples.
   - Electrical Network Analogy: Using resistance networks to compute random walk properties like hitting times and return probabilities.
   - Applications to Percolation on Trees: How random walks illuminate the structure of infinite trees and critical phenomena in percolation.
   - Counting Spanning Trees: Employing Green’s functions and the matrix-tree theorem to count spanning trees in finite graphs.
   - _Other Topics (time permitting)_: Mixing times — how quickly random walks converge to equilibrium — and heat kernel estimates for diffusion.
+
+  The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+  - \* Somarddha Das (B.Stat 3rd Year, ISI Kolkata)
+  - \* Aritrabha Majumdar (B.Math 2nd Year, ISI Bangalore)
+  - \* Daibik Barik (B.Math 2nd Year, ISI Bangalore)
+  - Subhojit Majhi (B.Math 1st Year, ISI Bangalore)
 
 ## Galois Theory
 
@@ -63,11 +78,18 @@ Galois theory as the name suggests was introduced by Galois for studying roots o
 - **Group Leader:**
   - Soumya Dasgupta (M.Math 1st Year, ISI Kolkata)
 - **Topics Covered:**
+
   - Fundamental theorem of Galois theory
   - Some particular field extensions such as cyclic and cyclotomic
   - Kummer extensions
   - Hilbert theorem 90
   - _Other Topics (time permitting):_ Aspects to Galois theory in topology or non algebraic extensions
+
+  The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+  - \* Arkaprovo Das (B.Math 1st Year, ISI Bangalore)
+  - \* Gauransh Kapur (B.Math 1st Year, ISI Bangalore)
+  - Shounak Kar (B.Stat 1st Year, ISI Kolkata)
 
 ## Analytic Number Theory
 
@@ -81,7 +103,18 @@ The works of Euler, Dirichlet and Riemann revolutionised the study of number the
 - **Group Leader:**
   - Srijeet Bhattacharjee (B.Stat 2nd Year, ISI Kolkata)
 - **Topics Covered:**
+
   - Arithmetical functions, Dirichlet Convolution, average orders.
   - Dirichlet Characters, Gauss Sums, Primes in an arithmetic progression
   - Dirichlet Series, Euler products
   - _Other Topic (time permitting):_ Riemann zeta function — other L-functions — Grand Riemann Hypothesis — Sieve theory and distribution of primes — Probabilistic number theory — Equidistribution problems
+
+  The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
+
+  - Aayush Mohan (B.Math 1st Year, ISI Bangalore)
+  - Anjan Majhi (B.Math 1st Year, ISI Bangalore)
+  - Sayan Bhadra (B.Math 1st Year, ISI Bangalore)
+  - Shankha Suvra Dam (B.Math 2nd Year, ISI Bangalore)
+  - Ravi Painuly (B.Stat 1st Year, ISI Kolkata)
+  - Sayan Kar (B.Stat 1st Year, ISI Kolkata)
+  - Tista Rakshit (B.Sc Mathematics and Computing, IOMA)
