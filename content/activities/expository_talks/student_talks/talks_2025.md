@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2025"
 description: "Expository Talks for the year 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "6 Lectures | 6 Spring Lectures | 0 Fall Lectures | 6 Speakers"
+summary: "10 Lectures | 6 Spring Lectures | 4 Fall Lectures | 10 Speakers"
 ---
 
 {{< katex >}}
@@ -11,7 +11,54 @@ All expository talks given by students of ISI Bangalore in the year 2025 at our 
 ---
 
 {{< lead >}}
-Spring 2024
+Fall 2025
+{{< /lead >}}
+
+## EP2510: Cyclotomy: The Story of How Gauss Narrowly Missed Becoming a Philologist
+
+- **Speaker:** Arkapriyo Hore (B.Math, 3rd year)
+- **Abstract:** Ancient Greek geometers knew that an equilateral triangle, a square, a regular pentagon, and a regular hexagon could be constructed using only a ruler and compass, but in 1796, Carl Friedrich Gauss showed that a regular 17-gon could be constructed with just a compass and straightedge.
+
+  &nbsp; &nbsp;Behind this elegant geometry lies the story of unexpected connections — between algebra and number theory,and, also surprisingly connecting mathematics and philology. In this talk, we’ll explore how the foundations of modern algebra were laid by Gauss’s pursuit of cyclotomic equations.
+
+  &nbsp; &nbsp;There are no prerequisites for the talk other than your enthusiasm to learn mathematics, and unfold a story spanning Greece through Aachen!
+
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 10th August 2025, 11:30 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2509: Sampling Techniques: Learning from a Small Part of the Population
+
+- **Speaker:** Pranav Agarwal (B.Math, 3rd year)
+- **Abstract:** In this talk, I will give an introduction to some basic sampling techniques that are widely used in statistics and surveys. We will start with Simple Random Sampling (SRS) and understand how it works and why it is important. Then we will look at sampling for proportions and percentages, and how we can make good estimates about a population from a small sample. Finally, we will discuss Stratified Sampling and see how dividing the population into groups can improve the accuracy of our results. The talk will include clear examples and simple explanations, but a basic knowledge of expectation, variance, and estimators is required to follow the concepts.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 9th August 2025, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2508: An Introduction to Complex Analysis: The Fundamental Theorem of Algebra
+
+- **Speaker:** Advait Sunder (B.Math, 3rd year)
+- **Abstract:** The Fundamental Theorem of Algebra states that every non-constant complex polynomial has at least one complex root. Though algebraic in name, many elegant proofs rely on tools from analysis. In this talk, we present a complete and self-contained proof using methods from complex analysis—specifically Liouville’s Theorem—requiring only the most minimal background. All necessary results, including key ideas from complex function theory, will be developed from scratch during the talk. The presentation is designed to be accessible to first-year undergraduates with no prior exposure to complex analysis or advanced topology.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 3rd August 2025, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2507: Markov chains: The Common Structure Among Seemingly Different Processes
+
+- **Speaker:** Rahul Kumar (B.Math, 2nd year)
+- **Abstract:** In this talk, I'll introduce you to probability through the beautiful lens of Markov chains - no prior knowledge needed! I'll start with basic probability concepts, then define what makes a process a Markov chain (that special "memoryless" property) and prove some fundamental results together. We'll explore concrete examples like random walks (including the classic gambler's ruin problem) and branching processes (as seen in nuclear chain reactions), developing powerful tools like generating functions along the way. I'll explain why we bother classifying these as Markov chains and what makes them so useful. Finally, I'll leave you with some deep questions to ponder, like whether a stationary distribution always exists. First-year students especially welcome - I promise to keep this accessible and engaging!
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 2nd August 2025, 3:00 PM - 5:00 PM
+- **Venue:** G-26 Classroom, Academic Building
+
+---
+
+{{< lead >}}
+Spring 2025
 {{< /lead >}}
 
 ## EP2506: An Introduction to Causal Inference
