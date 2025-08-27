@@ -17,7 +17,7 @@ Fall 2025
 ## EP2513: Newman’s Proof of Prime Number Theorem
 
 - **Speaker:** Priyankar Biswas (B.Math, 2nd year)
-- **Abstract:** In number theory, we try to study the asymptotic behaviour of different arithmetic functions, for example, \(\sum*{n\leq x}\frac{1}{n}, \sum*{p\leq x}\frac{1}{p}\) (p is prime), number of primes less than equal to x. This often provides more insight into the nature of the function more so than the actual values of the function. In this talk, I will demonstrate the proof of the asymptotic formula for \(\pi(x)\) (Number of primes less than equal to x) by Newman (1980).
+- **Abstract:** In number theory, we try to study the asymptotic behaviour of different arithmetic functions, for example, \\(\sum*{n\leq x}\frac{1}{n}, \sum*{p\leq x}\frac{1}{p}\\) (p is prime), number of primes less than equal to x. This often provides more insight into the nature of the function more so than the actual values of the function. In this talk, I will demonstrate the proof of the asymptotic formula for \\(\pi(x)\\) (Number of primes less than equal to x) by Newman (1980).
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 17th August 2025, 11:00 AM - 1:00 PM
@@ -141,8 +141,8 @@ Spring 2025
 ## EP2502: Riemann Mapping Theorem
 
 - **Speaker:** Bhavesh Pandya (B.Math, 3rd year)
-- **Abstract:** The Riemann Mapping theorem is a beautiful result in complex analysis stating that any simply connected domain \(G\in \mathbb{C}\) is conformally equivalent to open unit disc \(\mathbb{D}\) if and only if G\(\not=\mathbb{C}\).
-  We will define conformal equivalence and fractional linear transformations to give some examples of biholomorphic maps between two domains in \(\mathbb{C}\). Then we will prove the Riemann Mapping Theorem while proving some intermediate results.
+- **Abstract:** The Riemann Mapping theorem is a beautiful result in complex analysis stating that any simply connected domain \\(G\in \mathbb{C}\\) is conformally equivalent to open unit disc \\(\mathbb{D}\\) if and only if G\\(\not=\mathbb{C}\\).
+  We will define conformal equivalence and fractional linear transformations to give some examples of biholomorphic maps between two domains in \\(\mathbb{C}\\). Then we will prove the Riemann Mapping Theorem while proving some intermediate results.
 - **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/aGoWpjks68M)
 - **Date and Time:** Sunday, 19th January 2025, 11:00 AM - 1:00 PM
