@@ -14,6 +14,33 @@ All expository talks given by students of ISI Bangalore in the year 2025 at our 
 Fall 2025
 {{< /lead >}}
 
+## EP2513: Newman’s Proof of Prime Number Theorem
+
+- **Speaker:** Priyankar Biswas (B.Math, 2nd year)
+- **Abstract:** In number theory, we try to study the asymptotic behaviour of different arithmetic functions, for example, \(\sum*{n\leq x}\frac{1}{n}, \sum*{p\leq x}\frac{1}{p}\) (p is prime), number of primes less than equal to x. This often provides more insight into the nature of the function more so than the actual values of the function. In this talk, I will demonstrate the proof of the asymptotic formula for \(\pi(x)\) (Number of primes less than equal to x) by Newman (1980).
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 17th August 2025, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2512: Lebesgue Theory
+
+- **Speaker:** Ramdas Singh (B.Math, 2nd year)
+- **Abstract:** Lebesgue integration extends the idea of area under a curve by measuring values first and domains second, allowing us to handle more general functions than the Riemann integral can. In this talk, I will develop the theory from the ground up, with emphasis on intuition and structure rather than technical detail—first discussing the need for such a theory and the shift it involves, and then defining the Lebesgue measure and showing how it leads to Lebesgue integration. Towards the end, important convergence theorems will be reviewed and a brief overview of L^p spaces will be given. The talk assumes familiarity with sequences, Riemann integration, and normed and inner product spaces; it should be accessible to anyone comfortable with first-year analysis and a bit of linear algebra.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 16th August 2025, 3:00 PM - 5:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2511: An Introduction to Markov Processes - Foundations, Classifications & Applications
+
+- **Speaker:** Akshat Mishra (B.Math, 3rd year)
+- **Abstract:** This expository talk introduces Markov processes, accessible to first-year students—no prior background beyond basic probability is assumed. We shall look at various examples, such as simple random walks—illustrating why a “drunk man is certain to return home, while a bird may not.” We then develop the classification of states—communication, irreducibility, periodicity, recurrence, and transience—and explain why these classifications are important. Several fundamental results will be proved, including the closure of recurrent classes and the recurrence of all states in finite closed classes. We also examine the existence of stationary distributions, reversibility, and the strong Markov property. If time permits, we will explore applications of jump Markov processes, a type of continuous-time Markov process.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Friday, 15th August 2025, 3:00 PM - 5:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
 ## EP2510: Cyclotomy: The Story of How Gauss Narrowly Missed Becoming a Philologist
 
 - **Speaker:** Arkapriyo Hore (B.Math, 3rd year)
