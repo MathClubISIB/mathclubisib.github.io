@@ -7,7 +7,7 @@ This page contains links to articles written by students (mainly undergraduates 
 
 ---
 
-{{< math >}}
+{{< katex >}}
 
 ## Probability and Group Theory: Computing Commuting Probabilities
 
