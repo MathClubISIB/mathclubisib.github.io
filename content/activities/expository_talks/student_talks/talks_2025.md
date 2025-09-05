@@ -35,7 +35,7 @@ Fall 2025
 ## EP2511: An Introduction to Markov Processes - Foundations, Classifications & Applications
 
 - **Speaker:** Akshat Mishra (B.Math, 3rd year)
-- **Abstract:** This expository talk introduces Markov processes, accessible to first-year students—no prior background beyond basic probability is assumed. We shall look at various examples, such as simple random walks—illustrating why a “drunk man is certain to return home, while a bird may not.” We then develop the classification of states—communication, irreducibility, periodicity, recurrence, and transience—and explain why these classifications are important. Several fundamental results will be proved, including the closure of recurrent classes and the recurrence of all states in finite closed classes. We also examine the existence of stationary distributions, reversibility, and the strong Markov property. If time permits, we will explore applications of jump Markov processes, a type of continuous-time Markov process.
+- **Abstract:** This expository talk introduces Markov processes, accessible to first-year students—no prior background beyond basic probability is assumed. We shall look at various examples, such as simple random walks—illustrating why a "drunk man is certain to return home, while a bird may not." We then develop the classification of states—communication, irreducibility, periodicity, recurrence, and transience—and explain why these classifications are important. Several fundamental results will be proved, including the closure of recurrent classes and the recurrence of all states in finite closed classes. We also examine the existence of stationary distributions, reversibility, and the strong Markov property. If time permits, we will explore applications of jump Markov processes, a type of continuous-time Markov process.
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Friday, 15th August 2025, 3:00 PM - 5:00 PM
@@ -109,10 +109,8 @@ Spring 2025
 ## EP2504: Mathematics Beyond Precision: Navigating the World of (Fuzzy) Uncertainty
 
 - **Speaker:** Daibik Barik (B.Math, 2nd year)
-- **Abstract:** Fuzzy Set Theory, developed by Lotfi A. Zadeh in 1965, generalizes classical set theory by incorporating graded membership, where elements are members of a set with degrees in the unit interval [0,1] instead of binary membership. This generalization offers a formalism for dealing with vagueness and uncertainty.
-
-  &nbsp; &nbsp; In this lecture, we define fuzzy sets and their basic operations, such as union, intersection, and complement, with corresponding algebraic properties. We discuss fuzzy relations, their composition, and important properties. The discussion is extended to fuzzy logic, where we discuss fuzzy implication, and their use in decision-making.
-
+- **Abstract:** Fuzzy Set Theory, developed by Lotfi A. Zadeh in 1965, generalizes classical set theory by incorporating graded membership, where elements are members of a set with degrees in the unit interval [0,1] instead of binary membership. This generalization offers a formalism for dealing with vagueness and uncertainty.  
+  &nbsp; &nbsp; In this lecture, we define fuzzy sets and their basic operations, such as union, intersection, and complement, with corresponding algebraic properties. We discuss fuzzy relations, their composition, and important properties. The discussion is extended to fuzzy logic, where we discuss fuzzy implication, and their use in decision-making.  
   &nbsp; &nbsp; We also briefly discuss fuzzy graphs and fuzzy topology, emphasizing their use in combinatorial optimization and topological structures. Throughout the lecture, we introduce important theorems, along with example illustrations emphasizing their importance. The session ends with open research problems, especially in the intersection of fuzzy structures with graph theory and topology, challenging further research in this rich mathematical discipline.
 
 - **Notes:** [TBU]
@@ -141,7 +139,7 @@ Spring 2025
 ## EP2502: Riemann Mapping Theorem
 
 - **Speaker:** Bhavesh Pandya (B.Math, 3rd year)
-- **Abstract:** The Riemann Mapping theorem is a beautiful result in complex analysis stating that any simply connected domain \\(G\in \mathbb{C}\\) is conformally equivalent to open unit disc \\(\mathbb{D}\\) if and only if G\\(\not=\mathbb{C}\\).
+- **Abstract:** The Riemann Mapping theorem is a beautiful result in complex analysis stating that any simply connected domain \\(G\in \mathbb{C}\\) is conformally equivalent to open unit disc \\(\mathbb{D}\\) if and only if \\(G\not=\mathbb{C}\\).
   We will define conformal equivalence and fractional linear transformations to give some examples of biholomorphic maps between two domains in \\(\mathbb{C}\\). Then we will prove the Riemann Mapping Theorem while proving some intermediate results.
 - **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/aGoWpjks68M)
