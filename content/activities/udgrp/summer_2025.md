@@ -1,7 +1,7 @@
 ---
 title: "UDGRP Summer 2025"
 description: "UDGRP Summer 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "4 Projects | 8 Weeks | 4 Groups | 4  Leaders"
+summary: "4 Projects | 8 Weeks | 4 Groups | 4  Leaders | 19 Participants"
 ---
 
 {{< katex >}}
