@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2025"
 description: "Expository Talks for the year 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "10 Lectures | 6 Spring Lectures | 4 Fall Lectures | 10 Speakers"
+summary: "15 Lectures | 6 Spring Lectures | 9 Fall Lectures | 15 Speakers"
 ---
 
 {{< katex >}}
@@ -13,6 +13,30 @@ All expository talks given by students of ISI Bangalore in the year 2025 at our 
 {{< lead >}}
 Fall 2025
 {{< /lead >}}
+
+## EP2515: Fractional Dimension of the Cantor Set
+
+- **Speaker:** Sarbartha Sarkar (B.Math, 3rd year)
+- **Abstract:** How can we measure a set of points that is somehow more than nothing but less than a line? The famous Cantor Set challenges our basic ideas of length and dimension.
+
+  &nbsp; &nbsp;This talk will start from the very beginning. We will first explore why our usual concept of "length", not only length but also "area" and "volume" fails for such similar type of complex sets and then motivate the need for a more powerful tool: measure theory.
+
+  &nbsp; &nbsp;From there, we will build up the definition of the Hausdorff dimension, a concept that allows us to precisely quantify the "roughness" of shapes. Finally, we will apply this new tool to prove a beautiful and classic result: the dimension of the Cantor Set is exactly log(2)/log(3).
+
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 20th September 2025, 9:00 PM - 10:30 PM
+- **Venue:** G-26 Classroom, Academic Building
+
+## EP2514: Filters
+
+- **Speaker:** Siddharto Das (B.Math, 2nd year)
+- **Abstract:** Filters are a powerful way to generalise the concept of limits to general topological spaces. In this talk, I shall develop the theory of filters and demonstrate, in part, how much of general topology can be restated in terms of filters and limits, for example, the notion of a topology, and continuity.
+- **Prerequisites:** Familiarity with order on a set.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Sunday, 31st August 2025, 11:30 AM - 1:00 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2513: Newman’s Proof of Prime Number Theorem
 
