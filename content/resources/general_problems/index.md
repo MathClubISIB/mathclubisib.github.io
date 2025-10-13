@@ -71,16 +71,16 @@ But no quasi-perfect numbers have been found so far... want to try and show some
 > Prove the following identity (or still better find more such identities!):
 >
 > $$
-> \begin{align*}
->   & y_1x_1+y_2x_3-1 \\\\
->   & = \\\\
->   & (x_1x_4-x_2x_3)(y_1y_4(x_1y_1+x_2y_3-1)-y_1y_3(x_1y_2+x_2y_4) \\\\
->   & + y_2y_4(x_3y_1+x_4y_3)-y_2y_3(x_3y_2+x_4y_4-1)) \\\\
->   & - (x_1y_1+x_3y_2-1)(x_1y_1+x_2y_3-1+x_3y_2+x_4y_4 \\\\
->   & - 1+(x_1y_1+x_2y_3-1)(x_3y_2+x_4y_4-1) \\\\
->   & - (x_1y_2+x_2y_4)(x_3y_1+x_4y_3))
-> \end{align*}
-> $$
+\begin{align*}
+  & y_1x_1+y_2x_3-1 \\
+  & = \\
+  & (x_1x_4-x_2x_3)(y_1y_4(x_1y_1+x_2y_3-1)-y_1y_3(x_1y_2+x_2y_4) \\
+  & + y_2y_4(x_3y_1+x_4y_3)-y_2y_3(x_3y_2+x_4y_4-1)) \\
+  & - (x_1y_1+x_3y_2-1)(x_1y_1+x_2y_3-1+x_3y_2+x_4y_4 \\
+  & - 1+(x_1y_1+x_2y_3-1)(x_3y_2+x_4y_4-1) \\
+  & - (x_1y_2+x_2y_4)(x_3y_1+x_4y_3))
+\end{align*}
+$$
 
 (Thanks to [Prof. B. Sury](https://www.isibang.ac.in/~sury/) for sharing this problem.)
 

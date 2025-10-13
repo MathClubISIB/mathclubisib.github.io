@@ -13,8 +13,9 @@ dateFormat = "2 January 2006"
 description = "This is the (new!) official website of the Students' Math Club at Indian Statistical Institute, Bangalore."
 copyright = "&copy; [Math Club](/), [ISI Bangalore](https://www.isibang.ac.in/~statmath/)"
 
-[author]
+[params.author]
 name = "Math Club, ISI Bangalore"
+email = "mathclub.isibang@gmail.com"
 # image = "img/blowfish_logo.png"
 headline = "Updates on mathematical activities at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/~statmath/)"
 bio = "Updates on mathematical activities at ISI Bangalore"
