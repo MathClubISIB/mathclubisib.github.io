@@ -68,7 +68,6 @@ Fall 2025
 - **Abstract:** Ancient Greek geometers knew that an equilateral triangle, a square, a regular pentagon, and a regular hexagon could be constructed using only a ruler and compass, but in 1796, Carl Friedrich Gauss showed that a regular \\(17\\)-gon could be constructed with just a compass and straightedge.  
   &nbsp; &nbsp;Behind this elegant geometry lies the story of unexpected connections — between algebra and number theory,and, also surprisingly connecting mathematics and philology. In this talk, we’ll explore how the foundations of modern algebra were laid by Gauss’s pursuit of cyclotomic equations.  
   &nbsp; &nbsp;There are no prerequisites for the talk other than your enthusiasm to learn mathematics, and unfold a story spanning Greece through Aachen!
-
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Sunday, 10th August 2025, 11:30 AM - 1:00 PM
@@ -131,7 +130,6 @@ Spring 2025
 - **Abstract:** Fuzzy Set Theory, developed by Lotfi A. Zadeh in 1965, generalizes classical set theory by incorporating graded membership, where elements are members of a set with degrees in the unit interval \\([0,1]\\) instead of binary membership. This generalization offers a formalism for dealing with vagueness and uncertainty.  
   &nbsp; &nbsp; In this lecture, we define fuzzy sets and their basic operations, such as union, intersection, and complement, with corresponding algebraic properties. We discuss fuzzy relations, their composition, and important properties. The discussion is extended to fuzzy logic, where we discuss fuzzy implication, and their use in decision-making.  
   &nbsp; &nbsp; We also briefly discuss fuzzy graphs and fuzzy topology, emphasizing their use in combinatorial optimization and topological structures. Throughout the lecture, we introduce important theorems, along with example illustrations emphasizing their importance. The session ends with open research problems, especially in the intersection of fuzzy structures with graph theory and topology, challenging further research in this rich mathematical discipline.
-
 - **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/37tKJgsad4c)
 - **Date and Time:** Saturday, 8th February 2025, 11:00 AM - 1:00 PM
@@ -145,7 +143,6 @@ Spring 2025
   &nbsp; &nbsp; Then we will move on to the popular axiomatic approach called Zermelo–Fraenkel set theory, and discuss the main axioms of this system with motivation, and study many important notions, including algebra of sets, functions, relations etc.  
   &nbsp; &nbsp; We will briefly go over the set theoretic construction of natural numbers, integers, rationals, reals and complex numbers, which demonstrate how mathematics can be "embedded" into set theory.  
   &nbsp; &nbsp; Amongst the axioms, we will particularly spend some time on the deeper axioms such as the Axiom of Choice (and some of its equivalent versions like Zorn's Lemma and Well-Ordering principle), as well as on the Axiom of Replacement, which will allow us to construct Cardinal numbers and Ordinal numbers formally, and do arithmetic on them.
-
 - **Notes:** [TBU]
 - **Video:** Available [here](https://youtu.be/dGZ1iQCrcOA)
 - **Date and Time:** Saturday, 1st February 2025, 11:00 AM - 1:00 PM
