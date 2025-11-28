@@ -1,7 +1,7 @@
 ---
 title: "Student Talks 2025"
 description: "Expository Talks for the year 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
-summary: "15 Lectures | 6 Spring Lectures | 9 Fall Lectures | 15 Speakers"
+summary: "18 Lectures | 6 Spring Lectures | 12 Fall Lectures | 18 Speakers"
 ---
 
 {{< katex >}}
@@ -13,6 +13,34 @@ All expository talks given by students of ISI Bangalore in the year 2025 at our 
 {{< lead >}}
 Fall 2025
 {{< /lead >}}
+
+## EP2518: Iterated Function Systems in Approximating Fractal Dimensions
+
+- **Speaker:** Adrija Chatterjee (B. Math, 2026)
+- **Abstract:** Fractals are mathematical structures exhibiting self-similarity and complexity at every scale, often described by non-integer, or fractal, dimensions. This talk explores Iterated Function Systems (IFS) as a framework for constructing and analyzing such fractal sets. Beginning with the notions of contractions and the Iterated Function Theorem, we examine classical examples — the Cantor set, Sierpiński carpet, and Sierpiński gasket — as attractors of simple IFS. The discussion then introduces methods for quantifying fractal complexity using box (Minkowski) and Hausdorff dimensions, and highlights the equivalence of these dimensions under the Open Set Condition. We extend these ideas to general contractions and self-affine sets, where anisotropic scaling leads to intriguing discontinuities and dimension gaps. The presentation concludes with examples illustrating how IFS serve as a unifying tool for approximating and understanding fractal dimensions in both theoretical and computational contexts.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Monday, 27th October 2025, 5:30 PM - 7:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2517: An Introduction to Expander and Ramanujan Graphs
+
+- **Speaker:** Shankha Suvra Dam (B. Math, 2026)
+- **Abstract:** How can a network be both sparse, with few connections, and yet highly connected? This talk is about expander graphs, which are structures that manage this trade-off surprisingly well. Indeed, this structural property is the source of their utility across diverse areas of theoretical computer science and pure mathematics, forming a bridge between combinatorics, group theory, and number theory. We will proceed by defining these graphs rigorously and surveying their key properties and applications, assuming minimal knowledge of graph theory and eigenvalues.
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Monday, 20th October 2025, 11:00 AM - 1:00 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2516: Insolvability of a Quintic
+
+- **Speaker:** Arkaprovo Das (B. Math, 2027)
+- **Abstract:** The general quintic equation cannot be solved by radicals, a result that marks a fundamental boundary in algebra. In this talk, I shall outline the ideas leading to the proof of this insolvability, highlighting the key algebraic insights that distinguish the quintic from solvable lower-degree equations.
+- **Prerequisites:** Linear Algebra and Group Theory
+- **Notes:** [TBU]
+- **Video:** [TBU]
+- **Date and Time:** Saturday, 5th October 2025, 2:00 PM - 4:00 PM
+- **Venue:** G-26 Classroom, Academic Building
 
 ## EP2515: Fractional Dimension of the Cantor Set
 
