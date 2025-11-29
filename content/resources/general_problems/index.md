@@ -1,6 +1,7 @@
 ---
 title: "General Problems"
 description: "General Problems suggested by the Students, Research Scholars and Professors at Indian Statistical Institute, Bangalore."
+summary: "A collection of interesting general problems in mathematics."
 ---
 
 {{< katex >}}

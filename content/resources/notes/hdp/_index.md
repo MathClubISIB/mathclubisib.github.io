@@ -1,6 +1,7 @@
 ---
 title: "HDP UDGRP Summer 2025"
 description: "Notes for HDP UDGRP Summer 2025"
+summary: "Lecture notes and problem sets for HDP by Saraswata Sensarma at UDGRP Summer 2025"
 ---
 
 ## Lecture Notes

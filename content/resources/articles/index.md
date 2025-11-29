@@ -1,6 +1,7 @@
 ---
 title: "Articles"
 description: "articles written by students (mainly undergraduate and graduate) of ISI Bangalore"
+summary: "Articles written by students (mainly undergraduates and masters students) of ISI Bangalore."
 ---
 
 This page contains links to articles written by students (mainly undergraduates and masters students) of ISI Bangalore.

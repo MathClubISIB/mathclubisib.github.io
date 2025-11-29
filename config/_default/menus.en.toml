@@ -67,6 +67,12 @@ pageRef = "resources"
 weight = 20
 
 [[main]]
+name = "Notes and Other Materials"
+parent = "Resources"
+pageRef = "resources/notes"
+weight = 20
+
+[[main]]
 name = "Additional References"
 parent = "Resources"
 pageRef = "resources/additional_resources"
