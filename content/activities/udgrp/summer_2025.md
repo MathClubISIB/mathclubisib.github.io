@@ -23,7 +23,7 @@ High Dimensional Probability (HDP) is a branch of probability which deals with l
   - _Probability in High dimensions_ -- Joel A. Tropp
 - **Group Leader:**
   - Saraswata Sensarma (M.Math 1st year, ISI Kolkata)
-- **Notes & Problem Sets:** Available [here](/resources/_hdp/).
+- **Notes & Problem Sets:** Available [here](/resources/notes/hdp/).
 - **Topics Covered:**
 
   - _Concentration Inequalities:_ Markov and Chebychev inequalities, moment methods, Cramer-Chernoff bounds, Hoeffding and Bernstein inequalities, martingale methods - Azuma-Hoeffding, Efron-Stein and bounded difference inequalities, entropy bounds.
