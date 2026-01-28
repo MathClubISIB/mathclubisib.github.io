@@ -7,10 +7,10 @@ summary: "6 Projects | 5 Weeks | 6 Groups | 8 Leaders | 15 Participants"
 {{< katex >}}
 
 {{< lead >}}
-UDGRP Winter 2024 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
+UDGRP Winter 2025 HAS BEEN OFFICIALLY CONCLUDED. FIND BELOW THE TOPICS COVERED IN EACH GROUP AND LIST OF PEOPLE WHO COMPLETED THE PROJECT.
 {{< /lead >}}
 
-This is the home page of the UDGRP Winter 2024 organised by the [Math Club](/). The projects start from Monday, 24<sup>th</sup> November, 2025. The topics being considered this time are presented below.
+This is the home page of the UDGRP Winter 2025 organised by the [Math Club](/). The projects start from Monday, 24<sup>th</sup> November, 2025. The topics being considered this time are presented below.
 
 ## Introduction to Probabilistic Methods
 
