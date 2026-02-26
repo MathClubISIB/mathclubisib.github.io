@@ -19,7 +19,7 @@ Fall 2025
 - **Speaker:** Adrija Chatterjee (B. Math, 2026)
 - **Abstract:** Fractals are mathematical structures exhibiting self-similarity and complexity at every scale, often described by non-integer, or fractal, dimensions. This talk explores Iterated Function Systems (IFS) as a framework for constructing and analyzing such fractal sets. Beginning with the notions of contractions and the Iterated Function Theorem, we examine classical examples — the Cantor set, Sierpiński carpet, and Sierpiński gasket — as attractors of simple IFS. The discussion then introduces methods for quantifying fractal complexity using box (Minkowski) and Hausdorff dimensions, and highlights the equivalence of these dimensions under the Open Set Condition. We extend these ideas to general contractions and self-affine sets, where anisotropic scaling leads to intriguing discontinuities and dimension gaps. The presentation concludes with examples illustrating how IFS serve as a unifying tool for approximating and understanding fractal dimensions in both theoretical and computational contexts.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/7SOIu3p6NDo)
 - **Date and Time:** Monday, 27th October 2025, 5:30 PM - 7:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -28,7 +28,7 @@ Fall 2025
 - **Speaker:** Shankha Suvra Dam (B. Math, 2026)
 - **Abstract:** How can a network be both sparse, with few connections, and yet highly connected? This talk is about expander graphs, which are structures that manage this trade-off surprisingly well. Indeed, this structural property is the source of their utility across diverse areas of theoretical computer science and pure mathematics, forming a bridge between combinatorics, group theory, and number theory. We will proceed by defining these graphs rigorously and surveying their key properties and applications, assuming minimal knowledge of graph theory and eigenvalues.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/jyDrzOfYRSI)
 - **Date and Time:** Monday, 20th October 2025, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -38,7 +38,7 @@ Fall 2025
 - **Abstract:** The general quintic equation cannot be solved by radicals, a result that marks a fundamental boundary in algebra. In this talk, I shall outline the ideas leading to the proof of this insolvability, highlighting the key algebraic insights that distinguish the quintic from solvable lower-degree equations.
 - **Prerequisites:** Linear Algebra and Group Theory
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/fvzI-xtJ5t4)
 - **Date and Time:** Saturday, 5th October 2025, 2:00 PM - 4:00 PM
 - **Venue:** G-26 Classroom, Academic Building
 
@@ -59,7 +59,7 @@ Fall 2025
 - **Abstract:** Filters are a powerful way to generalise the concept of limits to general topological spaces. In this talk, I shall develop the theory of filters and demonstrate, in part, how much of general topology can be restated in terms of filters and limits, for example, the notion of a topology, and continuity.
 - **Prerequisites:** Familiarity with order on a set.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/9kMlShZ_Dzs)
 - **Date and Time:** Sunday, 31st August 2025, 11:30 AM - 1:00 PM
 - **Venue:** G-26 Classroom, Academic Building
 
@@ -68,7 +68,7 @@ Fall 2025
 - **Speaker:** Priyankar Biswas (B. Math, 2027)
 - **Abstract:** In number theory, we try to study the asymptotic behaviour of different arithmetic functions, for example, \\(\sum\_{n\leq x}\frac{1}{n}, \sum\_{p\leq x}\frac{1}{p}\\) (p is prime), number of primes less than equal to \\(x\\). This often provides more insight into the nature of the function more so than the actual values of the function. In this talk, I will demonstrate the proof of the asymptotic formula for \\(\pi(x)\\) (Number of primes less than equal to \\(x\\)) by Newman (1980).
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/n98CLcm5RaQ)
 - **Date and Time:** Sunday, 17th August 2025, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -86,7 +86,7 @@ Fall 2025
 - **Speaker:** Akshat Mishra (B. Math, 2026)
 - **Abstract:** This expository talk introduces Markov processes, accessible to first-year students—no prior background beyond basic probability is assumed. We shall look at various examples, such as simple random walks—illustrating why a "drunk man is certain to return home, while a bird may not." We then develop the classification of states—communication, irreducibility, periodicity, recurrence, and transience—and explain why these classifications are important. Several fundamental results will be proved, including the closure of recurrent classes and the recurrence of all states in finite closed classes. We also examine the existence of stationary distributions, reversibility, and the strong Markov property. If time permits, we will explore applications of jump Markov processes, a type of continuous-time Markov process.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/ziFcEII2kVY)
 - **Date and Time:** Friday, 15th August 2025, 3:00 PM - 5:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -97,7 +97,7 @@ Fall 2025
   &nbsp; &nbsp;Behind this elegant geometry lies the story of unexpected connections — between algebra and number theory,and, also surprisingly connecting mathematics and philology. In this talk, we’ll explore how the foundations of modern algebra were laid by Gauss’s pursuit of cyclotomic equations.  
   &nbsp; &nbsp;There are no prerequisites for the talk other than your enthusiasm to learn mathematics, and unfold a story spanning Greece through Aachen!
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/Pld9ezLKRUs)
 - **Date and Time:** Sunday, 10th August 2025, 11:30 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -115,7 +115,7 @@ Fall 2025
 - **Speaker:** Advait Sunder (B. Math, 2026)
 - **Abstract:** The Fundamental Theorem of Algebra states that every non-constant complex polynomial has at least one complex root. Though algebraic in name, many elegant proofs rely on tools from analysis. In this talk, we present a complete and self-contained proof using methods from complex analysis—specifically Liouville’s Theorem—requiring only the most minimal background. All necessary results, including key ideas from complex function theory, will be developed from scratch during the talk. The presentation is designed to be accessible to first-year undergraduates with no prior exposure to complex analysis or advanced topology.
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/slAETlpa4Gk)
 - **Date and Time:** Sunday, 3rd August 2025, 11:00 AM - 1:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
@@ -124,7 +124,7 @@ Fall 2025
 - **Speaker:** Rahul Kumar (B. Math, 2027)
 - **Abstract:** In this talk, I'll introduce you to probability through the beautiful lens of Markov chains - no prior knowledge needed! I'll start with basic probability concepts, then define what makes a process a Markov chain (that special "memoryless" property) and prove some fundamental results together. We'll explore concrete examples like random walks (including the classic gambler's ruin problem) and branching processes (as seen in nuclear chain reactions), developing powerful tools like generating functions along the way. I'll explain why we bother classifying these as Markov chains and what makes them so useful. Finally, I'll leave you with some deep questions to ponder, like whether a stationary distribution always exists. First-year students especially welcome - I promise to keep this accessible and engaging!
 - **Notes:** [TBU]
-- **Video:** [TBU]
+- **Video:** Available [here](https://youtu.be/YSAs6rO03uw)
 - **Date and Time:** Saturday, 2nd August 2025, 3:00 PM - 5:00 PM
 - **Venue:** G-26 Classroom, Academic Building
 
