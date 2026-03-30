@@ -11,9 +11,7 @@ Since it's advent in 2018 the Math Club has been managed by different students. 
 ## Academic Year 2025-26 (Spring Semester)
 
 - Anuvab De (B.Math 2027)
-- Arkaprovo Das (B.Math 2027)
 - Priyankar Biswas (B.Math 2027)
-- Ramdas Singh (B.Math 2027)
 - Sayan Bhadra (B.Math 2027)
 - Sayan Dewan (B.Math 2027)
 - Siddharto Das (B.Math 2027)
