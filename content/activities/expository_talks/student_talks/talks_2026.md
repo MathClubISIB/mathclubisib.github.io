@@ -16,9 +16,9 @@ Spring 2026
 
 ## EP2603: Cutting a Cake in \\(n^{n^{n^{n^{n^n}}}}\\) Steps
 
-- **Speaker:** Shankha Suvra Dam (B. Math, 2027)
+- **Speaker:** Shankha Suvra Dam (B. Math, 2026)
 - **Abstract:** How hard can it be to cut a cake fairly? If you've ever had to split a cake with various toppings, you know the struggle: everyone wants a different piece! How can you ensure the distribution is fair? And mathematically speaking, how do you even go about defining what "fair" looks like in this context?  
-  &nbsp; &nbsp;That is exactly what we will discuss in this talk. We will start by defining the rigorous notions surrounding fairness and then review the foundational body of work in this field. All of this will culminate in the monumental 2016 result by H. Aziz and S. Mackenzie, which finally provided an upper bound (admittedly, a completely ridiculous one) for the number of steps required to guarantee a fair division of a cake among n agents.
+  &nbsp; &nbsp;That is exactly what we will discuss in this talk. We will start by defining the rigorous notions surrounding fairness and then review the foundational body of work in this field. All of this will culminate in the monumental 2016 result by H. Aziz and S. Mackenzie, which finally provided an upper bound (admittedly, a completely ridiculous one) for the number of steps required to guarantee a fair division of a cake among \\(n\\) agents.
 - **Notes:** [TBU]
 - **Video:** [TBU]
 - **Date and Time:** Saturday, 14th March 2026, 4:30 - 6:00 PM
