@@ -3,9 +3,9 @@ title: "Welcome to Math Club, ISI Bangalore"
 description: "Updates on mathematical activities at Indian Statistical Institute, Bangalore"
 ---
 
-> There is no royal road to mathematics.
+> There is no royal road to geometry.
 >
-> --- Euclid, to Alexander the Great
+> --- Euclid, to Ptolemy I
 
 Welcome to the Math Club at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/~statmath/), your hub for ongoing activities and a rich collection of problems and resources to enrich your mathematical journey.
 

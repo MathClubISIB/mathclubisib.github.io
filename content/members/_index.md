@@ -8,6 +8,19 @@ summary: "Members of Math Club"
 
 Since it's advent in 2018 the Math Club has been managed by different students. Below are the members of the Math Club over the years:
 
+## Academic Year 2026-27 (Fall Semester)
+
+- Anurag Bhunia (B.Math 2028)
+- Arkaraj Mukherjee (B.Math 2028)
+- Aritra Chakrabarty (B.Math 2028)
+- Ayush Mandal (B.Math 2028)
+- Kartikeya Sharma (B.Math 2028)
+- Kinshuk Banik (B.Math 2028)
+- Sayan Bhadra (B.Math 2027)
+- Siddharto Das (B.Math 2027)
+- Souparna Pal (B.Math 2027)
+- Subhojit Maji (B.Math 2027)
+
 ## Academic Year 2025-26 (Spring Semester)
 
 - Anuvab De (B.Math 2027)

@@ -113,6 +113,12 @@ pageRef = "seminars/what_is"
 weight = 20
 
 [[main]]
+name = "Category Theory"
+parent = "Seminars"
+pageRef = "seminars/cat_theory"
+weight = 25
+
+[[main]]
 name = "Foundational Courses"
 parent = "Activities"
 pageRef = "activities/foundational_courses"
