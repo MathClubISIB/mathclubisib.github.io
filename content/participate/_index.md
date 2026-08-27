@@ -1,6 +1,7 @@
 ---
 title: "Participate"
 description: "Actively participate in the activities of Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Find ways to present talks, share mathematics, submit problems, and contribute to the Math Club."
 
 cascade:
   showDate: false

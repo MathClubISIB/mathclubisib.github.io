@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2023"
+date: 2023-12-26
 description: "Expository Talks for the year 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "14 Lectures | 2 Spring Lectures | 12 Fall Lectures | 12 Speakers"
 ---

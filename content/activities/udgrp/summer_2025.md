@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Summer 2025"
+date: 2025-05-01
+weight: -8
 description: "UDGRP Summer 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "4 Projects | 8 Weeks | 4 Groups | 4  Leaders | 19 Participants"
 ---
@@ -22,7 +24,7 @@ High Dimensional Probability (HDP) is a branch of probability which deals with l
   - _Modern Discrete Probability_ -- Sebastian Roch
   - _Probability in High dimensions_ -- Joel A. Tropp
 - **Group Leader:**
-  - Saraswata Sensarma (M.Math 1st year, ISI Kolkata)
+  - Saraswata Sensarma (M. Math 1st year, ISI Kolkata)
 - **Notes & Problem Sets:** Available [here](/resources/notes/hdp/).
 - **Topics Covered:**
 
@@ -37,8 +39,8 @@ High Dimensional Probability (HDP) is a branch of probability which deals with l
   - \* Saptaswa Baisya (B.Stat 3rd Year, ISI Kolkata)
   - Hafsa Mohammed Muzammil Shaikh (B.Stat 1st Year, ISI Kolkata)
   - Sahitya Kumbhakar (B.Stat 1st Year, ISI Kolkata)
-  - Rahul Kumar (B.Math 1st Year, ISI Bangalore)
-  - Swarnav Kalita (B.Math 1st Year, ISI Bangalore)
+  - Rahul Kumar (B. Math 1st Year, ISI Bangalore)
+  - Swarnav Kalita (B. Math 1st Year, ISI Bangalore)
 
 ## Random Walk on Graphs
 
@@ -53,7 +55,7 @@ This summer reading course introduces the theory of random walks on graphs — a
   - _Markov Chains and Mixing Times_ -- David A. Levin, Yuval Peres and Elizabeth L. Wilmer
   - [_Reversible Markov Chains and Random Walks on Graphs_](https://www.stat.berkeley.edu/~aldous/RWG/book.html) -- David J. Aldous and James Allen Fill
 - **Group Leader:**
-  - Bikram Halder (M.Math 1st year, ISI Kolkata)
+  - Bikram Halder (M. Math 1st year, ISI Kolkata)
 - **Topics Covered:**
 
   - Random Walk Basics: Definitions, transition probabilities, recurrence vs. transience, and examples.
@@ -65,9 +67,9 @@ This summer reading course introduces the theory of random walks on graphs — a
   The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
   - \* Somarddha Das (B.Stat 3rd Year, ISI Kolkata)
-  - \* Aritrabha Majumdar (B.Math 2nd Year, ISI Bangalore)
-  - \* Daibik Barik (B.Math 2nd Year, ISI Bangalore)
-  - Subhojit Majhi (B.Math 1st Year, ISI Bangalore)
+  - \* Aritrabha Majumdar (B. Math 2nd Year, ISI Bangalore)
+  - \* Daibik Barik (B. Math 2nd Year, ISI Bangalore)
+  - Subhojit Majhi (B. Math 1st Year, ISI Bangalore)
 
 ## Galois Theory
 
@@ -77,7 +79,7 @@ Galois theory as the name suggests was introduced by Galois for studying roots o
   - _Field and Galois Theory_ -- Patrick Morandi
   - _Galois Theory_ -- Ian Stewart
 - **Group Leader:**
-  - Soumya Dasgupta (M.Math 1st Year, ISI Kolkata)
+  - Soumya Dasgupta (M. Math 1st Year, ISI Kolkata)
 - **Topics Covered:**
 
   - Fundamental theorem of Galois theory
@@ -88,8 +90,8 @@ Galois theory as the name suggests was introduced by Galois for studying roots o
 
   The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
-  - \* Arkaprovo Das (B.Math 1st Year, ISI Bangalore)
-  - \* Gauransh Kapur (B.Math 1st Year, ISI Bangalore)
+  - \* Arkaprovo Das (B. Math 1st Year, ISI Bangalore)
+  - \* Gauransh Kapur (B. Math 1st Year, ISI Bangalore)
   - Shounak Kar (B.Stat 1st Year, ISI Kolkata)
 
 ## Analytic Number Theory
@@ -112,10 +114,10 @@ The works of Euler, Dirichlet and Riemann revolutionised the study of number the
 
   The following people, apart from the group leaders, have completed the reading project by going through, in detail, all the assigned parts and participating in the discussions. Students marked (\*) also gave presentations during the project.
 
-  - Aayush Mohan (B.Math 1st Year, ISI Bangalore)
-  - Anjan Majhi (B.Math 1st Year, ISI Bangalore)
-  - Sayan Bhadra (B.Math 1st Year, ISI Bangalore)
-  - Shankha Suvra Dam (B.Math 2nd Year, ISI Bangalore)
+  - Aayush Mohan (B. Math 1st Year, ISI Bangalore)
+  - Anjan Majhi (B. Math 1st Year, ISI Bangalore)
+  - Sayan Bhadra (B. Math 1st Year, ISI Bangalore)
+  - Shankha Suvra Dam (B. Math 2nd Year, ISI Bangalore)
   - Ravi Painuly (B.Stat 1st Year, ISI Kolkata)
   - Sayan Kar (B.Stat 1st Year, ISI Kolkata)
   - Tista Rakshit (B.Sc Mathematics and Computing, IOMA)

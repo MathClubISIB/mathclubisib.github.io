@@ -23,3 +23,6 @@ Anticipate more as we evolve. Share your suggestions via <mathclub.isibang@gmail
 
 Best regards,  
 [Math Club, ISI Bangalore](/)
+
+{{< list title="Latest Updates" limit=4 where="Params.homepageUpdate" value="true" >}}
+

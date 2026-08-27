@@ -1,5 +1,7 @@
 ---
 title: "Category Theory | Fall 2026"
+date: 2026-08-27
+homepageUpdate: "true"
 description: "'Category Theory' Seminar for Fall 2026 at the Math Club at Indian Statistical Institute, Bangalore."
 summary: "9 Lectures | 7 Speakers"
 ---

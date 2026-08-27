@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Winter 2022"
+date: 2022-11-01
+weight: -3
 description: "UDGRP Winter 2022 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "6 Projects | 4 Weeks | 6 Groups | 11 Leaders | 12 Participants"
 ---

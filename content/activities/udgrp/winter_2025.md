@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Winter 2025"
+date: 2025-11-01
+weight: -9
 description: "UDGRP Winter 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "6 Projects | 5 Weeks | 6 Groups | 8 Leaders | 15 Participants"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Submit Articles and Notes"
 description: "Submit Articles and Notes at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Share mathematical articles, expository notes, problem collections, and original solutions with the club."
 ---
 
 {{< katex >}}

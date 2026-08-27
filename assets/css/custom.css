@@ -265,3 +265,13 @@ html {
   font-family: "Computer Modern Sans";
   font-size: 13pt;
 }
+
+#hero-background #background-image {
+  object-fit: contain;
+  background-color: #000;
+}
+
+.inline-link-icon {
+  position: relative;
+  top: -0.12em;
+}

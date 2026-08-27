@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2019"
+date: 2019-02-16
 description: "Expository Talks for the year 2019 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "1 Lecture | 1 Spring Lecture | No Fall Lecture | 1 Speaker"
 ---

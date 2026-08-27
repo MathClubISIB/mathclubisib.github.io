@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2024"
+date: 2024-10-24
 description: "Expository Talks for the year 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "18 Lectures | 5 Spring Lectures | 13 Fall Lectures | 14 Speakers"
 ---

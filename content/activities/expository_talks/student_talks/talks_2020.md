@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2020"
+date: 2020-02-16
 description: "Expository Talks for the year 2020 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "4 Lectures | 4 Spring Lectures | No Fall Lecture | 4 Speakers"
 ---

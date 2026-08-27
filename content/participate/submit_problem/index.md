@@ -1,6 +1,7 @@
 ---
 title: "Submit Problems"
 description: "Submit Problems at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Submit contest questions, puzzles, and general problems together with clear solutions for the website."
 ---
 
 {{< katex >}}

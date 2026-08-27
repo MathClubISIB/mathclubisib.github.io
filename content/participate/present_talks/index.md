@@ -1,6 +1,7 @@
 ---
 title: "Present Talks"
 description: "Present Talks at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Propose an expository talk or lecture series and share mathematics with the ISI Bangalore community."
 ---
 
 Here are a few guidelines you need to follow. To present a talk, fill the form given on the website with the following details:

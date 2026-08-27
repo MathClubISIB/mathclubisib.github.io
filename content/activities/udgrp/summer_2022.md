@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Summer 2022"
+date: 2022-05-01
+weight: -2
 description: "UDGRP Summer 2022 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "6 Projects | 8 Weeks | 6 Groups | 8 Leaders | 14 Participants"
 ---

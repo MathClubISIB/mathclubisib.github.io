@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Summer 2024"
+date: 2024-05-01
+weight: -6
 description: "UDGRP Summer 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "1 Project | 8 Weeks | 1 Group | 1 Leader | 1 Participant"
 ---

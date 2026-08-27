@@ -1,10 +1,12 @@
 ---
 title: "What is ...? | Spring 2024"
+date: 2024-03-09
 description: "'What is ...?' Seminar for Spring 2024 at the Math Club at Indian Statistical Institute, Bangalore."
 summary: "12 Student Lectures | 1 Special Student Lecture | 13 Speakers"
+featureimage: "img/whatis_seminar_banner_2024.jpeg"
+showHero: true
+heroStyle: "background"
 ---
-
-![What Is? Banner](img/WhatIsSeminarBanner_2024.jpeg)
 
 {{< katex >}}
 
@@ -12,7 +14,7 @@ All the videos are available in the playlist [here](https://www.youtube.com/play
 
 ---
 
-## WI2401: What is ?(x)?
+## WI2401: What is \\(?(x)\\)?
 
 - **Speaker:** Aaratrick Basu (B. Math, 2024)
 - **Abstract:** We introduce the function \\(?(x)\\) defined by Minkowski in 1904, and studied quite well since. It is a continuous function on \\([0,1]\\) which has very interesting properties relating to dynamical systems, number theory, integral transforms, and is a rich object as a function itself via analysis of continued fractions and convergents. We give a whirlwind tour of some of these aspects, presenting only the main definitions and results. No prerequisites beyond first-year knowledge of analysis and algebra will be assumed formally, but we do demand accepting certain technical facts on faith.
@@ -121,4 +123,4 @@ All the videos are available in the playlist [here](https://www.youtube.com/play
 
 
 
-**Banner Design Credits:** Ruchira Mukherjee (B.Math, 2025)
+**Banner Design Credits:** Ruchira Mukherjee (B. Math, 2025)

@@ -1,6 +1,7 @@
 ---
 title: "Submit Doubts"
 description: "Submit Doubts at the Students' Math Club at Indian Statistical Institute, Bangalore."
+summary: "Ask a mathematical question and receive help, references, or discussion from the Math Club community."
 ---
 
 {{< katex >}}

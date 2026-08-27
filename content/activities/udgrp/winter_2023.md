@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Winter 2023"
+date: 2023-11-01
+weight: -5
 description: "UDGRP Winter 2023 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "9 Projects | 4 Weeks | 9 Groups | 13 Leaders | 19 Participants"
 ---

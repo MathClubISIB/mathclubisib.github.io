@@ -15,7 +15,7 @@ enableCodeCopy = true
 
 replyByEmail = true
 
-mainSections = ["activities"]
+mainSections = ["activities", "seminars"]
 # robots = ""
 
 disableImageOptimization = false
@@ -51,7 +51,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/activities/"
   cardView = false
   cardViewScreenWidth = false
@@ -83,8 +83,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
-  showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
+  showTaxonomies = false # enable to display categories and tags on articles
+  showCategories = true
+  showTags = true
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]

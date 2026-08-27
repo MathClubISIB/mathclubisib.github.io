@@ -1,5 +1,7 @@
 ---
 title: "UDGRP Winter 2024"
+date: 2024-11-01
+weight: -7
 description: "UDGRP Winter 2024 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "11 Projects | 5 Weeks | 11 Groups | 19 Leaders | 25 Participants"
 ---

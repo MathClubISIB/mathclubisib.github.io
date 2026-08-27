@@ -1,5 +1,7 @@
 ---
 title: "Student Talks 2026"
+date: 2026-08-09
+homepageUpdate: "true"
 description: "Expository Talks for the year 2026 at the Students' Math Club at Indian Statistical Institute, Bangalore"
 summary: "5 Lectures | 3 Spring Lectures | 2 Fall Lectures | 5 Speakers"
 ---

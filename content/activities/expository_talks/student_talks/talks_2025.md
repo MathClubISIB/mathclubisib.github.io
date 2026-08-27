@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2025"
+date: 2025-10-27
 description: "Expository Talks for the year 2025 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "18 Lectures | 6 Spring Lectures | 12 Fall Lectures | 18 Speakers"
 ---

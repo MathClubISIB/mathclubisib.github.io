@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2021"
+date: 2021-10-24
 description: "Expository Talks for the year 2021 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "2 Lectures | No Spring Lecture | 2 Fall Lectures | 2 Speakers"
 ---

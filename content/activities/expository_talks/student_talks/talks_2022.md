@@ -1,5 +1,6 @@
 ---
 title: "Student Talks 2022"
+date: 2022-12-31
 description: "Expository Talks for the year 2022 at the Students' Math Club at Indian Statistical Institute, Bangalore."
 summary: "2 Lectures | 1 Spring Lecture | 1 Fall Lecture | 2 Speakers"
 ---
