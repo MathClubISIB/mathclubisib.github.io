@@ -19,7 +19,7 @@ summary: "9 Lectures | 8 Speakers"
 
 - **Speaker:** Kinshuk Banik (B. Math, 2028)
 - **Abstract:** Natural transformations form the primary notion of maps between functors. We look at a bunch of motivating examples of natural transformations between some common functors. Obtaining the notion of mapping between them, we can start seeing functors as objects of some category, with morphisms being the natural transformations. This is the notion of a functor category. We end with a brief look at representable functors and natural transformations corresponding to them to make way for the Yoneda lemma.
-- **Video:** [TBU]
+- **Video:** Streamed [live](https://youtube.com/@MathClubISIB/live/)
 - **Date and Time:** Saturday, 29th August, 02:30 - 03:30 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
