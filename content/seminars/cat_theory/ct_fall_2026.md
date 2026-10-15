@@ -63,13 +63,14 @@ summary: "9 Lectures | 9 Speakers"
 - **Date and Time:** Sunday, 27th September 2026, 04:30 PM - 06:00 PM
 - **Venue:** 2nd Floor Auditorium, Academic Building
 
-## CT2608: Introduction to \\(\infty\\)-Categories
+## CT2608: Introduction to Higher Categories
 
 - **Speaker:** Boris Dhanjal (ICTS-TIFR)
-- **Abstract:** [TBA]
-- **Video:** [TBU]
-- **Date and Time:** [TBA]
-- **Venue:** [TBA]
+- **Abstract:** We will begin with a concrete question: Can one describe a space as a category? Higher categories will arise naturally as the structures that emerge from this question. We will cover topics leading up to operads and the recognition of loop spaces and \\(A_\infty\\) categories. Time permitting, we can also discuss homotopy categories and localization, then connect this picture with simplicial sets, Kan complexes, and quasi-categories.
+We assume familiarity with ordinary categories and basic topology.
+- **Video:** Available [here](https://youtube.com/live/h9HJClI2FgI)
+- **Date and Time:** Tuesday, 13th October 2026, 05:00 PM - 06:30 PM
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## CT2609: String Theory through \\(\infty\\)-Categories
 
