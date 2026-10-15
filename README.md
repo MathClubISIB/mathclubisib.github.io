@@ -19,3 +19,8 @@
   - [Aaratrick Basu](mailto:aaratrick.r2ab@gmail.com)
   - [Bikram Halder](mailto:bikram0x@outlook.com)
   - [Hrishik Koley](mailto:hrishik.math@outlook.com)
+
+
+ ## About this branch
+
+Kinshuk made this branch to test out things and learn how to use github because he has no clue how it works.
