@@ -16,6 +16,23 @@ All expository talks given by students of ISI Bangalore in the year 2026 at our 
 Fall 2026
 {{< /lead >}}
 
+## EP2608: Chebotarev Density Theorem
+
+- **Speaker:** Gauransh Kapur (B. Math, 2027)
+- **Abstract:** Dirichlet's Theorem on Primes in Arithmetic Progression states that there are infinitely many primes of the form \\(a+nb\\) for coprime \\(a,b\\) and gives their density as \\(1/\phi(b)\\) where \\(\phi\\) is the Euler totient function. Chebotarev's theorem is one of the many generalisations of this result. It is a foundational result in class field theory and has many applications to the theory of Elliptic Curves and Galois Representations. We recap some Galois theory and algebraic number theory, define the Artin symbol, and talk about ramification in relative extensions. We also prove some applications of this theorem, such as Dirichlet's Theorem and uniqueness of Galois extensions with the same set of totally split primes (up to finite difference, will be made precise).
+If time permits, we talk about the decomposition of integer polynomials modulo primes and sketch the proof that a primitive positive definite quadratic form represents infinitely many primes.
+- **Video:** [TBU]
+- **Date and TIme:** Sunday, 11th October 2026, 11 am - 12:30 pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
+
+## EP2608: Convex Bodies and Brunn-Minkowski Theory
+
+- **Speaker:** Ramdas Singh (B. Math, 2027)
+- **Abstract:** Convex bodies are concrete geometric objects, but their collection \\(\mathcal{K}^n\\) carries a rich algebraic structure under Minkowski addition. This talk explores the linear and metric properties of \\(\mathcal{K}^n\\), specifically its isometric embedding into the Banach space of continuous functions on the unit sphere. We then pivot to the irreducibly non-linear behavior of volume to prove the Brunn-Minkowski inequality. Finally, we will leverage this concavity to establish the isoperimetric inequality, confirming the Euclidean ball has the smallest surface area for a given volume. Some elementary results from functional analysis, topology, and measure theory will be used, but all necessary prerequisites will be stated without proof.
+- **Video:** [TBU]
+- **Date and TIme:** Saturday, 10th October 2026, 11 am - 12:30 pm
+- **Venue:** G-26 Classroom, Academic Building
+
 ## EP2607: Curve Shortening Flow: Curvature, Diffusion and the Evolution of Plane Curves
 
 - **Speaker:** Kanak Nilesh Sanghvi (B. Math, 2027)
