@@ -3,7 +3,7 @@ title: "Student Talks 2026"
 date: 2026-09-28
 homepageUpdate: "true"
 description: "Expository Talks for the year 2026 at the Students' Math Club at Indian Statistical Institute, Bangalore"
-summary: "7 Lectures | 3 Spring Lectures | 4 Fall Lectures | 7 Speakers"
+summary: "9 Lectures | 3 Spring Lectures | 6 Fall Lectures | 8 Speakers"
 ---
 
 {{< katex >}}
@@ -16,7 +16,7 @@ All expository talks given by students of ISI Bangalore in the year 2026 at our 
 Fall 2026
 {{< /lead >}}
 
-## EP2608: Chebotarev Density Theorem
+## EP2609: Chebotarev Density Theorem
 
 - **Speaker:** Gauransh Kapur (B. Math, 2027)
 - **Abstract:** Dirichlet's Theorem on Primes in Arithmetic Progression states that there are infinitely many primes of the form \\(a+nb\\) for coprime \\(a,b\\) and gives their density as \\(1/\phi(b)\\) where \\(\phi\\) is the Euler totient function. Chebotarev's theorem is one of the many generalisations of this result. It is a foundational result in class field theory and has many applications to the theory of Elliptic Curves and Galois Representations. We recap some Galois theory and algebraic number theory, define the Artin symbol, and talk about ramification in relative extensions. We also prove some applications of this theorem, such as Dirichlet's Theorem and uniqueness of Galois extensions with the same set of totally split primes (up to finite difference, will be made precise).
