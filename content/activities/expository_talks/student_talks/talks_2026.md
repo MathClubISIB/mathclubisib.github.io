@@ -3,7 +3,7 @@ title: "Student Talks 2026"
 date: 2026-09-28
 homepageUpdate: "true"
 description: "Expository Talks for the year 2026 at the Students' Math Club at Indian Statistical Institute, Bangalore"
-summary: "9 Lectures | 3 Spring Lectures | 6 Fall Lectures | 8 Speakers"
+summary: "10 Lectures | 3 Spring Lectures | 7 Fall Lectures | 9 Speakers"
 ---
 
 {{< katex >}}
@@ -15,6 +15,14 @@ All expository talks given by students of ISI Bangalore in the year 2026 at our 
 {{< lead >}}
 Fall 2026
 {{< /lead >}}
+
+## EP2610: An Introduction to the Circle Method and Vinogradov's Three-Prime Theorem
+
+- **Speaker:** Anshul Raj Singh (B. Math, 2027)
+- **Abstract:** Vinogradov's three-prime theorem gives an asymptotic formula for the weighted number of representations of an odd positive integer as a sum of three primes. As a corollary, it establishes the ternary Goldbach conjecture for sufficiently large odd integers, which states that every odd integer greater than five can be expressed as the sum of three primes. In this talk, we will first introduce the Hardy–Littlewood circle method, then reformulate the statement of the theorem in the framework of the circle method. We will then briefly discuss exponential sums over primes before sketching the proof of Vinogradov's theorem.
+- **Video:** [TBU]
+- **Date and TIme:** Saturday, 24th October 2026, 11 am - 12:30 pm
+- **Venue:** 2nd Floor Auditorium, Academic Building
 
 ## EP2609: Chebotarev Density Theorem
 
