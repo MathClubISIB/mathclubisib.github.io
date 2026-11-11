@@ -1,3 +1,4 @@
+disabled = false
 locale = "en"
 label = "English"
 weight = 1
